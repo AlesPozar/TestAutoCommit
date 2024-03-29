@@ -1,4 +1,2 @@
-Number of characters written: 1
+Number of characters written: 0
 Times rewritten: 0
-
-t
