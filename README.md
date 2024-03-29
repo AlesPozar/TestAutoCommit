@@ -1,4 +1,4 @@
-Number of characters written: 2
+Number of characters written: 3
 Times rewritten: 0
 
-t
+ts
