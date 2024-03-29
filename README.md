@@ -1,4 +1,3 @@
-Number of characters written: 3
-Times rewritten: 7
+Number of characters written: 1
+Times rewritten: 8
 
-ts
