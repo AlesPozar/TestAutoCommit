@@ -1,3 +1,4 @@
-Number of characters written: 1
+Number of characters written: 2
 Times rewritten: 5
 
+t
