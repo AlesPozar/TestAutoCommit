@@ -1,2 +1,2 @@
-# TestAutoCommit
-Repository to test auto commits to github
+Number of characters written: 0
+Times rewritten: 0
