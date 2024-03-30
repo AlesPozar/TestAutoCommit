@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1756
+<pre>Number of characters written: 1757
 Times rewritten: 0
 
 
@@ -38,4 +38,4 @@ saying "DreamWorks Pictures Presents" and "A PDI/DreamWorks Production" appear.)
 begins reading its text)
 
 Shrek: Once upon a time there was a lovely princess. But she had an enchantment upon her of a fearful 
-sort which could only be broken by love's first kiss. She was locked away in a castle guard
+sort which could only be broken by love's first kiss. She was locked away in a castle guarde
