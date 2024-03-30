@@ -1,4 +1,4 @@
-<pre>Number of characters written: 10209
+<pre>Number of characters written: 10210
 Times rewritten: 0
 
 
@@ -252,4 +252,4 @@ leaking out of my butt that day.
 
 Shrek: Why are you following me?
 
-Donkey: I'll tell you why. (drops from the log. Singing) "'Cause I'
+Donkey: I'll tell you why. (drops from the log. Singing) "'Cause I'm
