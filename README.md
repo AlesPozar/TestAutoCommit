@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5568
+<pre>Number of characters written: 5569
 Times rewritten: 0
 
 
@@ -134,4 +134,4 @@ dwarves being loaded into a wagon)
 
 Guard: Sit down there! Keep quiet!
 
-Mama Bear and Papa Bear are locked inside giant cages, with Little Bear in his o
+Mama Bear and Papa Bear are locked inside giant cages, with Little Bear in his ow
