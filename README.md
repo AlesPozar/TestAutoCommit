@@ -1,4 +1,4 @@
-<pre>Number of characters written: 2833
+<pre>Number of characters written: 2834
 Times rewritten: 0
 
 
@@ -56,3 +56,4 @@ bathing in a muddy pond, gathering giant slugs for dinner, and painting a warnin
 
 (In a nearby village, an angry mob gather up to go after Shrek. At night they gather their torches and 
 pitchforks and enter the swamp, trampling over Shrek's warning signs. It’s fun to use our imagination, 
+S
