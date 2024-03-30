@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3870
+<pre>Number of characters written: 3871
 Times rewritten: 0
 
 
@@ -88,4 +88,4 @@ Villager 1: Back! Back, beast! Back! I warn ya!
 (The villager waves his torch in Shrek's face. Shrek casually licks his fingers and pinches the flame, 
 extinguishing the torch. The villager drops it)
 
-Vil
+Vill
