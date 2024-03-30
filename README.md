@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5405
+<pre>Number of characters written: 5406
 Times rewritten: 0
 
 
@@ -129,4 +129,4 @@ Villager: Lousy 20 pieces.
 
 Guard: Get up! Come on!
 
-(Waiting in line is Donkey on a leash and his owner. He looks in horror at the witch and a gro
+(Waiting in line is Donkey on a leash and his owner. He looks in horror at the witch and a grou
