@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5127
+<pre>Number of characters written: 5128
 Times rewritten: 0
 
 
@@ -120,4 +120,4 @@ The Captain: Next!
 
 Guard: (Taking the witch's broom) Give me that! Your flying days are over. (breaks the broom in half)
 
-The Captain: That's 20 pieces of silver for the wit
+The Captain: That's 20 pieces of silver for the witc
