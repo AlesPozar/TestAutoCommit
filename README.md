@@ -1,4 +1,4 @@
-<pre>Number of characters written: 11286
+<pre>Number of characters written: 11287
 Times rewritten: 0
 
 
@@ -283,4 +283,4 @@ Donkey: Shrek? Well, you know what I like about you, Shrek? You got that kind of
 (they come over a hill overlooking Shrek's swamp) Woo, look at that! Who'd want to live in place like that?
 
 Shrek: (annoyed) That would be my home.
-
+
