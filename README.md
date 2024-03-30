@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4553
+<pre>Number of characters written: 4554
 Times rewritten: 0
 
 
@@ -109,4 +109,4 @@ SHREK: "Wanted. Fairytale creatures"?
 
 THE NEXT DAY - FOREST
 
-Fairy tale creatures are put in chains and led into wagons
+Fairy tale creatures are put in chains and led into wagons 
