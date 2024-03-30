@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4256
+<pre>Number of characters written: 4257
 Times rewritten: 0
 
 
@@ -99,4 +99,4 @@ Villagers: (gasping)
 
 (Shrek laughs as the men drop their torches and pitchforks and run away as fast they can)
 
-Shrek: And st
+Shrek: And sta
