@@ -1,4 +1,4 @@
-<pre>Number of characters written: 12423
+<pre>Number of characters written: 12424
 Times rewritten: 0
 
 
@@ -314,4 +314,4 @@ Donkey: Ah! Thank you! (he runs inside the hut)
 
 Shrek: Ah! What are you...no! (Donkey hops up onto a chair.) No!
 
-Donkey: This is gonna be fun! We
+Donkey: This is gonna be fun! We 
