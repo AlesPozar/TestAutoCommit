@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5246
+<pre>Number of characters written: 5247
 Times rewritten: 0
 
 
@@ -123,4 +123,4 @@ Guard: (Taking the witch's broom) Give me that! Your flying days are over. (brea
 The Captain: That's 20 pieces of silver for the witch. Next!
 
 (The captain hands over the reward to the villager who turned the witch in. 
-The villager mutters to hims
+The villager mutters to himse
