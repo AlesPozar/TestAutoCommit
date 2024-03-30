@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7017
+<pre>Number of characters written: 7018
 Times rewritten: 0
 
 
@@ -178,4 +178,4 @@ The Captain: Get her out of my sight.
 Old Woman: No, no! I swear! Oh! He can talk!
 
 (The guards grab the old woman and she struggles with them. One of her legs flies out and kicks Tinkerbell 
-out of Peter Pan's hands, and her cage drops on Donkey's head. He gets sprinkled wit
+out of Peter Pan's hands, and her cage drops on Donkey's head. He gets sprinkled with
