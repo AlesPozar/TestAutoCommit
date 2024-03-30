@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5580
+<pre>Number of characters written: 5581
 Times rewritten: 0
 
 
@@ -136,4 +136,4 @@ Guard: Sit down there! Keep quiet!
 
 Mama Bear and Papa Bear are locked inside giant cages, with Little Bear in his own cage
 
-L
+Li
