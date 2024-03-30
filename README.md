@@ -1,4 +1,4 @@
-<pre>Number of characters written: 2651
+<pre>Number of characters written: 2652
 Times rewritten: 0
 
 
@@ -54,4 +54,4 @@ underwear and shakes his foot of the page still stuck to his shoe. He looks lovi
 home, and goes about his daily routine. Which is taking a mud shower, brushing his teeth with bugs, 
 bathing in a muddy pond, gathering giant slugs for dinner, and painting a warning sign)
 
-(In a nearby village, an ang
+(In a nearby village, an angr
