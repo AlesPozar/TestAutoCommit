@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5911
+<pre>Number of characters written: 5912
 Times rewritten: 0
 
 
@@ -147,4 +147,4 @@ The Captain: Next! What have you got?
 
 Geppetto: This little wooden puppet.
 
-Pinocchio: I’m a real boy. (hi
+Pinocchio: I’m a real boy. (his
