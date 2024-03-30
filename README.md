@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3494
+<pre>Number of characters written: 3495
 Times rewritten: 0
 
 
@@ -77,4 +77,4 @@ Shrek: Yes, well, actually, that would be a giant.
 
 Shrek: Now, ogres, oh they're much worse. They'll make a suit from your freshly peeled skin...
 
-(Shrek slowly approac
+(Shrek slowly approach
