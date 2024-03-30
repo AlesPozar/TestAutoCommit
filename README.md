@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4504
+<pre>Number of characters written: 4505
 Times rewritten: 0
 
 
@@ -109,4 +109,4 @@ SHREK: "Wanted. Fairytale creatures"?
 
 THE NEXT DAY - FOREST
 
-Fairy tal
+Fairy tale
