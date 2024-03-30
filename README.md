@@ -1,4 +1,4 @@
-<pre>Number of characters written: 6644
+<pre>Number of characters written: 6645
 Times rewritten: 0
 
 
@@ -170,4 +170,4 @@ Old Woman: Oh, oh, he's just...he's just a little nervous. He's really quite a c
 
 The Captain: That's it. I've heard enough. Guards!
 
-Old Woman: No, no, he talks! He does. (Moving Do
+Old Woman: No, no, he talks! He does. (Moving Don
