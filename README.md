@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1145
+<pre>Number of characters written: 1146
 Times rewritten: 0
 
 
@@ -32,4 +32,4 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 
-(The Dream
+(The DreamW
