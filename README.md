@@ -1,4 +1,4 @@
-<pre>Number of characters written: 8325
+<pre>Number of characters written: 8326
 Times rewritten: 0
 
 
@@ -214,4 +214,4 @@ a designated...resettlement...facility?
 
 Shrek: Oh, really? You and what army? (smiles)
 
-(The Captain looks behind himself an
+(The Captain looks behind himself and
