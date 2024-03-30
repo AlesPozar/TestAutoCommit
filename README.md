@@ -1,4 +1,4 @@
-<pre>Number of characters written: 9857
+<pre>Number of characters written: 9858
 Times rewritten: 0
 
 
@@ -245,4 +245,4 @@ certainly will get the job done, 'cause you definitely need some Tic Tacs or som
 'cause your breath stinks!
 
 (Shrek walks off. Donkey reappears ahead of him, dangling from a felled log)
-
+
