@@ -1,4 +1,4 @@
-<pre>Number of characters written: 10683
+<pre>Number of characters written: 10684
 Times rewritten: 0
 
 
@@ -264,4 +264,4 @@ Shrek: Listen, little donkey. Take a look at me. What am I?
 
 Donkey: (looks all the way up at Shrek, friendly hug?) Uh...really tall?
 
-Shrek: I'm a
+Shrek: I'm an
