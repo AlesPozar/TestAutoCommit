@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3888
+<pre>Number of characters written: 3889
 Times rewritten: 0
 
 
@@ -89,4 +89,4 @@ Villager 1: Back! Back, beast! Back! I warn ya!
 extinguishing the torch. The villager drops it)
 
 Villager 1: Right.
-
+
