@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1061
+<pre>Number of characters written: 1062
 Times rewritten: 0
 
 
@@ -29,4 +29,4 @@ Times rewritten: 0
 
 ---------------------------------------------------------------------
 _____________________________________________________________________
-_
+__
