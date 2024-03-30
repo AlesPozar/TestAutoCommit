@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5984
+<pre>Number of characters written: 5985
 Times rewritten: 0
 
 
@@ -149,4 +149,4 @@ Geppetto: This little wooden puppet.
 
 Pinocchio: I’m a real boy. (his nose grows)
 
-The Captain: 5 shillings for the possessed toy. Take it 
+The Captain: 5 shillings for the possessed toy. Take it a
