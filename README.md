@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1433
+<pre>Number of characters written: 1434
 Times rewritten: 0
 
 
@@ -34,4 +34,4 @@ _____________________________________________________________________
 the S's in "DreamWorks" and "SKG" turn green and grow out ogre ears, matching the film's logo. Credits 
 saying "DreamWorks Pictures Presents" and "A PDI/DreamWorks Production" appear.)
 
-(A ra
+(A ray
