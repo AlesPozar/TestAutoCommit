@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3085
+<pre>Number of characters written: 3086
 Times rewritten: 0
 
 
@@ -63,4 +63,4 @@ NIGHT - NEAR SHREK'S SWAMP
 
 Villager 1: Think it's in there?
 
-Villager 2: All right. L
+Villager 2: All right. Le
