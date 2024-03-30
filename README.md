@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5799
+<pre>Number of characters written: 5800
 Times rewritten: 0
 
 
@@ -142,4 +142,4 @@ Donkey: (To his owner) Please, don't turn me in. I'll never be stubborn again. I
 Give me another chance!
 
 Old Woman: Oh, shut up. (smacks Donkey)
-
+
