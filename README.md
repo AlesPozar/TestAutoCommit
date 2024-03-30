@@ -1,4 +1,4 @@
-<pre>Number of characters written: 6542
+<pre>Number of characters written: 6543
 Times rewritten: 0
 
 
@@ -168,3 +168,4 @@ The Captain: Well?
 Old Woman: Oh, oh, he's just...he's just a little nervous. He's really quite a chatterbox. 
 (Smacks Donkey again) Talk, you boneheaded dolt, talk!
 
+T
