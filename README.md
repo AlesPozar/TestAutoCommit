@@ -1,4 +1,4 @@
-<pre>Number of characters written: 8686
+<pre>Number of characters written: 8687
 Times rewritten: 0
 
 
@@ -221,4 +221,4 @@ Donkey, impressed by Shrek, follows him)
 Donkey: Can I say something to you? Listen, you was really, really, really somethin' back here. 
 Incredible!
 
-Shrek: Are you talking to...(he turns around and D
+Shrek: Are you talking to...(he turns around and Do
