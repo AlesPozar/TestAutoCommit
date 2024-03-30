@@ -1,4 +1,4 @@
-<pre>Number of characters written: 10556
+<pre>Number of characters written: 10557
 Times rewritten: 0
 
 
@@ -260,4 +260,4 @@ Shrek: Stop singing! (picks up Donkey by his ears and tail) Well, it's no wonder
 
 Donkey: Wow. Only a true friend would be that truly honest.
 
-Shrek: Listen, little do
+Shrek: Listen, little don
