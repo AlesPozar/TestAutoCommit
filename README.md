@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7105
+<pre>Number of characters written: 7106
 Times rewritten: 0
 
 
@@ -183,4 +183,4 @@ fairy dust and starts floating upwards)
 
 Donkey: Hey! I can fly!
 
-Peter Pan: She
+Peter Pan: She 
