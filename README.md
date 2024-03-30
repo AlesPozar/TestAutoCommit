@@ -1,4 +1,4 @@
-<pre>Number of characters written: 2821
+<pre>Number of characters written: 2822
 Times rewritten: 0
 
 
@@ -55,4 +55,4 @@ home, and goes about his daily routine. Which is taking a mud shower, brushing h
 bathing in a muddy pond, gathering giant slugs for dinner, and painting a warning sign)
 
 (In a nearby village, an angry mob gather up to go after Shrek. At night they gather their torches and 
-pitchforks and enter the swamp, trampling over Shrek's warning signs. It’s fun to use our ima
+pitchforks and enter the swamp, trampling over Shrek's warning signs. It’s fun to use our imag
