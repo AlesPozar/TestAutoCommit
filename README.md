@@ -1,6 +1,6 @@
-Number of characters written: 9
+Number of characters written: 10
 Times rewritten: 0
 
 
 
-⢀⡴⠑
+⢀⡴⠑⡄
