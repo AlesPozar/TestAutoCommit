@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5300
+<pre>Number of characters written: 5301
 Times rewritten: 0
 
 
@@ -127,4 +127,4 @@ The villager mutters to himself)
 
 Villager: Lousy 20 pieces.
 
-Guard: Get up! C
+Guard: Get up! Co
