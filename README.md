@@ -1,4 +1,4 @@
-<pre>Number of characters written: 6775
+<pre>Number of characters written: 6776
 Times rewritten: 0
 
 
@@ -174,4 +174,4 @@ Old Woman: No, no, he talks! He does. (Moving Donkey's lips) I can talk. I love 
 talking-est damn thing you ever saw.
 
 The Captain: Get her out of my sight.
-
+
