@@ -1,4 +1,4 @@
-<pre>Number of characters written: 11568
+<pre>Number of characters written: 11569
 Times rewritten: 0
 
 
@@ -288,4 +288,4 @@ Donkey: Oh! And it is lovely! Just beautiful. You know you are quite a decorator
 done with such a modest budget. I like that boulder. That is a nice boulder. 
 (looks at Shrek's "keep out" signs) I guess you don't entertain much, do you?
 
-Shrek: I lik
+Shrek: I like
