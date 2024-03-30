@@ -1,4 +1,4 @@
-<pre>Number of characters written: 12073
+<pre>Number of characters written: 12074
 Times rewritten: 0
 
 
@@ -304,4 +304,4 @@ Donkey: Really?
 
 Shrek: No.
 
-Donkey: Please! I don't wanna go back there! You don't know what it's like to be considere
+Donkey: Please! I don't wanna go back there! You don't know what it's like to be considered
