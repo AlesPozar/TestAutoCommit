@@ -1,4 +1,4 @@
-<pre>Number of characters written: 11134
+<pre>Number of characters written: 11135
 Times rewritten: 0
 
 
@@ -280,4 +280,4 @@ Shrek: Uh, Shrek.
 
 Donkey: Shrek? Well, you know what I like about you, Shrek? You got that kind of 
 "I-don't-care-what-nobody-thinks-of-me" thing. I like that. I respect that, Shrek. You're all right. 
-(
+(t
