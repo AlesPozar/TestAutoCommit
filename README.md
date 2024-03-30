@@ -1,4 +1,4 @@
-<pre>Number of characters written: 11465
+<pre>Number of characters written: 11466
 Times rewritten: 0
 
 
@@ -285,4 +285,4 @@ Donkey: Shrek? Well, you know what I like about you, Shrek? You got that kind of
 Shrek: (annoyed) That would be my home.
 
 Donkey: Oh! And it is lovely! Just beautiful. You know you are quite a decorator. It's amazing what you've 
-done with such a modest budget. I like that boulder. That is a nice b
+done with such a modest budget. I like that boulder. That is a nice bo
