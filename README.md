@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5012
+<pre>Number of characters written: 5013
 Times rewritten: 0
 
 
@@ -118,4 +118,4 @@ Guard: All right. This one's full. Take it away! Move it along. Come on! Get up!
 
 The Captain: Next!
 
-Guard: (Taking the witch's broom) Give me
+Guard: (Taking the witch's broom) Give me 
