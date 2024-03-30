@@ -1,4 +1,4 @@
-<pre>Number of characters written: 11882
+<pre>Number of characters written: 11883
 Times rewritten: 0
 
 
@@ -296,4 +296,4 @@ And there's that big awkward silence you know? (awkward silence) Can I stay with
 
 Shrek: Uh, what?
 
-Donkey: C
+Donkey: Ca
