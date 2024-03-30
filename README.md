@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7163
+<pre>Number of characters written: 7164
 Times rewritten: 0
 
 
@@ -187,4 +187,4 @@ Peter Pan: She can fly!
 
 3 Little Pigs: She can fly!
 
-The Captain: S
+The Captain: Sh
