@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1604
+<pre>Number of characters written: 1605
 Times rewritten: 0
 
 
@@ -37,4 +37,4 @@ saying "DreamWorks Pictures Presents" and "A PDI/DreamWorks Production" appear.)
 (A ray of light shines down on a leather-bound storybook. The book opens and a Scottish-accented voice 
 begins reading its text)
 
-Shrek: Once upon a time there was a lovely 
+Shrek: Once upon a time there was a lovely p
