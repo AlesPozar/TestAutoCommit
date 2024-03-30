@@ -1,4 +1,4 @@
-<pre>Number of characters written: 10343
+<pre>Number of characters written: 10344
 Times rewritten: 0
 
 
@@ -254,3 +254,4 @@ Shrek: Why are you following me?
 
 Donkey: I'll tell you why. (drops from the log. Singing) "'Cause I'm all alone, There's no one here beside
  me, My problems have all gone, There's no one to deride me, But you gotta have friends..."
+
