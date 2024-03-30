@@ -1,4 +1,4 @@
-<pre>Number of characters written: 12284
+<pre>Number of characters written: 12285
 Times rewritten: 0
 
 
@@ -310,4 +310,4 @@ You gotta let me stay! Please! Please!
 
 Shrek: Okay. Because one night only.
 
-Donkey: Ah! 
+Donkey: Ah! T
