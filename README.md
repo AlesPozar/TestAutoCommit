@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7382
+<pre>Number of characters written: 7383
 Times rewritten: 0
 
 
@@ -191,4 +191,4 @@ The Captain: She can talk!
 
 Donkey: Ha, ha! That's right, fool! Now I'm a flying, talking donkey. You might have seen a housefly, 
 maybe even a superfly but I bet you ain't never seen a donkey fly. Ha, ha! 
-(The pixie dust's effe
+(The pixie dust's effec
