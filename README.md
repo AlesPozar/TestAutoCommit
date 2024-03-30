@@ -1,4 +1,4 @@
-<pre>Number of characters written: 6776
+<pre>Number of characters written: 6777
 Times rewritten: 0
 
 
@@ -175,3 +175,4 @@ talking-est damn thing you ever saw.
 
 The Captain: Get her out of my sight.
 
+O
