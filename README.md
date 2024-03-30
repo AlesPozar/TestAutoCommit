@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4865
+<pre>Number of characters written: 4866
 Times rewritten: 0
 
 
@@ -114,3 +114,4 @@ Duloc Guards sits at a table paying a line of people their rewards for turning i
 Those waiting in line include Peter Pan, who is carrying Tinkerbell in a cage, Geppetto who is carrying
 Pinocchio, and a farmer carrying the Three Little Pigs.
 
+G
