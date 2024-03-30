@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7130
+<pre>Number of characters written: 7131
 Times rewritten: 0
 
 
@@ -185,4 +185,4 @@ Donkey: Hey! I can fly!
 
 Peter Pan: She can fly!
 
-3 Little Pig
+3 Little Pigs
