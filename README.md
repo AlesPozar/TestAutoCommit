@@ -1,4 +1,4 @@
-<pre>Number of characters written: 9872
+<pre>Number of characters written: 9873
 Times rewritten: 0
 
 
@@ -246,4 +246,4 @@ certainly will get the job done, 'cause you definitely need some Tic Tacs or som
 
 (Shrek walks off. Donkey reappears ahead of him, dangling from a felled log)
 
-Donkey: Man, y
+Donkey: Man, yo
