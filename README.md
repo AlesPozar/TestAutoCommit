@@ -1,4 +1,4 @@
-<pre>Number of characters written: 11301
+<pre>Number of characters written: 11302
 Times rewritten: 0
 
 
@@ -284,4 +284,4 @@ Donkey: Shrek? Well, you know what I like about you, Shrek? You got that kind of
 
 Shrek: (annoyed) That would be my home.
 
-Donkey: Oh! An
+Donkey: Oh! And
