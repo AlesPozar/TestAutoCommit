@@ -1,4 +1,4 @@
-<pre>Number of characters written: 12246
+<pre>Number of characters written: 12247
 Times rewritten: 0
 
 
@@ -308,4 +308,4 @@ Donkey: Please! I don't wanna go back there! You don't know what it's like to be
 (Donkey pushes Shrek up against the door) Well, maybe you do. But that's why we gotta stick together. 
 You gotta let me stay! Please! Please!
 
-Shrek: Okay. B
+Shrek: Okay. Be
