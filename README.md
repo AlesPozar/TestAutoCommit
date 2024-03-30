@@ -1,4 +1,4 @@
-<pre>Number of characters written: 12624
+<pre>Number of characters written: 12625
 Times rewritten: 0
 
 
@@ -323,4 +323,4 @@ Donkey: Where do, uh, I sleep?
 
 Shrek: (irritated) Outside!
 
-Donkey: Oh, 
+Donkey: Oh, w
