@@ -1,4 +1,4 @@
-<pre>Number of characters written: 8287
+<pre>Number of characters written: 8288
 Times rewritten: 0
 
 
@@ -213,3 +213,4 @@ The Captain: By the order of Lord Farquaad, I am authorized to place you both un
 a designated...resettlement...facility?
 
 Shrek: Oh, really? You and what army? (smiles)
+
