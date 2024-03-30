@@ -1,4 +1,4 @@
-<pre>Number of characters written: 11785
+<pre>Number of characters written: 11786
 Times rewritten: 0
 
 
@@ -292,4 +292,4 @@ Shrek: I like my privacy.
 
 Donkey: You know, I do too. That's another thing we have in common. Like I hate it when you got somebody in 
 your face. You're trying to give them a hint and they won't leave. 
-And there's that big 
+And there's that big a
