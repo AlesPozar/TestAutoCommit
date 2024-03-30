@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1143
+<pre>Number of characters written: 1144
 Times rewritten: 0
 
 
@@ -32,4 +32,4 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 
-(The Dre
+(The Drea
