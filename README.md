@@ -1,4 +1,4 @@
-<pre>Number of characters written: 10104
+<pre>Number of characters written: 10105
 Times rewritten: 0
 
 
@@ -249,3 +249,4 @@ certainly will get the job done, 'cause you definitely need some Tic Tacs or som
 Donkey: Man, you almost burned the hair outta my nose, just like the time...(Shrek covers his mouth but 
 Donkey continues to talk. Shrek removes his hand) ...then I ate some rotten berries. I had strong gases 
 leaking out of my butt that day.
+
