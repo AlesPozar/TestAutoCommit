@@ -1,6 +1,6 @@
-<pre>Number of characters written: 5
+<pre>Number of characters written: 6
 Times rewritten: 0
 
 
 
-
+
