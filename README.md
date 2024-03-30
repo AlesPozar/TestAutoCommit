@@ -1,4 +1,4 @@
-<pre>Number of characters written: 10916
+<pre>Number of characters written: 10917
 Times rewritten: 0
 
 
@@ -274,4 +274,4 @@ Donkey: Really, really.
 
 Shrek: (taken aback) Oh.
 
-Donkey: Man, I like you. What's your
+Donkey: Man, I like you. What's your 
