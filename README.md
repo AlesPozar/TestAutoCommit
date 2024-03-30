@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4476
+<pre>Number of characters written: 4477
 Times rewritten: 0
 
 
@@ -107,4 +107,4 @@ SHREK: "Wanted. Fairytale creatures"?
 
 (He sighs and walks off. dropping the poster to the ground)
 
-THE NE
+THE NEX
