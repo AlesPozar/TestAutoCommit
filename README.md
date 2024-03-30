@@ -1,4 +1,4 @@
-<pre>Number of characters written: 11583
+<pre>Number of characters written: 11584
 Times rewritten: 0
 
 
@@ -289,3 +289,4 @@ done with such a modest budget. I like that boulder. That is a nice boulder.
 (looks at Shrek's "keep out" signs) I guess you don't entertain much, do you?
 
 Shrek: I like my privacy.
+
