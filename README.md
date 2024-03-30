@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5491
+<pre>Number of characters written: 5492
 Times rewritten: 0
 
 
@@ -134,4 +134,4 @@ dwarves being loaded into a wagon)
 
 Guard: Sit down there! Keep quiet!
 
-Mam
+Mama
