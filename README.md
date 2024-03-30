@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5851
+<pre>Number of characters written: 5852
 Times rewritten: 0
 
 
@@ -145,4 +145,4 @@ Old Woman: Oh, shut up. (smacks Donkey)
 
 The Captain: Next! What have you got?
 
-Geppetto: 
+Geppetto: T
