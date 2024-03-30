@@ -1,4 +1,4 @@
-<pre>Number of characters written: 6429
+<pre>Number of characters written: 6430
 Times rewritten: 0
 
 
@@ -165,4 +165,4 @@ Old Woman: Oh, go ahead, little fella. (Donkey stays silent)
 
 The Captain: Well?
 
-Old Woman: Oh, oh, he's just...he's ju
+Old Woman: Oh, oh, he's just...he's jus
