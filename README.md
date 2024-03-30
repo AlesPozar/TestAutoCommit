@@ -1,4 +1,4 @@
-<pre>Number of characters written: 10119
+<pre>Number of characters written: 10120
 Times rewritten: 0
 
 
@@ -250,4 +250,4 @@ Donkey: Man, you almost burned the hair outta my nose, just like the time...(Shr
 Donkey continues to talk. Shrek removes his hand) ...then I ate some rotten berries. I had strong gases 
 leaking out of my butt that day.
 
-Shrek: Why ar
+Shrek: Why are
