@@ -1,4 +1,4 @@
-<pre>Number of characters written: 11017
+<pre>Number of characters written: 11018
 Times rewritten: 0
 
 
@@ -278,4 +278,4 @@ Donkey: Man, I like you. What's your name?
 
 Shrek: Uh, Shrek.
 
-Donkey: Shrek? Well, you know what I like about you, Shrek? You got th
+Donkey: Shrek? Well, you know what I like about you, Shrek? You got tha
