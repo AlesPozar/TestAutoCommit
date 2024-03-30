@@ -1,4 +1,4 @@
-<pre>Number of characters written: 8501
+<pre>Number of characters written: 8502
 Times rewritten: 0
 
 
@@ -216,4 +216,4 @@ Shrek: Oh, really? You and what army? (smiles)
 
 (The Captain looks behind himself and sees that all the other guards have abandoned him. The Captain 
 tucks tail and runs off. Shrek shakes his head and starts walking back to his swamp. 
-Donkey, impressed by S
+Donkey, impressed by Sh
