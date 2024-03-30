@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7343
+<pre>Number of characters written: 7344
 Times rewritten: 0
 
 
@@ -190,4 +190,4 @@ Peter Pan: She can fly!
 The Captain: She can talk!
 
 Donkey: Ha, ha! That's right, fool! Now I'm a flying, talking donkey. You might have seen a housefly, 
-maybe even a superfly but I bet you ain't never seen a donke
+maybe even a superfly but I bet you ain't never seen a donkey
