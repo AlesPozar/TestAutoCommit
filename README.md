@@ -1,4 +1,4 @@
-<pre>Number of characters written: 6138
+<pre>Number of characters written: 6139
 Times rewritten: 0
 
 
@@ -155,4 +155,4 @@ Pinocchio: Father, please! Don't let them do this! Help me!
 
 (Geppetto takes the money and walks off. The old woman steps up to the table)
 
-T
+Th
