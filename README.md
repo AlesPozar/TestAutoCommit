@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7261
+<pre>Number of characters written: 7262
 Times rewritten: 0
 
 
@@ -189,4 +189,4 @@ Peter Pan: She can fly!
 
 The Captain: She can talk!
 
-Donkey: Ha, ha! That's right, fool! Now I'm a flying, talking donkey. You might ha
+Donkey: Ha, ha! That's right, fool! Now I'm a flying, talking donkey. You might hav
