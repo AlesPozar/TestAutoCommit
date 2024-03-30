@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7473
+<pre>Number of characters written: 7474
 Times rewritten: 0
 
 
@@ -193,3 +193,4 @@ Donkey: Ha, ha! That's right, fool! Now I'm a flying, talking donkey. You might 
 maybe even a superfly but I bet you ain't never seen a donkey fly. Ha, ha! 
 (The pixie dust's effects begin to wear off) Uh-oh. 
 (He drops out of the air and hits the ground with a thud)
+
