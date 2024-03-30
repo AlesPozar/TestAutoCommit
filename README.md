@@ -1,4 +1,4 @@
-<pre>Number of characters written: 8523
+<pre>Number of characters written: 8524
 Times rewritten: 0
 
 
@@ -218,3 +218,4 @@ Shrek: Oh, really? You and what army? (smiles)
 tucks tail and runs off. Shrek shakes his head and starts walking back to his swamp. 
 Donkey, impressed by Shrek, follows him)
 
+D
