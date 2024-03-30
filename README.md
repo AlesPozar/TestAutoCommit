@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3905
+<pre>Number of characters written: 3906
 Times rewritten: 0
 
 
@@ -90,4 +90,4 @@ extinguishing the torch. The villager drops it)
 
 Villager 1: Right.
 
-(Shrek terrifies
+(Shrek terrifies 
