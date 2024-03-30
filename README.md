@@ -1,4 +1,4 @@
-<pre>Number of characters written: 11916
+<pre>Number of characters written: 11917
 Times rewritten: 0
 
 
@@ -298,4 +298,4 @@ Shrek: Uh, what?
 
 Donkey: Can I stay with you, please?
 
-Shr
+Shre
