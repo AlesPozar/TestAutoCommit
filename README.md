@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1249
+<pre>Number of characters written: 1250
 Times rewritten: 0
 
 
@@ -32,4 +32,4 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 
-(The DreamWorks Pictures SKG logo plays out, with dreamy music playing underneath. At the end of the logo, the S's
+(The DreamWorks Pictures SKG logo plays out, with dreamy music playing underneath. At the end of the logo, the S's 
