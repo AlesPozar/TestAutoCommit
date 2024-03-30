@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4389
+<pre>Number of characters written: 4390
 Times rewritten: 0
 
 
@@ -103,4 +103,4 @@ Shrek: And stay out!
 
 (He looks down and picks up a wanted poster dropped by one of the villagers. He reads it aloud)
 
-SHREK: "Wanted. Fairyta
+SHREK: "Wanted. Fairytal
