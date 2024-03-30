@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1657
+<pre>Number of characters written: 1658
 Times rewritten: 0
 
 
@@ -37,4 +37,4 @@ saying "DreamWorks Pictures Presents" and "A PDI/DreamWorks Production" appear.)
 (A ray of light shines down on a leather-bound storybook. The book opens and a Scottish-accented voice 
 begins reading its text)
 
-Shrek: Once upon a time there was a lovely princess. But she had an enchantment upon her of a fe
+Shrek: Once upon a time there was a lovely princess. But she had an enchantment upon her of a fea
