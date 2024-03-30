@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3750
+<pre>Number of characters written: 3751
 Times rewritten: 0
 
 
@@ -85,4 +85,4 @@ Shrek: They'll shave your liver. Squeeze the jelly from your eyes! Actually, it'
 
 Villager 1: Back! Back, beast! Back! I warn ya!
 
-(The villager waves his torch in Shrek'
+(The villager waves his torch in Shrek's
