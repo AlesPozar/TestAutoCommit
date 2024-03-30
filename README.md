@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3173
+<pre>Number of characters written: 3174
 Times rewritten: 0
 
 
@@ -66,4 +66,4 @@ Villager 1: Think it's in there?
 Villager 2: All right. Let's get it!
 
 Villager 1: Whoa. Hold on. Do you know what that thing can do to you?
-
+
