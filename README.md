@@ -1,4 +1,4 @@
-<pre>Number of characters written: 12356
+<pre>Number of characters written: 12357
 Times rewritten: 0
 
 
@@ -312,4 +312,4 @@ Shrek: Okay. Because one night only.
 
 Donkey: Ah! Thank you! (he runs inside the hut)
 
-Shrek: Ah! What are you...no! (Do
+Shrek: Ah! What are you...no! (Don
