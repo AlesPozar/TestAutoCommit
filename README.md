@@ -1,4 +1,4 @@
-<pre>Number of characters written: 2100
+<pre>Number of characters written: 2101
 Times rewritten: 0
 
 
@@ -44,3 +44,4 @@ but none prevailed. She waited in the dragon's keep in the highest room of the t
 love and true love's first kiss.
 
 (Shrek chuckles and rips out a page of the book and closes it. Well, that’s okay!)
+
