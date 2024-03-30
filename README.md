@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7589
+<pre>Number of characters written: 7590
 Times rewritten: 0
 
 
@@ -198,4 +198,4 @@ The Captain: Seize him!
 
 (Donkey dodges the guards as they try to grab him and runs deeper into the forest)
 
-G
+Gu
