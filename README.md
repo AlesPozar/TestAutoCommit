@@ -1,2 +1,4 @@
-<pre>Number of characters written: 0
+<pre>Number of characters written: 1
 Times rewritten: 0
+
+
