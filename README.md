@@ -1,4 +1,4 @@
-<pre>Number of characters written: 9130
+<pre>Number of characters written: 9131
 Times rewritten: 0
 
 
@@ -230,4 +230,4 @@ in the woods. That really made me feel good to see that.
 
 Shrek: (annoyed) Oh, that's great. Really.
 
-Donkey: Man, it's good to be 
+Donkey: Man, it's good to be f
