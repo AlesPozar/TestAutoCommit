@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3023
+<pre>Number of characters written: 3024
 Times rewritten: 0
 
 
@@ -60,3 +60,4 @@ Shrek sees them after investigating the commotion, rolling his eyes. The village
 home, unaware that Shrek is sneaking up behind them)
 
 NIGHT - NEAR SHREK'S SWAMP
+
