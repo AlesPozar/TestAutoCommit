@@ -1,4 +1,4 @@
-<pre>Number of characters written: 6484
+<pre>Number of characters written: 6485
 Times rewritten: 0
 
 
@@ -166,3 +166,4 @@ Old Woman: Oh, go ahead, little fella. (Donkey stays silent)
 The Captain: Well?
 
 Old Woman: Oh, oh, he's just...he's just a little nervous. He's really quite a chatterbox. 
+(
