@@ -1,4 +1,4 @@
-<pre>Number of characters written: 12579
+<pre>Number of characters written: 12580
 Times rewritten: 0
 
 
@@ -320,3 +320,4 @@ I'm making waffles.
 Shrek: (growls in frustration)
 
 Donkey: Where do, uh, I sleep?
+
