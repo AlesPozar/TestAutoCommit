@@ -1,4 +1,4 @@
-<pre>Number of characters written: 6055
+<pre>Number of characters written: 6056
 Times rewritten: 0
 
 
@@ -152,4 +152,4 @@ Pinocchio: I’m a real boy. (his nose grows)
 The Captain: 5 shillings for the possessed toy. Take it away.
 
 Pinocchio: Father, please! Don't let them do this! Help me!
-
+
