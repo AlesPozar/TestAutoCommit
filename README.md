@@ -1,4 +1,4 @@
-<pre>Number of characters written: 10811
+<pre>Number of characters written: 10812
 Times rewritten: 0
 
 
@@ -268,4 +268,4 @@ Shrek: I'm an ogre! You know, "Grab your torch and pitchforks." Does that bother
 
 Donkey: (shakes his head) Nope.
 
-Shrek: (surprise
+Shrek: (surprised
