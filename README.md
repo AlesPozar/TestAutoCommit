@@ -1,4 +1,4 @@
-<pre>Number of characters written: 9273
+<pre>Number of characters written: 9274
 Times rewritten: 0
 
 
@@ -234,4 +234,4 @@ Donkey: Man, it's good to be free.
 
 Shrek: Now, why don't you go celebrate your freedom with your own friends? Hmm?
 
-Donkey: But, uh, I don't have any friends. And I'm 
+Donkey: But, uh, I don't have any friends. And I'm n
