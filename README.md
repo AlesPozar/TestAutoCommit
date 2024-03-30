@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5830
+<pre>Number of characters written: 5831
 Times rewritten: 0
 
 
@@ -143,4 +143,4 @@ Give me another chance!
 
 Old Woman: Oh, shut up. (smacks Donkey)
 
-The Captain: Next! What have y
+The Captain: Next! What have yo
