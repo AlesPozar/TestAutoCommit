@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3556
+<pre>Number of characters written: 3557
 Times rewritten: 0
 
 
@@ -81,4 +81,4 @@ Shrek: Now, ogres, oh they're much worse. They'll make a suit from your freshly 
 
 Villager: No!
 
-Sh
+Shr
