@@ -1,4 +1,4 @@
-<pre>Number of characters written: 6865
+<pre>Number of characters written: 6866
 Times rewritten: 0
 
 
@@ -177,4 +177,4 @@ The Captain: Get her out of my sight.
 
 Old Woman: No, no! I swear! Oh! He can talk!
 
-(The guards grab the old woman and she st
+(The guards grab the old woman and she str
