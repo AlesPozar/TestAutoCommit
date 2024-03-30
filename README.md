@@ -1,4 +1,4 @@
-<pre>Number of characters written: 8009
+<pre>Number of characters written: 8010
 Times rewritten: 0
 
 
@@ -208,4 +208,4 @@ The Captain: You there. Ogre!
 
 Shrek: Aye?
 
-The Captain: By th
+The Captain: By the
