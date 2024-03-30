@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7095
+<pre>Number of characters written: 7096
 Times rewritten: 0
 
 
@@ -183,4 +183,4 @@ fairy dust and starts floating upwards)
 
 Donkey: Hey! I can fly!
 
-Pete
+Peter
