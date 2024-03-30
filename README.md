@@ -1,4 +1,4 @@
-<pre>Number of characters written: 10614
+<pre>Number of characters written: 10615
 Times rewritten: 0
 
 
@@ -262,4 +262,4 @@ Donkey: Wow. Only a true friend would be that truly honest.
 
 Shrek: Listen, little donkey. Take a look at me. What am I?
 
-Donkey: (looks all 
+Donkey: (looks all t
