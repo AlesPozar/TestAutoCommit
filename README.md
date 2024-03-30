@@ -1,4 +1,4 @@
-<pre>Number of characters written: 9079
+<pre>Number of characters written: 9080
 Times rewritten: 0
 
 
@@ -228,4 +228,4 @@ Donkey: Yes. I was talking to you. Can I tell you that you that you was great ba
 They thought they was all of that. Then you showed up and bam! They was tripping over themselves like babes 
 in the woods. That really made me feel good to see that.
 
-Shrek: (annoyed) Oh, tha
+Shrek: (annoyed) Oh, that
