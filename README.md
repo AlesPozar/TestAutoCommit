@@ -1,4 +1,4 @@
-<pre>Number of characters written: 8192
+<pre>Number of characters written: 8193
 Times rewritten: 0
 
 
@@ -209,4 +209,4 @@ The Captain: You there. Ogre!
 Shrek: Aye?
 
 The Captain: By the order of Lord Farquaad, I am authorized to place you both under arrest and...
-(Shrek slowly approaches the group of guards, the guards visibly frightened by him) transport you to..
+(Shrek slowly approaches the group of guards, the guards visibly frightened by him) transport you to...
