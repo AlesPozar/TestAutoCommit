@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5889
+<pre>Number of characters written: 5890
 Times rewritten: 0
 
 
@@ -147,4 +147,4 @@ The Captain: Next! What have you got?
 
 Geppetto: This little wooden puppet.
 
-Pinocchi
+Pinocchio
