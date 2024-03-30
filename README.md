@@ -1,6 +1,6 @@
-Number of characters written: 21
+Number of characters written: 22
 Times rewritten: 0
 
 
 
-⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤
+⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤
