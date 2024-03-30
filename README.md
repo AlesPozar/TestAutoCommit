@@ -1,4 +1,4 @@
-<pre>Number of characters written: 8628
+<pre>Number of characters written: 8629
 Times rewritten: 0
 
 
@@ -219,4 +219,4 @@ tucks tail and runs off. Shrek shakes his head and starts walking back to his sw
 Donkey, impressed by Shrek, follows him)
 
 Donkey: Can I say something to you? Listen, you was really, really, really somethin' back here. 
-Incredi
+Incredib
