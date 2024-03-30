@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3030
+<pre>Number of characters written: 3031
 Times rewritten: 0
 
 
@@ -61,4 +61,4 @@ home, unaware that Shrek is sneaking up behind them)
 
 NIGHT - NEAR SHREK'S SWAMP
 
-Villa
+Villag
