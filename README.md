@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3183
+<pre>Number of characters written: 3184
 Times rewritten: 0
 
 
@@ -67,4 +67,4 @@ Villager 2: All right. Let's get it!
 
 Villager 1: Whoa. Hold on. Do you know what that thing can do to you?
 
-Villager 
+Villager 3
