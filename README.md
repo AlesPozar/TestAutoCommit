@@ -1,4 +1,4 @@
-<pre>Number of characters written: 6301
+<pre>Number of characters written: 6302
 Times rewritten: 0
 
 
@@ -159,4 +159,4 @@ The Captain: Next! What have you got?
 
 Old Woman: Well, I've got a talking donkey.
 
-The Captain: Right. Well, that's good for 10 shillings. If you can prove it.
+The Captain: Right. Well, that's good for 10 shillings. If you can prove it.
