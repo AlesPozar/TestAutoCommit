@@ -1,4 +1,4 @@
-<pre>Number of characters written: 8965
+<pre>Number of characters written: 8966
 Times rewritten: 0
 
 
@@ -225,4 +225,4 @@ Shrek: Are you talking to...(he turns around and Donkey is gone) me? (he turns b
 right in front of him) Whoa!
 
 Donkey: Yes. I was talking to you. Can I tell you that you that you was great back there? Man those guards! 
-They thought they was all of that. Then you showed up and bam! They was tripping
+They thought they was all of that. Then you showed up and bam! They was tripping 
