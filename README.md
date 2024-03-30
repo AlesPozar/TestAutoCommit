@@ -1,4 +1,4 @@
-<pre>Number of characters written: 9554
+<pre>Number of characters written: 9555
 Times rewritten: 0
 
 
@@ -239,4 +239,4 @@ a great idea! I'll stick with you. You're a mean, green, fighting machine. Toget
 out of anybody that crosses us.
 
 (Shrek turns and regards Donkey for a moment before loudly roaring in his face)
-
+
