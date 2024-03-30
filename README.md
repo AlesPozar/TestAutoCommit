@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1672
+<pre>Number of characters written: 1673
 Times rewritten: 0
 
 
@@ -38,4 +38,4 @@ saying "DreamWorks Pictures Presents" and "A PDI/DreamWorks Production" appear.)
 begins reading its text)
 
 Shrek: Once upon a time there was a lovely princess. But she had an enchantment upon her of a fearful 
-sort wh
+sort whi
