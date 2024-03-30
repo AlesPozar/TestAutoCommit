@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5711
+<pre>Number of characters written: 5712
 Times rewritten: 0
 
 
@@ -138,4 +138,4 @@ Mama Bear and Papa Bear are locked inside giant cages, with Little Bear in his o
 
 Little Bear: (crying) This cage is too small.
 
-Donkey: (To his owner) Please, don't turn me in. I'll never be stubborn again. I ca
+Donkey: (To his owner) Please, don't turn me in. I'll never be stubborn again. I can
