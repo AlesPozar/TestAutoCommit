@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4864
+<pre>Number of characters written: 4865
 Times rewritten: 0
 
 
@@ -113,4 +113,4 @@ Fairy tale creatures are put in chains and led into wagons by Duloc Guards. The 
 Duloc Guards sits at a table paying a line of people their rewards for turning in the fairytale creatures. 
 Those waiting in line include Peter Pan, who is carrying Tinkerbell in a cage, Geppetto who is carrying
 Pinocchio, and a farmer carrying the Three Little Pigs.
-
+
