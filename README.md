@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4341
+<pre>Number of characters written: 4342
 Times rewritten: 0
 
 
@@ -101,4 +101,4 @@ Villagers: (gasping)
 
 Shrek: And stay out!
 
-(He looks down and picks up a wanted poster dropped by one of the villager
+(He looks down and picks up a wanted poster dropped by one of the villagers
