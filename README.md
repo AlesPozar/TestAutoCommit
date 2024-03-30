@@ -1,4 +1,4 @@
-<pre>Number of characters written: 2197
+<pre>Number of characters written: 2198
 Times rewritten: 0
 
 
@@ -47,4 +47,4 @@ love and true love's first kiss.
 
 Shrek: Like that's ever gonna happen. What a load of - (toilet flushes)
 
-("All Star" by Smash
+("All Star" by Smash 
