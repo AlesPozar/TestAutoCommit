@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3893
+<pre>Number of characters written: 3894
 Times rewritten: 0
 
 
@@ -90,4 +90,4 @@ extinguishing the torch. The villager drops it)
 
 Villager 1: Right.
 
-(Shr
+(Shre
