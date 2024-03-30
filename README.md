@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7513
+<pre>Number of characters written: 7514
 Times rewritten: 0
 
 
@@ -196,4 +196,4 @@ maybe even a superfly but I bet you ain't never seen a donkey fly. Ha, ha!
 
 The Captain: Seize him!
 
-(Donkey dod
+(Donkey dodg
