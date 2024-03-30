@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3682
+<pre>Number of characters written: 3683
 Times rewritten: 0
 
 
@@ -83,4 +83,4 @@ Villager: No!
 
 Shrek: They'll shave your liver. Squeeze the jelly from your eyes! Actually, it's quite good on toast.
 
-Villager 1: Back! Back
+Villager 1: Back! Back,
