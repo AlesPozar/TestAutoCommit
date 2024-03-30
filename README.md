@@ -1,5 +1,5 @@
-<pre>Number of characters written: 3
+<pre>Number of characters written: 4
 Times rewritten: 0
 
 
-
+
