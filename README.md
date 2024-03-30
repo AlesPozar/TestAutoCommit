@@ -1,4 +1,4 @@
-<pre>Number of characters written: 12199
+<pre>Number of characters written: 12200
 Times rewritten: 0
 
 
@@ -306,4 +306,4 @@ Shrek: No.
 
 Donkey: Please! I don't wanna go back there! You don't know what it's like to be considered a freak. 
 (Donkey pushes Shrek up against the door) Well, maybe you do. But that's why we gotta stick together. 
-You gotta
+You gotta 
