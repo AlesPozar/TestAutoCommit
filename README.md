@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4814
+<pre>Number of characters written: 4815
 Times rewritten: 0
 
 
@@ -112,4 +112,4 @@ THE NEXT DAY - FOREST
 Fairy tale creatures are put in chains and led into wagons by Duloc Guards. The Captain of the 
 Duloc Guards sits at a table paying a line of people their rewards for turning in the fairytale creatures. 
 Those waiting in line include Peter Pan, who is carrying Tinkerbell in a cage, Geppetto who is carrying
-Pinocchi
+Pinocchio
