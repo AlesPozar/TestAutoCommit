@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7952
+<pre>Number of characters written: 7953
 Times rewritten: 0
 
 
@@ -204,4 +204,4 @@ Guards: After him! He's getting away! Get him! This way! Turn!
 see who bumped into him and glares down at Donkey. Donkey looks scared of Shrek for a moment, 
 but he quickly hides behind him after seeing that the guards have caught up to him)
 
-The Capta
+The Captai
