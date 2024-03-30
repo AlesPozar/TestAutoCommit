@@ -1,4 +1,4 @@
-<pre>Number of characters written: 2175
+<pre>Number of characters written: 2176
 Times rewritten: 0
 
 
@@ -46,3 +46,4 @@ love and true love's first kiss.
 (Shrek chuckles and rips out a page of the book and closes it. Well, that’s okay!)
 
 Shrek: Like that's ever gonna happen. What a load of - (toilet flushes)
+
