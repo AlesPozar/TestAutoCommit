@@ -1,4 +1,4 @@
-<pre>Number of characters written: 12707
+<pre>Number of characters written: 12708
 Times rewritten: 0
 
 
@@ -323,4 +323,4 @@ Donkey: Where do, uh, I sleep?
 
 Shrek: (irritated) Outside!
 
-Donkey: Oh, well, I guess that's cool. I mean, I don't know you, and you don't know me, so I gu
+Donkey: Oh, well, I guess that's cool. I mean, I don't know you, and you don't know me, so I gue
