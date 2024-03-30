@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1158
+<pre>Number of characters written: 1159
 Times rewritten: 0
 
 
@@ -30,4 +30,4 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 
-(The DreamWorks Pictures SK
+(The DreamWorks Pictures SKG
