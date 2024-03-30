@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7818
+<pre>Number of characters written: 7819
 Times rewritten: 0
 
 
@@ -201,4 +201,4 @@ The Captain: Seize him!
 Guards: After him! He's getting away! Get him! This way! Turn!
 
 (Donkey escapes deeper into the forest and runs head first into Shrek's backside. Shrek turns around to 
-see who bumped into him and glares down at Donkey. Donkey 
+see who bumped into him and glares down at Donkey. Donkey l
