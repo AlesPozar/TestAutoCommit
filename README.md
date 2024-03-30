@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3017
+<pre>Number of characters written: 3018
 Times rewritten: 0
 
 
@@ -59,4 +59,4 @@ pitchforks and enter the swamp, trampling over Shrek's warning signs. It’s fun
 Shrek sees them after investigating the commotion, rolling his eyes. The villagers stop outside Shrek's 
 home, unaware that Shrek is sneaking up behind them)
 
-NIGHT - NEAR SHREK'S S
+NIGHT - NEAR SHREK'S SW
