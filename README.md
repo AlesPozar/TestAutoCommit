@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5283
+<pre>Number of characters written: 5284
 Times rewritten: 0
 
 
@@ -126,4 +126,4 @@ The Captain: That's 20 pieces of silver for the witch. Next!
 The villager mutters to himself)
 
 Villager: Lousy 20 pieces.
-
+
