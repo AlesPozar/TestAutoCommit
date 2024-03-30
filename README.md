@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4154
+<pre>Number of characters written: 4155
 Times rewritten: 0
 
 
@@ -97,4 +97,4 @@ Shrek: (whispering) This is the part where you run away.
 
 Villagers: (gasping)
 
-(Shr
+(Shre
