@@ -1,4 +1,4 @@
-<pre>Number of characters written: 10140
+<pre>Number of characters written: 10141
 Times rewritten: 0
 
 
@@ -251,3 +251,4 @@ Donkey continues to talk. Shrek removes his hand) ...then I ate some rotten berr
 leaking out of my butt that day.
 
 Shrek: Why are you following me?
+
