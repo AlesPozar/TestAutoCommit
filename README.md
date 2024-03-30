@@ -1,4 +1,4 @@
-<pre>Number of characters written: 10460
+<pre>Number of characters written: 10461
 Times rewritten: 0
 
 
@@ -256,4 +256,4 @@ Donkey: I'll tell you why. (drops from the log. Singing) "'Cause I'm all alone, 
  me, My problems have all gone, There's no one to deride me, But you gotta have friends..."
 
 Shrek: Stop singing! (picks up Donkey by his ears and tail) Well, it's no wonder you don't have any friends
-(drops
+(drops 
