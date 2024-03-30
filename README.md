@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7690
+<pre>Number of characters written: 7691
 Times rewritten: 0
 
 
@@ -200,4 +200,4 @@ The Captain: Seize him!
 
 Guards: After him! He's getting away! Get him! This way! Turn!
 
-(Donkey escapes deeper into the fore
+(Donkey escapes deeper into the fores
