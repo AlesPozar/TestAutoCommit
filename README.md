@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5946
+<pre>Number of characters written: 5947
 Times rewritten: 0
 
 
@@ -149,4 +149,4 @@ Geppetto: This little wooden puppet.
 
 Pinocchio: I’m a real boy. (his nose grows)
 
-The Captain: 5 shi
+The Captain: 5 shil
