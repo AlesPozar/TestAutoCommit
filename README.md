@@ -1,4 +1,4 @@
-<pre>Number of characters written: 11629
+<pre>Number of characters written: 11630
 Times rewritten: 0
 
 
@@ -290,4 +290,4 @@ done with such a modest budget. I like that boulder. That is a nice boulder.
 
 Shrek: I like my privacy.
 
-Donkey: You know, I do too. That's another t
+Donkey: You know, I do too. That's another th
