@@ -1,4 +1,4 @@
-<pre>Number of characters written: 6074
+<pre>Number of characters written: 6075
 Times rewritten: 0
 
 
@@ -153,4 +153,4 @@ The Captain: 5 shillings for the possessed toy. Take it away.
 
 Pinocchio: Father, please! Don't let them do this! Help me!
 
-(Geppetto takes th
+(Geppetto takes the
