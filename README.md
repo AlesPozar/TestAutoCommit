@@ -1,4 +1,4 @@
-Number of characters written: 111
+Number of characters written: 112
 Times rewritten: 0
 
 
@@ -6,4 +6,4 @@ Times rewritten: 0
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 ⠸⡇⠀⠿⡀⠀⠀⠀⣀⡴⢿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 ⠀⠀⠀⠀⠑⢄⣠⠾⠁⣀⣄⡈⠙⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀ 
-⠀⠀⠀⠀⢀⡀
+⠀⠀⠀⠀⢀⡀⠁
