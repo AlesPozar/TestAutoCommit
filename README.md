@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5484
+<pre>Number of characters written: 5485
 Times rewritten: 0
 
 
@@ -132,4 +132,4 @@ Guard: Get up! Come on!
 (Waiting in line is Donkey on a leash and his owner. He looks in horror at the witch and a group of
 dwarves being loaded into a wagon)
 
-Guard: Sit down there! Keep quiet!
+Guard: Sit down there! Keep quiet!
