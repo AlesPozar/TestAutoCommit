@@ -1,4 +1,4 @@
-<pre>Number of characters written: 575
+<pre>Number of characters written: 576
 Times rewritten: 0
 
 
@@ -21,4 +21,4 @@ Times rewritten: 0
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⠿⠿⠿⠛⠉
 
 ████████╗██╗  ██╗███████╗    ███████╗██╗  ██╗██████╗ ███████╗██╗  ██╗
-╚══██╔══╝██║  
+╚══██╔══╝██║  █
