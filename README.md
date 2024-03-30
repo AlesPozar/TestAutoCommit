@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3653
+<pre>Number of characters written: 3654
 Times rewritten: 0
 
 
@@ -81,4 +81,4 @@ Shrek: Now, ogres, oh they're much worse. They'll make a suit from your freshly 
 
 Villager: No!
 
-Shrek: They'll shave your liver. Squeeze the jelly from your eyes! Actually, it's quite good on toa
+Shrek: They'll shave your liver. Squeeze the jelly from your eyes! Actually, it's quite good on toas
