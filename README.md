@@ -1,4 +1,4 @@
-<pre>Number of characters written: 9578
+<pre>Number of characters written: 9579
 Times rewritten: 0
 
 
@@ -240,4 +240,4 @@ out of anybody that crosses us.
 
 (Shrek turns and regards Donkey for a moment before loudly roaring in his face)
 
-Donkey: Oh, wow! That w
+Donkey: Oh, wow! That wa
