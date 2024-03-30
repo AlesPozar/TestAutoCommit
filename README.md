@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5070
+<pre>Number of characters written: 5071
 Times rewritten: 0
 
 
@@ -118,4 +118,4 @@ Guard: All right. This one's full. Take it away! Move it along. Come on! Get up!
 
 The Captain: Next!
 
-Guard: (Taking the witch's broom) Give me that! Your flying days are over. (breaks the broom in hal
+Guard: (Taking the witch's broom) Give me that! Your flying days are over. (breaks the broom in half
