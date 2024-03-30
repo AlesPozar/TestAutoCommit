@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1150
+<pre>Number of characters written: 1151
 Times rewritten: 0
 
 
@@ -30,4 +30,4 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 
-(The DreamWorks Pic
+(The DreamWorks Pict
