@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4424
+<pre>Number of characters written: 4425
 Times rewritten: 0
 
 
@@ -105,4 +105,4 @@ Shrek: And stay out!
 
 SHREK: "Wanted. Fairytale creatures"?
 
-(He sighs and wal
+(He sighs and walk
