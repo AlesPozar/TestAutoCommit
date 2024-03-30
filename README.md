@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4009
+<pre>Number of characters written: 4010
 Times rewritten: 0
 
 
@@ -91,4 +91,4 @@ extinguishing the torch. The villager drops it)
 Villager 1: Right.
 
 (Shrek terrifies the mob with a great frightening roar, his spit extinguishing all the remaining torches. 
-He wipes his
+He wipes his 
