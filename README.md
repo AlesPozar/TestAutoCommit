@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1176
+<pre>Number of characters written: 1177
 Times rewritten: 0
 
 
@@ -32,4 +32,4 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 
-(The DreamWorks Pictures SKG logo plays o
+(The DreamWorks Pictures SKG logo plays ou
