@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5268
+<pre>Number of characters written: 5269
 Times rewritten: 0
 
 
@@ -125,4 +125,4 @@ The Captain: That's 20 pieces of silver for the witch. Next!
 (The captain hands over the reward to the villager who turned the witch in. 
 The villager mutters to himself)
 
-Villager: Lous
+Villager: Lousy
