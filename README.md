@@ -1,4 +1,4 @@
-<pre>Number of characters written: 6383
+<pre>Number of characters written: 6384
 Times rewritten: 0
 
 
@@ -163,4 +163,4 @@ The Captain: Right. Well, that's good for 10 shillings. If you can prove it.
 
 Old Woman: Oh, go ahead, little fella. (Donkey stays silent)
 
-The Captain: W
+The Captain: We
