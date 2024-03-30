@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1865
+<pre>Number of characters written: 1866
 Times rewritten: 0
 
 
@@ -39,4 +39,4 @@ begins reading its text)
 
 Shrek: Once upon a time there was a lovely princess. But she had an enchantment upon her of a fearful 
 sort which could only be broken by love's first kiss. She was locked away in a castle guarded by a 
-terrible fire-breathing dragon. Many brave knights had attempted to free her from this dreadful pri
+terrible fire-breathing dragon. Many brave knights had attempted to free her from this dreadful pris
