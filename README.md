@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4972
+<pre>Number of characters written: 4973
 Times rewritten: 0
 
 
@@ -118,4 +118,4 @@ Guard: All right. This one's full. Take it away! Move it along. Come on! Get up!
 
 The Captain: Next!
 
-G
+Gu
