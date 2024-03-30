@@ -1,4 +1,4 @@
-<pre>Number of characters written: 9461
+<pre>Number of characters written: 9462
 Times rewritten: 0
 
 
@@ -236,4 +236,4 @@ Shrek: Now, why don't you go celebrate your freedom with your own friends? Hmm?
 
 Donkey: But, uh, I don't have any friends. And I'm not goin' out there by myself. Hey, wait a minute! I got
 a great idea! I'll stick with you. You're a mean, green, fighting machine. Together we'll scare the spit
-out of anybody that cros
+out of anybody that cross
