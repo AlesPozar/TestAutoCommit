@@ -1,4 +1,4 @@
-<pre>Number of characters written: 2014
+<pre>Number of characters written: 2015
 Times rewritten: 0
 
 
@@ -42,3 +42,4 @@ sort which could only be broken by love's first kiss. She was locked away in a c
 terrible fire-breathing dragon. Many brave knights had attempted to free her from this dreadful prison,
 but none prevailed. She waited in the dragon's keep in the highest room of the tallest tower. For her true 
 love and true love's first kiss.
+
