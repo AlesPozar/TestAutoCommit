@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7886
+<pre>Number of characters written: 7887
 Times rewritten: 0
 
 
@@ -202,4 +202,4 @@ Guards: After him! He's getting away! Get him! This way! Turn!
 
 (Donkey escapes deeper into the forest and runs head first into Shrek's backside. Shrek turns around to 
 see who bumped into him and glares down at Donkey. Donkey looks scared of Shrek for a moment, 
-but he quickly hides behind hi
+but he quickly hides behind him
