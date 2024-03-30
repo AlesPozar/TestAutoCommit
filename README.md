@@ -1,4 +1,4 @@
-<pre>Number of characters written: 9644
+<pre>Number of characters written: 9645
 Times rewritten: 0
 
 
@@ -240,4 +240,4 @@ out of anybody that crosses us.
 
 (Shrek turns and regards Donkey for a moment before loudly roaring in his face)
 
-Donkey: Oh, wow! That was really scary. If you don't mind me saying, if that don't work, 
+Donkey: Oh, wow! That was really scary. If you don't mind me saying, if that don't work, y
