@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7485
+<pre>Number of characters written: 7486
 Times rewritten: 0
 
 
@@ -194,4 +194,4 @@ maybe even a superfly but I bet you ain't never seen a donkey fly. Ha, ha!
 (The pixie dust's effects begin to wear off) Uh-oh. 
 (He drops out of the air and hits the ground with a thud)
 
-The Captai
+The Captain
