@@ -1,4 +1,4 @@
-<pre>Number of characters written: 8041
+<pre>Number of characters written: 8042
 Times rewritten: 0
 
 
@@ -208,4 +208,4 @@ The Captain: You there. Ogre!
 
 Shrek: Aye?
 
-The Captain: By the order of Lord Farquaad, I am a
+The Captain: By the order of Lord Farquaad, I am au
