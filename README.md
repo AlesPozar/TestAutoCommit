@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4101
+<pre>Number of characters written: 4102
 Times rewritten: 0
 
 
@@ -93,4 +93,4 @@ Villager 1: Right.
 (Shrek terrifies the mob with a great frightening roar, his spit extinguishing all the remaining torches. 
 He wipes his mouth and waits for the villagers to stop screaming)
 
-Shrek: (whispering) This is the par
+Shrek: (whispering) This is the part
