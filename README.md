@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3317
+<pre>Number of characters written: 3318
 Times rewritten: 0
 
 
@@ -71,4 +71,4 @@ Villager 3: Yeah, it'll grind your bones for its bread.
 
 (Shrek chuckles, revealing himself to be standing behind the mob)
 
-Shrek: Yes, wel
+Shrek: Yes, well
