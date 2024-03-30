@@ -1,3 +1,2 @@
-Number of characters written: 3
-Times rewritten: 2897
-ts⢀
+Number of characters written: 0
+Times rewritten: 0
