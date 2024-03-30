@@ -1,4 +1,4 @@
-<pre>Number of characters written: 9100
+<pre>Number of characters written: 9101
 Times rewritten: 0
 
 
@@ -229,4 +229,4 @@ They thought they was all of that. Then you showed up and bam! They was tripping
 in the woods. That really made me feel good to see that.
 
 Shrek: (annoyed) Oh, that's great. Really.
-
+
