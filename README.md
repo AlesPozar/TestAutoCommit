@@ -1,4 +1,4 @@
-<pre>Number of characters written: 10499
+<pre>Number of characters written: 10500
 Times rewritten: 0
 
 
@@ -258,4 +258,4 @@ Donkey: I'll tell you why. (drops from the log. Singing) "'Cause I'm all alone, 
 Shrek: Stop singing! (picks up Donkey by his ears and tail) Well, it's no wonder you don't have any friends
 (drops him)
 
-Donkey: Wow. Only a true frien
+Donkey: Wow. Only a true friend
