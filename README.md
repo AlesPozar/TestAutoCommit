@@ -1,4 +1,4 @@
-<pre>Number of characters written: 6183
+<pre>Number of characters written: 6184
 Times rewritten: 0
 
 
@@ -157,4 +157,4 @@ Pinocchio: Father, please! Don't let them do this! Help me!
 
 The Captain: Next! What have you got?
 
-Old W
+Old Wo
