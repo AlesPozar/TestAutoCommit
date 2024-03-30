@@ -1,4 +1,4 @@
-<pre>Number of characters written: 9809
+<pre>Number of characters written: 9810
 Times rewritten: 0
 
 
@@ -244,4 +244,4 @@ Donkey: Oh, wow! That was really scary. If you don't mind me saying, if that don
 certainly will get the job done, 'cause you definitely need some Tic Tacs or something, 
 'cause your breath stinks!
 
-(Shrek walks off. Donkey reappe
+(Shrek walks off. Donkey reappea
