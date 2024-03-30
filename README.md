@@ -1,4 +1,4 @@
-<pre>Number of characters written: 9474
+<pre>Number of characters written: 9475
 Times rewritten: 0
 
 
@@ -238,4 +238,4 @@ Donkey: But, uh, I don't have any friends. And I'm not goin' out there by myself
 a great idea! I'll stick with you. You're a mean, green, fighting machine. Together we'll scare the spit
 out of anybody that crosses us.
 
-(S
+(Sh
