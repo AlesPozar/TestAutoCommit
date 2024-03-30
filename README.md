@@ -1,4 +1,4 @@
-<pre>Number of characters written: 11495
+<pre>Number of characters written: 11496
 Times rewritten: 0
 
 
@@ -286,4 +286,4 @@ Shrek: (annoyed) That would be my home.
 
 Donkey: Oh! And it is lovely! Just beautiful. You know you are quite a decorator. It's amazing what you've 
 done with such a modest budget. I like that boulder. That is a nice boulder. 
-(looks at Shrek's "k
+(looks at Shrek's "ke
