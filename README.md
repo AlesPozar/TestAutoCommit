@@ -1,4 +1,4 @@
-<pre>Number of characters written: 6259
+<pre>Number of characters written: 6260
 Times rewritten: 0
 
 
@@ -159,4 +159,4 @@ The Captain: Next! What have you got?
 
 Old Woman: Well, I've got a talking donkey.
 
-The Captain: Right. Well, that's g
+The Captain: Right. Well, that's go
