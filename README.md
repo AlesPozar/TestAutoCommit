@@ -1,4 +1,4 @@
-<pre>Number of characters written: 2621
+<pre>Number of characters written: 2622
 Times rewritten: 0
 
 
@@ -53,3 +53,4 @@ Shrek: Like that's ever gonna happen. What a load of - (toilet flushes)
 underwear and shakes his foot of the page still stuck to his shoe. He looks lovingly at the swamp he calls 
 home, and goes about his daily routine. Which is taking a mud shower, brushing his teeth with bugs, 
 bathing in a muddy pond, gathering giant slugs for dinner, and painting a warning sign)
+
