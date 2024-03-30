@@ -1,4 +1,4 @@
-<pre>Number of characters written: 12549
+<pre>Number of characters written: 12550
 Times rewritten: 0
 
 
@@ -319,4 +319,4 @@ I'm making waffles.
 
 Shrek: (growls in frustration)
 
-Do
+Don
