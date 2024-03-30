@@ -1,4 +1,4 @@
-<pre>Number of characters written: 9152
+<pre>Number of characters written: 9153
 Times rewritten: 0
 
 
@@ -232,4 +232,4 @@ Shrek: (annoyed) Oh, that's great. Really.
 
 Donkey: Man, it's good to be free.
 
-Shrek: Now, w
+Shrek: Now, wh
