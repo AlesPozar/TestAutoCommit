@@ -1,4 +1,4 @@
-<pre>Number of characters written: 4751
+<pre>Number of characters written: 4752
 Times rewritten: 0
 
 
@@ -111,4 +111,4 @@ THE NEXT DAY - FOREST
 
 Fairy tale creatures are put in chains and led into wagons by Duloc Guards. The Captain of the 
 Duloc Guards sits at a table paying a line of people their rewards for turning in the fairytale creatures. 
-Those waiting in line include Peter Pan, who is ca
+Those waiting in line include Peter Pan, who is car
