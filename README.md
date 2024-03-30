@@ -1,4 +1,4 @@
-<pre>Number of characters written: 12545
+<pre>Number of characters written: 12546
 Times rewritten: 0
 
 
@@ -318,3 +318,4 @@ Donkey: This is gonna be fun! We can stay up late, swapping manly stories, and i
 I'm making waffles.
 
 Shrek: (growls in frustration)
+
