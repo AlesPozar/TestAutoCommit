@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7975
+<pre>Number of characters written: 7976
 Times rewritten: 0
 
 
@@ -205,4 +205,4 @@ see who bumped into him and glares down at Donkey. Donkey looks scared of Shrek 
 but he quickly hides behind him after seeing that the guards have caught up to him)
 
 The Captain: You there. Ogre!
-
+
