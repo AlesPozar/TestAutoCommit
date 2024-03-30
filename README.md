@@ -1,4 +1,4 @@
-<pre>Number of characters written: 7988
+<pre>Number of characters written: 7989
 Times rewritten: 0
 
 
@@ -206,4 +206,4 @@ but he quickly hides behind him after seeing that the guards have caught up to h
 
 The Captain: You there. Ogre!
 
-Shrek: Aye?
+Shrek: Aye?
