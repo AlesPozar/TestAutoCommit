@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5767
+<pre>Number of characters written: 5768
 Times rewritten: 0
 
 
@@ -141,4 +141,4 @@ Little Bear: (crying) This cage is too small.
 Donkey: (To his owner) Please, don't turn me in. I'll never be stubborn again. I can change. Please!
 Give me another chance!
 
-Old Woman:
+Old Woman: 
