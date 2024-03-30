@@ -1,4 +1,4 @@
-<pre>Number of characters written: 9985
+<pre>Number of characters written: 9986
 Times rewritten: 0
 
 
@@ -247,4 +247,4 @@ certainly will get the job done, 'cause you definitely need some Tic Tacs or som
 (Shrek walks off. Donkey reappears ahead of him, dangling from a felled log)
 
 Donkey: Man, you almost burned the hair outta my nose, just like the time...(Shrek covers his mouth but 
-Donkey continues to t
+Donkey continues to ta
