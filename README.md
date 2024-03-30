@@ -1,4 +1,4 @@
-<pre>Number of characters written: 5665
+<pre>Number of characters written: 5666
 Times rewritten: 0
 
 
@@ -138,4 +138,4 @@ Mama Bear and Papa Bear are locked inside giant cages, with Little Bear in his o
 
 Little Bear: (crying) This cage is too small.
 
-Donkey: (To his owner) Please, don't 
+Donkey: (To his owner) Please, don't t
