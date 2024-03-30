@@ -1,4 +1,4 @@
-<pre>Number of characters written: 11871
+<pre>Number of characters written: 11872
 Times rewritten: 0
 
 
@@ -295,3 +295,4 @@ your face. You're trying to give them a hint and they won't leave.
 And there's that big awkward silence you know? (awkward silence) Can I stay with you?
 
 Shrek: Uh, what?
+
