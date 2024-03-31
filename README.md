@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31143
+<pre>Number of characters written: 31144
 Times rewritten: 0
 
 
@@ -782,4 +782,4 @@ Shrek: And the squatters?
 
 Lord Farquaad: As good as gone.
 
-(Shrek glances at the soldiers still aiming 
+(Shrek glances at the soldiers still aiming t
