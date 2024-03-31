@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27306
+<pre>Number of characters written: 27307
 Times rewritten: 0
 
 
@@ -689,3 +689,4 @@ Lord Farquaad: That champion shall have the honor-- no, no -- the privilege to g
 lovely Princess Fiona from the fiery keep of the dragon. If for any reason the winner is unsuccessful, 
 the first runner-up will take his place. And so on and so forth. Some of you may die, but it's a sacrifice 
 I am willing to make.
+
