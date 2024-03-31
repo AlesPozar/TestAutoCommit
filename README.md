@@ -1,4 +1,4 @@
-<pre>Number of characters written: 30532
+<pre>Number of characters written: 30533
 Times rewritten: 0
 
 
@@ -761,4 +761,4 @@ Lord Farquaad: No, I have a better idea. People of Duloc! I give you our champio
 
 (The crowd cheers and a fanfare plays)
 
-Shrek: Wh
+Shrek: Wha
