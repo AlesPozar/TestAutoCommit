@@ -1,4 +1,4 @@
-<pre>Number of characters written: 21591
+<pre>Number of characters written: 21592
 Times rewritten: 0
 
 
@@ -558,4 +558,4 @@ Magic Mirror: Bachelorette number 2 is a cape-wearing girl from the land of fanc
 
 (An image of the 7 Dwarves flashes on the screen. The guards laugh at the Mirror's joke)
 
-Magic Mirror: Just kiss h
+Magic Mirror: Just kiss he
