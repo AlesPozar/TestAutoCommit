@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13961
+<pre>Number of characters written: 13962
 Times rewritten: 0
 
 
@@ -353,4 +353,4 @@ Gorder: I found some cheese. (bites into Shrek's ear)
 
 Shrek: Ow! (tries to grab him)
 
-Gorder: Blah! Awful stuff. (jumps dow
+Gorder: Blah! Awful stuff. (jumps down
