@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19596
+<pre>Number of characters written: 19597
 Times rewritten: 0
 
 
@@ -512,4 +512,4 @@ Lord Farquaad: (Shocked) The muffin man?
 
 Gingy: The muffin man!
 
-Lor
+Lord
