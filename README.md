@@ -1,4 +1,4 @@
-<pre>Number of characters written: 23439
+<pre>Number of characters written: 23440
 Times rewritten: 0
 
 
@@ -604,3 +604,4 @@ Lord Farquaad: I'll do it.
 
 Magic Mirror: Yes, but after sunset...
 
+L
