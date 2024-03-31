@@ -1,4 +1,4 @@
-<pre>Number of characters written: 2995
+<pre>Number of characters written: 2996
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -57,4 +57,4 @@ bathing in a muddy pond, gathering giant slugs for dinner, and painting a warnin
 pitchforks and enter the swamp, trampling over Shrek's warning signs. It’s fun to use our imagination, 
 Shrek sees them after investigating the commotion, rolling his eyes. The villagers stop outside Shrek's 
 home, unaware that Shrek is sneaking up behind them)
-
+
