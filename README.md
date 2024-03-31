@@ -1,4 +1,4 @@
-<pre>Number of characters written: 18289
+<pre>Number of characters written: 18290
 Times rewritten: 0
 
 
@@ -476,4 +476,4 @@ man is dunking what looks to be a small person into the glass of milk)
 
 Lord Farquaad: (stepping forward) That's enough. He's ready to talk.
 
-Ging
+Gingy
