@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20017
+<pre>Number of characters written: 20018
 Times rewritten: 0
 
 
@@ -525,4 +525,4 @@ Lord Farquaad: Then what are you waiting for? Bring it in!
 
 Gingy: Ohhhh...
 
-Lord Farquaad: M
+Lord Farquaad: Ma
