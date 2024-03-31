@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27823
+<pre>Number of characters written: 27824
 Times rewritten: 0
 
 
@@ -703,4 +703,4 @@ Lord Farquaad: Oh! What is that? It's hideous!
 
 Shrek: Ah, that's not very nice (looks at Donkey and then back at Lord Farquaad) It's just a donkey.
 
-(Donkey looks confused, the joke Was once again lost on him
+(Donkey looks confused, the joke Was once again lost on him)
