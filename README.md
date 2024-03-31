@@ -1,4 +1,4 @@
-<pre>Number of characters written: 24264
+<pre>Number of characters written: 24265
 Times rewritten: 0
 
 
@@ -627,3 +627,4 @@ He continues walking through the parking lot)
 Donkey: Hey, wait. Wait up, Shrek.
 
 Man: Hurry, darling. We're late. Hurry!
+
