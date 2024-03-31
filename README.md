@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13030
+<pre>Number of characters written: 13031
 Times rewritten: 0
 
 
@@ -328,4 +328,4 @@ is best, you know. Here I go. Good night. (Shrek slams the door, shutting Donkey
 like the outdoors. I'm a donkey. I was born outside. I'll just be sitting by myself outside, I guess, you
 know. By myself, outside. I'm all alone...there's no one here beside me...
 
-SHREK'S HOME - NIGHT
+SHREK'S HOME - NIGHT
