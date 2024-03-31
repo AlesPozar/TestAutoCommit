@@ -1,4 +1,4 @@
-<pre>Number of characters written: 22987
+<pre>Number of characters written: 22988
 Times rewritten: 0
 
 
@@ -590,4 +590,4 @@ Thelonius: 3! (holds up 2 fingers) Pick number 3, my lord!
 
 Lord Farquaad: Okay, okay, uh... number 3!
 
-Magic Mirror: Lord Farquaad, you've chosen Princess F
+Magic Mirror: Lord Farquaad, you've chosen Princess Fi
