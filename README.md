@@ -1,4 +1,4 @@
-<pre>Number of characters written: 23322
+<pre>Number of characters written: 23323
 Times rewritten: 0
 
 
@@ -598,4 +598,4 @@ Lord Farquaad: Princess...Fiona...she's perfect. All I have to do is just find s
 
 Magic Mirror: But I probably should mention the little thing that happens at night.
 
-(Lord Farquaad doesn't listen to the mi
+(Lord Farquaad doesn't listen to the mir
