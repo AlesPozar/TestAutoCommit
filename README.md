@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17878
+<pre>Number of characters written: 17879
 Times rewritten: 0
 
 
@@ -466,4 +466,4 @@ Donkey: Well, can I hum it?
 Shrek: (annoyed) All right, hum it.
 
 (Donkey begins to hum 'On the Road Again'. 
-The pair walk off into the night with Shrek's
+The pair walk off into the night with Shrek's 
