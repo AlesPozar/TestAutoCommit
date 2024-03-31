@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14009
+<pre>Number of characters written: 14010
 Times rewritten: 0
 
 
@@ -355,4 +355,4 @@ Shrek: Ow! (tries to grab him)
 
 Gorder: Blah! Awful stuff. (jumps down to the table)
 
-Blind Mouse: Is that you, Gor
+Blind Mouse: Is that you, Gord
