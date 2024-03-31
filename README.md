@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26597
+<pre>Number of characters written: 26598
 Times rewritten: 0
 
 
@@ -678,4 +678,4 @@ Shrek: All right, you're going the right way for a smacked bottom.
 
 Donkey: Sorry about that.
 
-ARENA
+ARENA
