@@ -1,4 +1,4 @@
-<pre>Number of characters written: 24538
+<pre>Number of characters written: 24539
 Times rewritten: 0
 
 
@@ -633,3 +633,4 @@ maze for crowd control. A mascot wearing a giant head resembling Lord Farquaad s
 line. Shrek and Donkey exchange looks)
 
 Shrek: Hey, you!
+
