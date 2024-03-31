@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20981
+<pre>Number of characters written: 20982
 Times rewritten: 0
 
 
@@ -547,4 +547,4 @@ today's eligible bachelorettes. And...here they are!
 (Bouncy gameshow music begins to play. Using himself as a screen, the Magic Mirror reveals three shadowy 
 portraits of princesses. Lord Farquaad seems confused but watches on silently)
 
-Magic Mirror: Bachelorette number 1 is a mentally abused shut-in from a
+Magic Mirror: Bachelorette number 1 is a mentally abused shut-in from a 
