@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31357
+<pre>Number of characters written: 31358
 Times rewritten: 0
 
 
@@ -789,4 +789,4 @@ Shrek: What kind of quest?
 DULOC - EXTERIOR
 
 (Shrek and Donkey are now walking through the fields heading away from Duloc. 
-Shrek is munching on an oni
+Shrek is munching on an onio
