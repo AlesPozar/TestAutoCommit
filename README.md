@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17365
+<pre>Number of characters written: 17366
 Times rewritten: 0
 
 
@@ -448,4 +448,4 @@ flowers on Donkey's head. They make their through the crowd)
 Donkey: All right, that's what I like to hear, man. Shrek and Donkey, 2 stalwart friends, off on a 
 whirlwind big-city adventure. I love it!
 
-Donkey: (singing) "On the road again...", sing it with me,
+Donkey: (singing) "On the road again...", sing it with me, 
