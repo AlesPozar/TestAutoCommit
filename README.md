@@ -1,4 +1,4 @@
-<pre>Number of characters written: 23784
+<pre>Number of characters written: 23785
 Times rewritten: 0
 
 
@@ -611,4 +611,4 @@ DULOC KINGDOM - EXTERIOR
 
 (Shrek and Donkey come out of the field just outside the Duloc parking lot)
 
-Donkey: But that's it. That's it righ
+Donkey: But that's it. That's it right
