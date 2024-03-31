@@ -1,4 +1,4 @@
-<pre>Number of characters written: 29295
+<pre>Number of characters written: 29296
 Times rewritten: 0
 
 
@@ -732,4 +732,4 @@ The crowd boos. Shrek jump kicks a knight, and then body slams another. A knight
 with his spear ready to attack. The crowd gasps, 
 but before he can make a move Shrek puts him in a full-nelson hold)
 
-Donkey: Hey, Shrek, tag me! Tag me
+Donkey: Hey, Shrek, tag me! Tag me!
