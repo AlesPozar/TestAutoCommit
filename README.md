@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31205
+<pre>Number of characters written: 31206
 Times rewritten: 0
 
 
@@ -784,4 +784,4 @@ Lord Farquaad: As good as gone.
 
 (Shrek glances at the soldiers still aiming their crossbows and then turns back to Lord Farquaad)
 
-Shrek
+Shrek:
