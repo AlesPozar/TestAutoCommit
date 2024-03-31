@@ -1,4 +1,4 @@
-<pre>Number of characters written: 30623
+<pre>Number of characters written: 30624
 Times rewritten: 0
 
 
@@ -763,4 +763,4 @@ Lord Farquaad: No, I have a better idea. People of Duloc! I give you our champio
 
 Shrek: What?
 
-Lord Farquaad: Congratulations, ogre. You've won the honor of embarking on a great a
+Lord Farquaad: Congratulations, ogre. You've won the honor of embarking on a great an
