@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20263
+<pre>Number of characters written: 20264
 Times rewritten: 0
 
 
@@ -531,4 +531,4 @@ Gingy: Don't tell him anything! (Lord Farquaad smacks him off the table and into
 
 Lord Farquaad: Evening. Mirror, mirror on the wall, is this not the most perfect kingdom of them all?
 
-Magic Mirror: Well, te
+Magic Mirror: Well, tec
