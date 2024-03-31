@@ -1,4 +1,4 @@
-<pre>Number of characters written: 30174
+<pre>Number of characters written: 30175
 Times rewritten: 0
 
 
@@ -749,4 +749,4 @@ with ease. Shrek picks up the last knight, spinning him over his head and then t
 post of the wrestling ring. Donkey kicks his helmet, and the ding sounds the end of the match. Finally 
 all the knights are down. The audience goes wild)
 
-Shrek: Oh, yeah! Ah! Ah! Thank you! Thank you very much! I'm here till Thursda
+Shrek: Oh, yeah! Ah! Ah! Thank you! Thank you very much! I'm here till Thursday
