@@ -1,4 +1,4 @@
-<pre>Number of characters written: 99121
+<pre>Number of characters written: 99122
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2713,4 +2713,4 @@ somewhat and now has one leg and walks with a candy cane cane.
 Gingy: God bless us, every one.
 
 The guests party and dance as Donkey takes over singing The Monkees song. Shrek and Fiona ride away 
-in their carriage. Cut to a storybook that reads "And 
+in their carriage. Cut to a storybook that reads "And t
