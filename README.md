@@ -1,4 +1,4 @@
-<pre>Number of characters written: 23397
+<pre>Number of characters written: 23398
 Times rewritten: 0
 
 
@@ -602,3 +602,4 @@ Magic Mirror: But I probably should mention the little thing that happens at nig
 
 Lord Farquaad: I'll do it.
 
+M
