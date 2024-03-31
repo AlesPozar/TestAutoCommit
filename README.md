@@ -1,4 +1,4 @@
-<pre>Number of characters written: 28590
+<pre>Number of characters written: 28591
 Times rewritten: 0
 
 
@@ -723,4 +723,4 @@ Crowd: Kill the beast!
 Shrek: No? All right then. (drinks the ale in one gulp) Come on!
 
 (Shrek takes the mug and smashes the spigot off the large barrel of ale behind him. The ale comes rushing 
-out, knocking the knights down and wetting the ground into mud. Shrek slides past the knights a
+out, knocking the knights down and wetting the ground into mud. Shrek slides past the knights an
