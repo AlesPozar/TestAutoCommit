@@ -1,4 +1,4 @@
-<pre>Number of characters written: 18015
+<pre>Number of characters written: 18016
 Times rewritten: 0
 
 
@@ -470,4 +470,4 @@ The pair walk off into the night with Shrek's torch lighting the way)
 
 DULOC - DUNGEON
 
-(A masked man is pouring a glass of milk. Another man is shown walking down the hallway to
+(A masked man is pouring a glass of milk. Another man is shown walking down the hallway tow
