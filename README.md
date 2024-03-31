@@ -1,4 +1,4 @@
-<pre>Number of characters written: 24769
+<pre>Number of characters written: 24770
 Times rewritten: 0
 
 
@@ -639,4 +639,4 @@ through the roped path to get to the front gate)
 
 Shrek: Wait a second. Look, I'm not gonna eat you. I just-- I just --
 
-(Shrek sighs in frustration and then begi
+(Shrek sighs in frustration and then begin
