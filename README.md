@@ -1,4 +1,4 @@
-<pre>Number of characters written: 25053
+<pre>Number of characters written: 25054
 Times rewritten: 0
 
 
@@ -644,4 +644,4 @@ and knocks himself out. Shrek pushes through the entrance's turnstile, but Donke
 lands on the ground with a thud. Donkey sheepishly smiles and Shrek sighs in annoyance)
 
 DULOC - INTERIOR
-
+
