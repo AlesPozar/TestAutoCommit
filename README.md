@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19805
+<pre>Number of characters written: 19806
 Times rewritten: 0
 
 
@@ -518,4 +518,4 @@ Lord Farquaad: She's married to the muffin man.
 
 The Captain: My lord! We've found it.
 
-Lord Farquaad: Then what are you waiting for? Bring it in
+Lord Farquaad: Then what are you waiting for? Bring it in!
