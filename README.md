@@ -1,4 +1,4 @@
-<pre>Number of characters written: 12979
+<pre>Number of characters written: 12980
 Times rewritten: 0
 
 
@@ -326,4 +326,4 @@ Shrek: (irritated) Outside!
 Donkey: Oh, well, I guess that's cool. I mean, I don't know you, and you don't know me, so I guess outside
 is best, you know. Here I go. Good night. (Shrek slams the door, shutting Donkey outside) I mean, I do
 like the outdoors. I'm a donkey. I was born outside. I'll just be sitting by myself outside, I guess, you
-know. By myself, outside. I'm all alone...there'
+know. By myself, outside. I'm all alone...there's
