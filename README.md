@@ -1,4 +1,4 @@
-<pre>Number of characters written: 16404
+<pre>Number of characters written: 16405
 Times rewritten: 0
 
 
@@ -427,3 +427,4 @@ Big Bad Wolf and a wizard point at each other)
 
 Shrek: Anyone at all?
 
+D
