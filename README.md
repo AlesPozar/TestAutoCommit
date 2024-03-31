@@ -1,4 +1,4 @@
-<pre>Number of characters written: 21791
+<pre>Number of characters written: 21792
 Times rewritten: 0
 
 
@@ -562,3 +562,4 @@ Magic Mirror: Just kiss her dead, frozen lips and find out what a live wire she 
 Come on, give it up for Snow White!
 
 (The mirror shows a portrait of Snow White in her slumber. Lord Farquaad seems even more pleased, 
+a
