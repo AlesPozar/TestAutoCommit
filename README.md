@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13549
+<pre>Number of characters written: 13550
 Times rewritten: 0
 
 
@@ -339,4 +339,4 @@ Shrek: (to Donkey) I thought I told you to stay outside!
 Donkey: (from the window) I am outside!
 
 (Shrek hears a noise from inside and turns to find the source. He sees several shadows moving and looks 
-around. He sees the 3 Blin
+around. He sees the 3 Blind
