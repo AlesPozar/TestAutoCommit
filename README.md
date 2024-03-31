@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13884
+<pre>Number of characters written: 13885
 Times rewritten: 0
 
 
@@ -349,4 +349,4 @@ Gorder: (bouncing on a slug) What a lovely bed.
 
 Shrek: Got ya. (grabs Gorder, but he escapes and lands on his shoulder)
 
-Gorder: I found some cheese. (bites into Shrek's ea
+Gorder: I found some cheese. (bites into Shrek's ear
