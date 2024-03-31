@@ -1,4 +1,4 @@
-<pre>Number of characters written: 93900
+<pre>Number of characters written: 93901
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2565,4 +2565,4 @@ Lord Farquaad: Outrageous! Fiona, don't listen to him--
 
 Shrek: He's not your true love.
 
-FIONA: An
+FIONA: And
