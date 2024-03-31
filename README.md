@@ -1,4 +1,4 @@
-<pre>Number of characters written: 25343
+<pre>Number of characters written: 25344
 Times rewritten: 0
 
 
@@ -651,3 +651,4 @@ rows of houses all looked exactly the same. Chirpy music quietly plays from a se
 Shrek: It's quiet. Too quiet. Where is everybody?
 
 Donkey: Hey, look at this!
+
