@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31971
+<pre>Number of characters written: 31972
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -800,4 +800,4 @@ Donkey: I don't get it. Why don't you just pull some of that ogre stuff on him? 
 to his fortress, grinds his bones to make your bread, the whole ogre trip.
 
 Shrek: Oh, I know what. Maybe I could have decapitated an entire village and put their heads on a pike, 
-got
+gott
