@@ -1,4 +1,4 @@
-<pre>Number of characters written: 21464
+<pre>Number of characters written: 21465
 Times rewritten: 0
 
 
@@ -554,4 +554,4 @@ sushi and hot tubbing anytime! Her hobbies include cooking and cleaning for her 
 glass slipper. Lord Farquaad looks at her approvingly and the Captain claps)
 
 Magic Mirror: Bachelorette number 2 is a cape-wearing girl from the land of fancy. Although she lives with 
-7 other men, she's not
+7 other men, she's not 
