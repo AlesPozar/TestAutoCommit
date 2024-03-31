@@ -1,4 +1,4 @@
-<pre>Number of characters written: 22151
+<pre>Number of characters written: 22152
 Times rewritten: 0
 
 
@@ -568,4 +568,4 @@ Magic Mirror: And last, but certainly not last, bachelorette number 3 is a fiery
 dragon-guarded castle surrounded by hot boiling lava!
 
 (The mirror shows an image of a giant dragon besides a tower and then of a giant castle surrounded by lava. 
-A bright fire shines on the screen and Lord Farquaad cove
+A bright fire shines on the screen and Lord Farquaad cover
