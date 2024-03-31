@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13261
+<pre>Number of characters written: 13262
 Times rewritten: 0
 
 
@@ -332,4 +332,4 @@ SHREK'S HOME - NIGHT
 
 (Shrek is getting ready for dinner. He sits down, lights a candle made out of his own earwax, and begins 
 eating. Donkey looks inside from a window, and then lays down by the front door. Shrek is about to take a 
-bite when he 
+bite when he h
