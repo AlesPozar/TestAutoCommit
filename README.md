@@ -1,4 +1,4 @@
-<pre>Number of characters written: 98959
+<pre>Number of characters written: 98960
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2710,4 +2710,4 @@ Cinderella and Snow White try to catch. They end get into a cat fight and Dragon
 instead. Donkey looks nervous, but Shrek and Fiona give him reassuring looks. Gingy has been mended 
 somewhat and now has one leg and walks with a candy cane cane.
 
-Gingy: God bless us, every on
+Gingy: God bless us, every one
