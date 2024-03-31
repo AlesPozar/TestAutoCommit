@@ -1,4 +1,4 @@
-<pre>Number of characters written: 18661
+<pre>Number of characters written: 18662
 Times rewritten: 0
 
 
@@ -481,3 +481,4 @@ evilly as he walks over to the table. When he reaches the table we see that he i
 it. He clears his throat and the table is lowered
 
 Lord Farquaad: (he picks up the Gingy's severed legs and plays with them) Run, run, run, as fast as you 
+c
