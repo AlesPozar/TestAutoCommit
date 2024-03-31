@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31262
+<pre>Number of characters written: 31263
 Times rewritten: 0
 
 
@@ -788,4 +788,4 @@ Shrek: What kind of quest?
 
 DULOC - EXTERIOR
 
-(Shrek and D
+(Shrek and Do
