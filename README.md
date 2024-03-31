@@ -1,4 +1,4 @@
-<pre>Number of characters written: 30974
+<pre>Number of characters written: 30975
 Times rewritten: 0
 
 
@@ -775,4 +775,4 @@ Lord Farquaad: Indeed. All right, ogre. I'll make you a deal. Go on this quest f
 and I'll give you your swamp back.
 
 Shrek: Exactly the way it was?
-
+
