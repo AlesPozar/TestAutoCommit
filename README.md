@@ -1,4 +1,4 @@
-<pre>Number of characters written: 16402
+<pre>Number of characters written: 16403
 Times rewritten: 0
 
 
@@ -426,3 +426,4 @@ Shrek: Does anyone else know where to find him?
 Big Bad Wolf and a wizard point at each other)
 
 Shrek: Anyone at all?
+
