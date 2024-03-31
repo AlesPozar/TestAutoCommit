@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26835
+<pre>Number of characters written: 26836
 Times rewritten: 0
 
 
@@ -682,4 +682,4 @@ ARENA
 
 (In the center of a stadium-like arena, Duloc Knights are gathered as a large crowd of citizens watches on 
 from the stands. Horses, kegs of beer, arrow targets, and other equipment are scattered about. Farquaad is 
-atop a high up b
+atop a high up ba
