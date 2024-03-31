@@ -1,4 +1,4 @@
-<pre>Number of characters written: 29675
+<pre>Number of characters written: 29676
 Times rewritten: 0
 
 
@@ -740,4 +740,4 @@ top of the ropes and beckons on the crowd's cheers)
 
 Shrek: Yeah!
 
-(A knight tries to sneak up behind Shrek, but he turns in time to sees him and jumps on
+(A knight tries to sneak up behind Shrek, but he turns in time to sees him and jumps on 
