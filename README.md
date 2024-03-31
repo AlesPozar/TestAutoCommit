@@ -1,4 +1,4 @@
-<pre>Number of characters written: 30350
+<pre>Number of characters written: 30351
 Times rewritten: 0
 
 
@@ -753,4 +753,4 @@ Shrek: Oh, yeah! Ah! Ah! Thank you! Thank you very much! I'm here till Thursday.
 (laughs)
 
 (Lord Farquaad motions to the guards, who aim their crossbows at Shrek and Donkey. The crowd gasps and 
-goes silent. Shrek stops laughin
+goes silent. Shrek stops laughing
