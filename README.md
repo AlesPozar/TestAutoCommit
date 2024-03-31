@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17006
+<pre>Number of characters written: 17007
 Times rewritten: 0
 
 
@@ -441,4 +441,4 @@ back where you came from!
 A group of birds drapes a cloak made of flowers around Shrek's shoulders, much to his annoyance)
 
 Shrek: Oh! (to Donkey) You! You're coming with me.
-
+
