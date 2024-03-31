@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20668
+<pre>Number of characters written: 20669
 Times rewritten: 0
 
 
@@ -542,4 +542,4 @@ All you have to do is marry a princess.
 Lord Farquaad: Go on.
 
 Magic Mirror: (chuckles nervously) So, just sit back and relax, my lord, because it's time for you to meet
-tod
+toda
