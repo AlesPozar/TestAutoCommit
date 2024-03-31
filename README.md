@@ -1,4 +1,4 @@
-<pre>Number of characters written: 96579
+<pre>Number of characters written: 96580
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2643,4 +2643,4 @@ Lord Farquaad: I'll have you locked back in that tower for the rest of your days
 Lord Farquaad: I will have order! I will have perfection! I will have--
 
 Suddenly Dragon, with Donkey atop her head, crashes through a large window behind him. Lord Farquaad 
-drops Her weapon & looks Up.
+drops Her weapon & looks Up.
