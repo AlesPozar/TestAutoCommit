@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14754
+<pre>Number of characters written: 14755
 Times rewritten: 0
 
 
@@ -377,4 +377,4 @@ Big Bad Wolf: What?
 
 (Shrek now has the Big Bad Wolf by the collar and is dragging him to the front door)
 
-Shrek: I live in a swamp. I put up signs. I'm a terrifying ogre! What do I have t
+Shrek: I live in a swamp. I put up signs. I'm a terrifying ogre! What do I have to
