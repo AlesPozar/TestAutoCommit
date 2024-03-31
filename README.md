@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15388
+<pre>Number of characters written: 15389
 Times rewritten: 0
 
 
@@ -390,4 +390,4 @@ Shrek: Oh, no. Oh, no. No! No! (he dodges out the way of a group of witches flyi
 Shrek: WHAT ARE YOU DOING IN MY SWAMP?!!
 
 (Shrek's voice echoes throughout the camp and everyone falls silent. Gasps are heard all around. The 3 Good
- Fairies
+ Fairies 
