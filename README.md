@@ -1,4 +1,4 @@
-<pre>Number of characters written: 99199
+<pre>Number of characters written: 99200
 Times rewritten: 1
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -547,7 +547,8 @@ today's eligible bachelorettes. And...here they are!
 portraits of princesses. Lord Farquaad seems confused but watches on silently)
 
 Magic Mirror: Bachelorette number 1 is a mentally abused shut-in from a kingdom far, far away. She likes 
-sushi and hot tubbing anytime! Her hobbies include cooking and cleaning for her 2 evil sisters. Please welcome...Cinderella!
+sushi and hot tubbing anytime! Her hobbies include cooking and cleaning for her 2 evil sisters. 
+Please welcome...Cinderella!
 
 (An image of Cinderella doing housework flips to a portrait of Cinderella in her ball gown putting on the 
 glass slipper. Lord Farquaad looks at her approvingly and the Captain claps)
@@ -2715,4 +2716,4 @@ Gingy: God bless us, every one.
 The guests party and dance as Donkey takes over singing The Monkees song. Shrek and Fiona ride away 
 in their carriage. Cut to a storybook that reads "And they lived ugly ever after...THE END".
 
-Donkey: (as he's done singing and we
+Donkey: (as he's done singing and w
