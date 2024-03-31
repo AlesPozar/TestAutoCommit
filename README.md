@@ -1,4 +1,4 @@
-<pre>Number of characters written: 23666
+<pre>Number of characters written: 23667
 Times rewritten: 0
 
 
@@ -608,3 +608,4 @@ Lord Farquaad: Silence! I will make this Princess Fiona my queen, and Duloc will
 king! Captain, assemble your finest men. We're going to have a tournament! (grins evilly)
 
 DULOC KINGDOM - EXTERIOR
+
