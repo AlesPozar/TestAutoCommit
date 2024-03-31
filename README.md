@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14202
+<pre>Number of characters written: 14203
 Times rewritten: 0
 
 
@@ -362,4 +362,4 @@ Gorder: How did you know?
 Shrek: Enough! (he grabs all 3 mice) What are you doing in my house? 
 (He gets bumped from behind and he drops the mice) Hey!
 
-(Shrek turns around and se
+(Shrek turns around and see
