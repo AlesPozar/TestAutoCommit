@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14057
+<pre>Number of characters written: 14058
 Times rewritten: 0
 
 
@@ -359,4 +359,4 @@ Blind Mouse: Is that you, Gorder?
 
 Gorder: How did you know?
 
-Shrek: Enou
+Shrek: Enoug
