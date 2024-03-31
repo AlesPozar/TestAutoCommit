@@ -1,4 +1,4 @@
-<pre>Number of characters written: 22831
+<pre>Number of characters written: 22832
 Times rewritten: 0
 
 
@@ -586,4 +586,4 @@ Guards: 2! 2! 3! 3! 2! 2! 3!
 
 Lord Farquaad: (to himself) 2? 3? 1? 3?
 
-Thelo
+Thelon
