@@ -1,4 +1,4 @@
-<pre>Number of characters written: 16820
+<pre>Number of characters written: 16821
 Times rewritten: 0
 
 
@@ -437,4 +437,4 @@ Shrek: Huh! Okay, fine. Attention all...fairy tale things. Do not get comfortabl
 officially worn out! In fact, They Saw That guy Farquaad right now and get you all off my land and 
 back where you came from!
 
-(After a brief silence, the crowd erupts into cheering and applause. T
+(After a brief silence, the crowd erupts into cheering and applause. Th
