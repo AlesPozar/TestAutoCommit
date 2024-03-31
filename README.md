@@ -1,4 +1,4 @@
-<pre>Number of characters written: 18531
+<pre>Number of characters written: 18532
 Times rewritten: 0
 
 
@@ -478,4 +478,4 @@ Lord Farquaad: (stepping forward) That's enough. He's ready to talk.
 
 Gingy is pulled out of the milk by Thelonious and is slammed down onto a cookie sheet. Lord Farquaad laughs 
 evilly as he walks over to the table. When he reaches the table we see that he is too short to see above 
-it. He clears his throat and 
+it. He clears his throat and t
