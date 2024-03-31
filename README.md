@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3222
+<pre>Number of characters written: 3223
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -66,4 +66,4 @@ Villager 2: All right. Let's get it!
 
 Villager 1: Whoa. Hold on. Do you know what that thing can do to you?
 
-Villager 3: Yeah, it'll grind your bones for it
+Villager 3: Yeah, it'll grind your bones for its
