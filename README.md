@@ -1,4 +1,4 @@
-<pre>Number of characters written: 18959
+<pre>Number of characters written: 18960
 Times rewritten: 0
 
 
@@ -487,4 +487,4 @@ Gingy: You're a monster!
 
 Lord Farquaad: I'm not the monster here, you are. (throws one leg at Gingy) You and the rest of that fairy 
 tale trash, poisoning my perfect world (crumbles his other leg into dust) 
-Now, tell me! Where are the othe
+Now, tell me! Where are the other
