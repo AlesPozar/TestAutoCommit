@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19723
+<pre>Number of characters written: 19724
 Times rewritten: 0
 
 
@@ -516,4 +516,4 @@ Lord Farquaad: She's married to the muffin man.
 
 (A door opens and the Captain of the Duloc Guards steps in)
 
-The Captain: My 
+The Captain: My l
