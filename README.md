@@ -1,4 +1,4 @@
-<pre>Number of characters written: 28460
+<pre>Number of characters written: 28461
 Times rewritten: 0
 
 
@@ -722,4 +722,4 @@ Crowd: Kill the beast!
 
 Shrek: No? All right then. (drinks the ale in one gulp) Come on!
 
-(Shrek takes the mug and smashes the spigot off the large barrel of ale b
+(Shrek takes the mug and smashes the spigot off the large barrel of ale be
