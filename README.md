@@ -1,4 +1,4 @@
-<pre>Number of characters written: 16225
+<pre>Number of characters written: 16226
 Times rewritten: 0
 
 
@@ -420,4 +420,4 @@ Shrek: (sighs) Alright. Who knows where this... "Farquaad" guy is?
 
 Donkey: Oh, I do. I know where he is!
 
-Shrek: Does anyone e
+Shrek: Does anyone el
