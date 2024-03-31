@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26237
+<pre>Number of characters written: 26238
 Times rewritten: 0
 
 
@@ -669,4 +669,4 @@ Shrek: No! No! No, no, no! (whispers) No.
 
 (They hear a trumpet fanfare from afar and head over to investigate. A voice sounds from the distance)
 
-Lord Farq
+Lord Farqu
