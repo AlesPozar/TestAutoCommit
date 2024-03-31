@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26651
+<pre>Number of characters written: 26652
 Times rewritten: 0
 
 
@@ -680,4 +680,4 @@ Donkey: Sorry about that.
 
 ARENA
 
-(In the center of a stadium-like arena, Duloc Knig
+(In the center of a stadium-like arena, Duloc Knigh
