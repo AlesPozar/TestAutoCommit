@@ -1,4 +1,4 @@
-<pre>Number of characters written: 16596
+<pre>Number of characters written: 16597
 Times rewritten: 0
 
 
@@ -433,4 +433,4 @@ Shrek: Anyone?
 
 Donkey: (jumping up and down) Oh! Oh, pick me! Oh, I know! I know! Me, me!
 
-Shrek: Huh! Okay, fine. Attention all...fairy tale things. Do not get comfort
+Shrek: Huh! Okay, fine. Attention all...fairy tale things. Do not get comforta
