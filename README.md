@@ -1,4 +1,4 @@
-<pre>Number of characters written: 16008
+<pre>Number of characters written: 16009
 Times rewritten: 0
 
 
@@ -412,4 +412,4 @@ Pinocchio: We were forced to come here!
 
 Shrek: By who?!
 
-Little Pig: Lord Farquaad. He huffed and he puffed and he...signed an evi
+Little Pig: Lord Farquaad. He huffed and he puffed and he...signed an evic
