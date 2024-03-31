@@ -1,4 +1,4 @@
-<pre>Number of characters written: 18602
+<pre>Number of characters written: 18603
 Times rewritten: 0
 
 
@@ -480,4 +480,4 @@ Gingy is pulled out of the milk by Thelonious and is slammed down onto a cookie 
 evilly as he walks over to the table. When he reaches the table we see that he is too short to see above 
 it. He clears his throat and the table is lowered
 
-Lord Farquaad: (he picks up the Gingy's severed
+Lord Farquaad: (he picks up the Gingy's severed 
