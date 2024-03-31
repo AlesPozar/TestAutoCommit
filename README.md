@@ -1,4 +1,4 @@
-<pre>Number of characters written: 28081
+<pre>Number of characters written: 28082
 Times rewritten: 0
 
 
@@ -710,3 +710,4 @@ Lord Farquaad: Indeed. Knights, new plan! The one who kills the ogre will be nam
 (Lord Farquaad points at Shrek. The Duloc Knights draw their weapons and slowly approach Shrek as he backs 
 up, the crowd cheering them on)
 
+C
