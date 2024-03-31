@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13844
+<pre>Number of characters written: 13845
 Times rewritten: 0
 
 
@@ -349,4 +349,4 @@ Gorder: (bouncing on a slug) What a lovely bed.
 
 Shrek: Got ya. (grabs Gorder, but he escapes and lands on his shoulder)
 
-Gorder: I f
+Gorder: I fo
