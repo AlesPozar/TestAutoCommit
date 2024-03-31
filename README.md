@@ -1,4 +1,4 @@
-<pre>Number of characters written: 29342
+<pre>Number of characters written: 29343
 Times rewritten: 0
 
 
@@ -734,4 +734,4 @@ but before he can make a move Shrek puts him in a full-nelson hold)
 
 Donkey: Hey, Shrek, tag me! Tag me!
 
-(Shrek brings the knight over to Donkey, w
+(Shrek brings the knight over to Donkey, wh
