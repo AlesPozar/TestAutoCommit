@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31636
+<pre>Number of characters written: 31637
 Times rewritten: 0
 
 
@@ -795,4 +795,4 @@ Donkey: Let me get this straight. You're gonna go fight a dragon and rescue a pr
 will give you back a swamp which you only don't have because he filled it full of freaks in the first 
 place. Is that about right?
 
-Shrek: You know, maybe there's 
+Shrek: You know, maybe there's a
