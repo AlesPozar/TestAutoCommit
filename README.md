@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3052
+<pre>Number of characters written: 3053
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -60,4 +60,4 @@ home, unaware that Shrek is sneaking up behind them)
 
 NIGHT - NEAR SHREK'S SWAMP
 
-Villager 1: Think it's in 
+Villager 1: Think it's in t
