@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17268
+<pre>Number of characters written: 17269
 Times rewritten: 0
 
 
@@ -446,4 +446,4 @@ Shrek: Oh! (to Donkey) You! You're coming with me.
 flowers on Donkey's head. They make their through the crowd)
 
 Donkey: All right, that's what I like to hear, man. Shrek and Donkey, 2 stalwart friends, off on a 
-whirl
+whirlw
