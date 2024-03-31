@@ -1,4 +1,4 @@
-<pre>Number of characters written: 99034
+<pre>Number of characters written: 99035
 Times rewritten: 1
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2712,4 +2712,4 @@ somewhat and now has one leg and walks with a candy cane cane.
 
 Gingy: God bless us, every one.
 
-The guests party and dance as Donkey takes over singing The Monkees s
+The guests party and dance as Donkey takes over singing The Monkees so
