@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13572
+<pre>Number of characters written: 13573
 Times rewritten: 0
 
 
@@ -340,4 +340,4 @@ Donkey: (from the window) I am outside!
 
 (Shrek hears a noise from inside and turns to find the source. He sees several shadows moving and looks 
 around. He sees the 3 Blind Mice on his table)
-
+
