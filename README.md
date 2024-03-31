@@ -1,4 +1,4 @@
-<pre>Number of characters written: 30244
+<pre>Number of characters written: 30245
 Times rewritten: 0
 
 
@@ -752,4 +752,4 @@ all the knights are down. The audience goes wild)
 Shrek: Oh, yeah! Ah! Ah! Thank you! Thank you very much! I'm here till Thursday. Try the veal! Ha, ha! 
 (laughs)
 
-(Lord Farquaad motions to the g
+(Lord Farquaad motions to the gu
