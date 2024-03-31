@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13656
+<pre>Number of characters written: 13657
 Times rewritten: 0
 
 
@@ -343,3 +343,4 @@ around. He sees the 3 Blind Mice on his table)
 
 Mouse 1: Well, gents, it's a far cry from the farm, but what choice do we have?
 
+M
