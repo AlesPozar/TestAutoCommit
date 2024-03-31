@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14451
+<pre>Number of characters written: 14452
 Times rewritten: 0
 
 
@@ -369,4 +369,4 @@ Shrek: Oh, no, no, no. Dead broad off the table! (pushes the coffin away)
 
 Dwarf: Where are we supposed to put her? The bed's taken.
 
-Shrek: (confused) H
+Shrek: (confused) Hu
