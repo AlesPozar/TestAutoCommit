@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26641
+<pre>Number of characters written: 26642
 Times rewritten: 0
 
 
@@ -680,4 +680,4 @@ Donkey: Sorry about that.
 
 ARENA
 
-(In the center of a stadium-like arena, 
+(In the center of a stadium-like arena, D
