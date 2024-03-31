@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15626
+<pre>Number of characters written: 15627
 Times rewritten: 0
 
 
@@ -398,4 +398,4 @@ Dwarves: Quickly. Come on!
 
 (More dwarves run inside the house and shut the door behind them)
 
-Shrek: No, no! N
+Shrek: No, no! No
