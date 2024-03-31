@@ -1,4 +1,4 @@
-<pre>Number of characters written: 23221
+<pre>Number of characters written: 23222
 Times rewritten: 0
 
 
@@ -596,4 +596,4 @@ Magic Mirror: Lord Farquaad, you've chosen Princess Fiona.
 
 Lord Farquaad: Princess...Fiona...she's perfect. All I have to do is just find someone who can go...
 
-Magic Mirror: But I proba
+Magic Mirror: But I probab
