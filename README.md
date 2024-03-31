@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20848
+<pre>Number of characters written: 20849
 Times rewritten: 0
 
 
@@ -545,4 +545,4 @@ Magic Mirror: (chuckles nervously) So, just sit back and relax, my lord, because
 today's eligible bachelorettes. And...here they are!
 
 (Bouncy gameshow music begins to play. Using himself as a screen, the Magic Mirror reveals three shadowy 
-portraits of princes
+portraits of princess
