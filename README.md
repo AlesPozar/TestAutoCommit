@@ -1,4 +1,4 @@
-<pre>Number of characters written: 22420
+<pre>Number of characters written: 22421
 Times rewritten: 0
 
 
@@ -574,4 +574,4 @@ This doesn't seem to deter his interest)
 Magic Mirror: But don't let that cool you off. She's a loaded pistol who likes piña coladas and getting 
 caught in the rain. Yours for the rescuing, Princess Fiona!
 
-(The mirror shows a portrait of Princess 
+(The mirror shows a portrait of Princess F
