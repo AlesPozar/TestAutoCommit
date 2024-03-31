@@ -1,4 +1,4 @@
-<pre>Number of characters written: 24667
+<pre>Number of characters written: 24668
 Times rewritten: 0
 
 
@@ -637,4 +637,4 @@ Shrek: Hey, you!
 (The mascot screams at the sight of Shrek and begins running 
 through the roped path to get to the front gate)
 
-Shrek: Wait 
+Shrek: Wait a
