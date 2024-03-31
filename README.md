@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17599
+<pre>Number of characters written: 17600
 Times rewritten: 0
 
 
@@ -454,3 +454,4 @@ Donkey: (singing) "On the road again...", sing it with me, Shrek!
 refuses to let go. Shrek shakes the torch until the dwarf falls into a pond)
 
 Donkey: "I can't wait to get on the road again."
+
