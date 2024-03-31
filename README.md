@@ -1,4 +1,4 @@
-<pre>Number of characters written: 25393
+<pre>Number of characters written: 25394
 Times rewritten: 0
 
 
@@ -652,4 +652,4 @@ Shrek: It's quiet. Too quiet. Where is everybody?
 
 Donkey: Hey, look at this!
 
-(Donkey runs over and pulls a lever that is atta
+(Donkey runs over and pulls a lever that is attac
