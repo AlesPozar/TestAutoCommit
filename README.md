@@ -1,4 +1,4 @@
-<pre>Number of characters written: 18824
+<pre>Number of characters written: 18825
 Times rewritten: 0
 
 
@@ -485,4 +485,4 @@ can. You can't catch me. I'm the gingerbread man!
 
 Gingy: You're a monster!
 
-Lord Farquaad: I'm not the monster here, you are. (throws one leg at Gingy) You an
+Lord Farquaad: I'm not the monster here, you are. (throws one leg at Gingy) You and
