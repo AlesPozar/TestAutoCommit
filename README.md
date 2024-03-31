@@ -1,4 +1,4 @@
-<pre>Number of characters written: 21828
+<pre>Number of characters written: 21829
 Times rewritten: 0
 
 
@@ -563,4 +563,4 @@ Come on, give it up for Snow White!
 
 (The mirror shows a portrait of Snow White in her slumber. Lord Farquaad seems even more pleased, 
 and everyone else claps this time)
-
+
