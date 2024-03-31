@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3371
+<pre>Number of characters written: 3372
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -72,4 +72,4 @@ Villager 3: Yeah, it'll grind your bones for its bread.
 
 Shrek: Yes, well, actually, that would be a giant.
 
-(The mob gasps
+(The mob gasps)
