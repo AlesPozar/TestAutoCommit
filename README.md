@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1156
+<pre>Number of characters written: 1157
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -29,4 +29,4 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 
-(The DreamWorks Pictures
+(The DreamWorks Pictures 
