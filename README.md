@@ -1,4 +1,4 @@
-<pre>Number of characters written: 21898
+<pre>Number of characters written: 21899
 Times rewritten: 0
 
 
@@ -564,4 +564,4 @@ Come on, give it up for Snow White!
 (The mirror shows a portrait of Snow White in her slumber. Lord Farquaad seems even more pleased, 
 and everyone else claps this time)
 
-Magic Mirror: And last, but certainly not last, bachelorette number 3
+Magic Mirror: And last, but certainly not last, bachelorette number 3 
