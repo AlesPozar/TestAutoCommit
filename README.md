@@ -1,4 +1,4 @@
-<pre>Number of characters written: 24557
+<pre>Number of characters written: 24558
 Times rewritten: 0
 
 
@@ -634,4 +634,4 @@ line. Shrek and Donkey exchange looks)
 
 Shrek: Hey, you!
 
-(The mascot screa
+(The mascot scream
