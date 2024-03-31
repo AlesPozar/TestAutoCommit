@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15837
+<pre>Number of characters written: 15838
 Times rewritten: 0
 
 
@@ -404,4 +404,4 @@ Shrek: No, no! No, no. Not there! Not there!
 
 Donkey: Hey, don't look at me. I didn't invite them.
 
-Pinocchio: Well gosh, no 
+Pinocchio: Well gosh, no o
