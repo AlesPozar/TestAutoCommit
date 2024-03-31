@@ -1,4 +1,4 @@
-<pre>Number of characters written: 18712
+<pre>Number of characters written: 18713
 Times rewritten: 0
 
 
@@ -482,3 +482,4 @@ it. He clears his throat and the table is lowered
 
 Lord Farquaad: (he picks up the Gingy's severed legs and plays with them) Run, run, run, as fast as you 
 can. You can't catch me. I'm the gingerbread man!
+
