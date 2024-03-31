@@ -1,4 +1,4 @@
-<pre>Number of characters written: 21316
+<pre>Number of characters written: 21317
 Times rewritten: 0
 
 
@@ -551,4 +551,4 @@ Magic Mirror: Bachelorette number 1 is a mentally abused shut-in from a kingdom 
 sushi and hot tubbing anytime! Her hobbies include cooking and cleaning for her 2 evil sisters. Please welcome...Cinderella!
 
 (An image of Cinderella doing housework flips to a portrait of Cinderella in her ball gown putting on the 
-glass slipper. Lord Farquaad looks at her approvingly and the C
+glass slipper. Lord Farquaad looks at her approvingly and the Ca
