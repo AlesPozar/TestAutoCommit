@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14695
+<pre>Number of characters written: 14696
 Times rewritten: 0
 
 
@@ -377,4 +377,4 @@ Big Bad Wolf: What?
 
 (Shrek now has the Big Bad Wolf by the collar and is dragging him to the front door)
 
-Shrek: I live in a swa
+Shrek: I live in a swam
