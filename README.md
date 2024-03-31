@@ -1,4 +1,4 @@
-<pre>Number of characters written: 23840
+<pre>Number of characters written: 23841
 Times rewritten: 0
 
 
@@ -613,4 +613,4 @@ DULOC KINGDOM - EXTERIOR
 
 Donkey: But that's it. That's it right there. That's Duloc. I told ya I'd find it.
 
-(The 2 
+(The 2 g
