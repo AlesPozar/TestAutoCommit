@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15613
+<pre>Number of characters written: 15614
 Times rewritten: 0
 
 
@@ -398,4 +398,4 @@ Dwarves: Quickly. Come on!
 
 (More dwarves run inside the house and shut the door behind them)
 
-Shr
+Shre
