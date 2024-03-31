@@ -1,4 +1,4 @@
-<pre>Number of characters written: 25122
+<pre>Number of characters written: 25123
 Times rewritten: 0
 
 
@@ -645,4 +645,4 @@ lands on the ground with a thud. Donkey sheepishly smiles and Shrek sighs in ann
 
 DULOC - INTERIOR
 
-(Shrek and Donkey look around the square, which is deserted. The tre
+(Shrek and Donkey look around the square, which is deserted. The tree
