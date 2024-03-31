@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31438
+<pre>Number of characters written: 31439
 Times rewritten: 0
 
 
@@ -791,4 +791,4 @@ DULOC - EXTERIOR
 (Shrek and Donkey are now walking through the fields heading away from Duloc. 
 Shrek is munching on an onion)
 
-Donkey: Let me get this straight. You're gonna go fight a dragon and rescu
+Donkey: Let me get this straight. You're gonna go fight a dragon and rescue
