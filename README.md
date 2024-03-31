@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13643
+<pre>Number of characters written: 13644
 Times rewritten: 0
 
 
@@ -341,4 +341,4 @@ Donkey: (from the window) I am outside!
 (Shrek hears a noise from inside and turns to find the source. He sees several shadows moving and looks 
 around. He sees the 3 Blind Mice on his table)
 
-Mouse 1: Well, gents, it's a far cry from the farm, but what choice do
+Mouse 1: Well, gents, it's a far cry from the farm, but what choice do 
