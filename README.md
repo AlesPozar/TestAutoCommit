@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26252
+<pre>Number of characters written: 26253
 Times rewritten: 0
 
 
@@ -669,4 +669,4 @@ Shrek: No! No! No, no, no! (whispers) No.
 
 (They hear a trumpet fanfare from afar and head over to investigate. A voice sounds from the distance)
 
-Lord Farquaad: Brave kni
+Lord Farquaad: Brave knig
