@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14538
+<pre>Number of characters written: 14539
 Times rewritten: 0
 
 
@@ -371,4 +371,4 @@ Dwarf: Where are we supposed to put her? The bed's taken.
 
 Shrek: (confused) Huh?
 
-(Shrek walks over to the bedroom and throws back the curtain. The Big Bad Wolf i
+(Shrek walks over to the bedroom and throws back the curtain. The Big Bad Wolf is
