@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27676
+<pre>Number of characters written: 27677
 Times rewritten: 0
 
 
@@ -701,4 +701,4 @@ Lord Farquaad: Oh! What is that? It's hideous!
 
 (The crowd gasps and goes quiet)
 
-Shrek: Ah, that'
+Shrek: Ah, that's
