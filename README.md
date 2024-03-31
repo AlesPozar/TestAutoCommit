@@ -1,4 +1,4 @@
-<pre>Number of characters written: 29874
+<pre>Number of characters written: 29875
 Times rewritten: 0
 
 
@@ -745,4 +745,4 @@ Shrek: Yeah!
 Woman: The chair! Give him the chair!
 
 (Shrek uses a folding chair to smack the knight lying on the ground. Shrek dispatches a few more knights 
-with ease. Shrek picks up the last knight,
+with ease. Shrek picks up the last knight, 
