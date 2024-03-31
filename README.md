@@ -1,4 +1,4 @@
-<pre>Number of characters written: 93710
+<pre>Number of characters written: 93711
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2555,4 +2555,4 @@ Shrek: But you can't marry him!
 
 (She frees her hand from his grip)
 
-Fiona: And why not
+Fiona: And why not?
