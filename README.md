@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19814
+<pre>Number of characters written: 19815
 Times rewritten: 0
 
 
@@ -520,4 +520,4 @@ The Captain: My lord! We've found it.
 
 Lord Farquaad: Then what are you waiting for? Bring it in!
 
-(Mor
+(More
