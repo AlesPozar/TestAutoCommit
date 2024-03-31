@@ -1,4 +1,4 @@
-<pre>Number of characters written: 21534
+<pre>Number of characters written: 21535
 Times rewritten: 0
 
 
@@ -556,4 +556,4 @@ glass slipper. Lord Farquaad looks at her approvingly and the Captain claps)
 Magic Mirror: Bachelorette number 2 is a cape-wearing girl from the land of fancy. Although she lives with 
 7 other men, she's not easy.
 
-(An image of the 7 Dwarves flashes on the screen. The guards
+(An image of the 7 Dwarves flashes on the screen. The guards 
