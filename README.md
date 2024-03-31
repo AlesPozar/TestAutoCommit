@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26166
+<pre>Number of characters written: 26167
 Times rewritten: 0
 
 
@@ -667,4 +667,4 @@ Donkey: Wow! Let's do that again!
 
 Shrek: No! No! No, no, no! (whispers) No.
 
-(They hear a trumpet fanfare from afar and h
+(They hear a trumpet fanfare from afar and he
