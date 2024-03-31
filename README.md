@@ -1,4 +1,4 @@
-<pre>Number of characters written: 29712
+<pre>Number of characters written: 29713
 Times rewritten: 0
 
 
@@ -742,4 +742,4 @@ Shrek: Yeah!
 
 (A knight tries to sneak up behind Shrek, but he turns in time to sees him and jumps on him)
 
-Woman: The chair! Give him t
+Woman: The chair! Give him th
