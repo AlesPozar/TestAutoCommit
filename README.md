@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26694
+<pre>Number of characters written: 26695
 Times rewritten: 0
 
 
@@ -680,4 +680,4 @@ Donkey: Sorry about that.
 
 ARENA
 
-(In the center of a stadium-like arena, Duloc Knights are gathered as a large crowd of citize
+(In the center of a stadium-like arena, Duloc Knights are gathered as a large crowd of citizen
