@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15923
+<pre>Number of characters written: 15924
 Times rewritten: 0
 
 
@@ -410,4 +410,4 @@ Shrek: What?!
 
 Pinocchio: We were forced to come here!
 
-Shrek: 
+Shrek: B
