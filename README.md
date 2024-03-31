@@ -1,4 +1,4 @@
-<pre>Number of characters written: 25558
+<pre>Number of characters written: 25559
 Times rewritten: 0
 
 
@@ -655,4 +655,4 @@ Donkey: Hey, look at this!
 (Donkey runs over and pulls a lever that is attached to a box marked 'Information'. The music winds up and 
 then the box doors open up. There are little wooden people inside and they begin to sing)
 
-Wooden Peop
+Wooden Peopl
