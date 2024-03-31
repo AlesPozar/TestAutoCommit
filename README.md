@@ -1,4 +1,4 @@
-<pre>Number of characters written: 24520
+<pre>Number of characters written: 24521
 Times rewritten: 0
 
 
@@ -632,3 +632,4 @@ Man: Hurry, darling. We're late. Hurry!
 maze for crowd control. A mascot wearing a giant head resembling Lord Farquaad stands at the end of the 
 line. Shrek and Donkey exchange looks)
 
+S
