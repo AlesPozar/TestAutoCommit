@@ -1,4 +1,4 @@
-<pre>Number of characters written: 24027
+<pre>Number of characters written: 24028
 Times rewritten: 0
 
 
@@ -619,4 +619,4 @@ Shrek: So, that must be Lord Farquaad's castle.
 
 Donkey: Uh-huh. That's the place.
 
-Shrek: Do you thin
+Shrek: Do you think
