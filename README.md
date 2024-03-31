@@ -1,4 +1,4 @@
-<pre>Number of characters written: 21998
+<pre>Number of characters written: 21999
 Times rewritten: 0
 
 
@@ -567,4 +567,4 @@ and everyone else claps this time)
 Magic Mirror: And last, but certainly not last, bachelorette number 3 is a fiery redhead from a 
 dragon-guarded castle surrounded by hot boiling lava!
 
-(The mirror sh
+(The mirror sho
