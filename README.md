@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14363
+<pre>Number of characters written: 14364
 Times rewritten: 0
 
 
@@ -365,4 +365,4 @@ Shrek: Enough! (he grabs all 3 mice) What are you doing in my house?
 (Shrek turns around and sees that the 7 Dwarves have put Snow White, 
 sleeping in her glass coffin, on the table)
 
-Shrek: Oh, no, no, no. Dead broad off the table! (pushes the coffin a
+Shrek: Oh, no, no, no. Dead broad off the table! (pushes the coffin aw
