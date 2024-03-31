@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15758
+<pre>Number of characters written: 15759
 Times rewritten: 0
 
 
@@ -402,4 +402,4 @@ Shrek: No, no! No, no. Not there! Not there!
 
 (Shrek fiddles with the door handle, unable to open the door. He gives Donkey an annoyed look)
 
-Do
+Don
