@@ -1,4 +1,4 @@
-<pre>Number of characters written: 30393
+<pre>Number of characters written: 30394
 Times rewritten: 0
 
 
@@ -756,3 +756,4 @@ Shrek: Oh, yeah! Ah! Ah! Thank you! Thank you very much! I'm here till Thursday.
 goes silent. Shrek stops laughing)
 
 Guard: Shall I give the order, sir?
+
