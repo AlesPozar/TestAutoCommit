@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26136
+<pre>Number of characters written: 26137
 Times rewritten: 0
 
 
@@ -667,4 +667,4 @@ Donkey: Wow! Let's do that again!
 
 Shrek: No! No! No, no, no! (whispers) No.
 
-(They hear a t
+(They hear a tr
