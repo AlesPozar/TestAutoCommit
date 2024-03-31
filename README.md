@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20033
+<pre>Number of characters written: 20034
 Times rewritten: 0
 
 
@@ -526,3 +526,4 @@ Lord Farquaad: Then what are you waiting for? Bring it in!
 Gingy: Ohhhh...
 
 Lord Farquaad: Magic mirror...
+
