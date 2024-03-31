@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26561
+<pre>Number of characters written: 26562
 Times rewritten: 0
 
 
@@ -675,3 +675,4 @@ prove himself better and brighter than all the rest.
 (As Shrek and Donkey walk down the tunnel to get into the arena, Donkey hums the Duloc theme song)
 
 Shrek: All right, you're going the right way for a smacked bottom.
+
