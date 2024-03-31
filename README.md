@@ -1,4 +1,4 @@
-<pre>Number of characters written: 28873
+<pre>Number of characters written: 28874
 Times rewritten: 0
 
 
@@ -726,4 +726,4 @@ Shrek: No? All right then. (drinks the ale in one gulp) Come on!
 out, knocking the knights down and wetting the ground into mud. Shrek slides past the knights and uses a 
 spear like a hockey stick to knock one off his feet. Donkey hops up onto one of the larger beer barrels. 
 It breaks free of its ropes and begins to roll. Donkey manages to squish 2 knights into the mud and rolls 
-over another group of knights running after Shrek. Shrek
+over another group of knights running after Shrek. Shrek 
