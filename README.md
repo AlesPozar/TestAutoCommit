@@ -1,4 +1,4 @@
-<pre>Number of characters written: 99269
+<pre>Number of characters written: 99270
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2716,4 +2716,4 @@ The guests party and dance as Donkey takes over singing The Monkees song. Shrek 
 in their carriage. Cut to a storybook that reads "And they lived ugly ever after...THE END".
 
 Donkey: (as he's done singing and we fade to black) Oh, that's funny. Oh. Oh. I can't breathe. 
-I can't b
+I can't br
