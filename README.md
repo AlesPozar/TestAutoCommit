@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31243
+<pre>Number of characters written: 31244
 Times rewritten: 0
 
 
@@ -786,4 +786,4 @@ Lord Farquaad: As good as gone.
 
 Shrek: What kind of quest?
 
-DULOC - EXTER
+DULOC - EXTERI
