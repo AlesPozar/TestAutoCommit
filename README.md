@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13373
+<pre>Number of characters written: 13374
 Times rewritten: 0
 
 
@@ -335,4 +335,4 @@ eating. Donkey looks inside from a window, and then lays down by the front door.
 bite when he hears a creaking noise. He stands up with a huff)
 
 Shrek: (to Donkey) I thought I told you to stay outside!
-
+
