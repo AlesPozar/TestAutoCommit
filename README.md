@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3060
+<pre>Number of characters written: 3061
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -61,3 +61,4 @@ home, unaware that Shrek is sneaking up behind them)
 NIGHT - NEAR SHREK'S SWAMP
 
 Villager 1: Think it's in there?
+
