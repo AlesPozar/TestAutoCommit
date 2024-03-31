@@ -1,4 +1,4 @@
-<pre>Number of characters written: 96697
+<pre>Number of characters written: 96698
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2647,4 +2647,4 @@ drops Her weapon & looks Up.
 
 Lord Farquaad: (Screaming Loud)
 
-Dragon swoops down and swallows him up in one gulp. The guards either run away 
+Dragon swoops down and swallows him up in one gulp. The guards either run away o
