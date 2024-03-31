@@ -1,4 +1,4 @@
-<pre>Number of characters written: 25974
+<pre>Number of characters written: 25975
 Times rewritten: 0
 
 
@@ -662,3 +662,4 @@ make waves, stay in line and we'll get along fine / Duloc is perfect place / Ple
 (Suddenly a camera takes Shrek and Donkey's picture, both of which are dumbfounded)
 
 Donkey: Wow! Let's do that again!
+
