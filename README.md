@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17714
+<pre>Number of characters written: 17715
 Times rewritten: 0
 
 
@@ -459,4 +459,4 @@ Shrek: What did I say about singing? (yanks the wreath off Donkey's head)
 
 Donkey: Can I whistle?
 
-Shrek: No.
+Shrek: No.
