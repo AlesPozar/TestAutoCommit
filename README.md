@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27558
+<pre>Number of characters written: 27559
 Times rewritten: 0
 
 
@@ -695,4 +695,4 @@ card up to the crowd that reads "APPLAUSE")
 
 Lord Farquaad: Let the tournament begin!
 
-(Shrek marches through the Duloc Knights, who back away in disgust upon n
+(Shrek marches through the Duloc Knights, who back away in disgust upon no
