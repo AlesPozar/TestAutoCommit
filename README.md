@@ -1,4 +1,4 @@
-<pre>Number of characters written: 16695
+<pre>Number of characters written: 16696
 Times rewritten: 0
 
 
@@ -434,4 +434,4 @@ Shrek: Anyone?
 Donkey: (jumping up and down) Oh! Oh, pick me! Oh, I know! I know! Me, me!
 
 Shrek: Huh! Okay, fine. Attention all...fairy tale things. Do not get comfortable! Your welcome is 
-officially worn out! In fact, They Saw That guy Farquaad right now and get 
+officially worn out! In fact, They Saw That guy Farquaad right now and get y
