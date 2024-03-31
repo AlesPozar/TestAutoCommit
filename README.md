@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19488
+<pre>Number of characters written: 19489
 Times rewritten: 0
 
 
@@ -506,4 +506,4 @@ Gingy: The muffin man.
 
 Lord Farquaad: Yes, I know the muffin man. Who lives on Drury Lane?
 
-Gingy: Well, s
+Gingy: Well, sh
