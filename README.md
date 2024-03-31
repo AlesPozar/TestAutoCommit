@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15726
+<pre>Number of characters written: 15727
 Times rewritten: 0
 
 
@@ -400,4 +400,4 @@ Dwarves: Quickly. Come on!
 
 Shrek: No, no! No, no. Not there! Not there!
 
-(Shrek fiddles with the door handle, unable to open the door. He giv
+(Shrek fiddles with the door handle, unable to open the door. He give
