@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20513
+<pre>Number of characters written: 20514
 Times rewritten: 0
 
 
@@ -537,4 +537,4 @@ Lord Farquaad: Uh, Thelonius. (Thelonius holds up a hand mirror and smashes it w
 You were saying?
 
 Magic Mirror: What I mean is you're not a king yet. But you can become one. 
-All you have to do is ma
+All you have to do is mar
