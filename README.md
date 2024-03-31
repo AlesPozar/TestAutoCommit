@@ -1,4 +1,4 @@
-<pre>Number of characters written: 98957
+<pre>Number of characters written: 98958
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2649,4 +2649,65 @@ Lord Farquaad: (Screaming Loud)
 
 Dragon swoops down and swallows him up in one gulp. The guards either run away or step back.
 
-Donkey: All right! Nobody move! I got a dragon here, and I'm not afra
+Donkey: All right! Nobody move! I got a dragon here, and I'm not afraid to use it.
+
+(Dragon roars, causing most of the guards to away in fear. The remaining guards let go of Shrek and 
+Fiona, backing away)
+
+Donkey: I'm a donkey on the edge!
+
+(Dragon belches and Lord Farquaad's crown flies out of her mouth and falls to the ground)
+
+Donkey: Celebrity marriages. They never last, do they?
+
+(The congregation laughs and cheers)
+
+Donkey: Go ahead, Shrek.
+
+Shrek: Uh, Fiona?
+
+Fiona: Yes, Shrek?
+
+Shrek: I -- I love you.
+
+Fiona: Really?
+
+Shrek: Really, really.
+
+Fiona: I love you too.
+
+(Shrek and Fiona kiss. Thelonius takes one of the cards and writes 'Awwww' on the back and shows it to 
+the congregation. Suddenly the magic of the spell pulls Fiona away. She's lifted up into the air and she 
+hovers while the magic works around her. Fiona's voice is heard although she isn't moving her lips)
+
+Fiona: "Until you find true love's first kiss and then take love's true form. Take love's true form. Take 
+love's true form."
+
+(Suddenly Fiona's eyes open wide and light up. The force of the spell blows against the crowd and all the 
+windows. All except for one with an image of Farquaad on it, which Dragon breaks with her fist. Fiona is 
+lowered to the ground and Shrek runs up to her)
+
+Shrek: Fiona? Fiona. Are you all right?
+
+(Fiona slowly stands up, still an ogress)
+
+Fiona: Well, yes...Because I don't understand. I'm supposed to be beautiful.
+
+Shrek: But you are beautiful.
+
+(They smile at each other)
+
+Donkey: I was hoping this would be a happy ending.
+
+(Shrek and Fiona)
+
+THE SWAMP
+
+Shrek and Fiona are now joined in matrimony in Shrek's swamp. Among the attendees are the fairytale 
+creatures once banished to the swamp, as well as a few Duloc Guards. Shrek and Fiona walk down the 
+aisle to their awaiting carriage, which is made of a giant onion. Fiona tosses her bouquet which both 
+Cinderella and Snow White try to catch. They end get into a cat fight and Dragon catches the bouquet 
+instead. Donkey looks nervous, but Shrek and Fiona give him reassuring looks. Gingy has been mended 
+somewhat and now has one leg and walks with a candy cane cane.
+
+Gingy: God bless us, every o
