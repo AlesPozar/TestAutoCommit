@@ -1,4 +1,4 @@
-<pre>Number of characters written: 25919
+<pre>Number of characters written: 25920
 Times rewritten: 0
 
 
@@ -659,4 +659,4 @@ Wooden People: Welcome to Duloc such a perfect town / Here we have some rules le
 make waves, stay in line and we'll get along fine / Duloc is perfect place / Please keep off of the grass 
 / Shine your shoes, wipe your... face / Duloc is, Duloc is / Duloc is perfect place.
 
-(Suddenly a camera takes Shrek and Donkey's picture, both of which 
+(Suddenly a camera takes Shrek and Donkey's picture, both of which a
