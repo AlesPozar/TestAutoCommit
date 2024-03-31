@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27426
+<pre>Number of characters written: 27427
 Times rewritten: 0
 
 
@@ -691,4 +691,4 @@ the first runner-up will take his place. And so on and so forth. Some of you may
 I am willing to make.
 
 (The crowd cheers and applauds. Shrek looks around, noticing a man holding up a cue 
-card up to the crowd that reads 
+card up to the crowd that reads "
