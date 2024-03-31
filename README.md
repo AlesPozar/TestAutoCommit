@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20158
+<pre>Number of characters written: 20159
 Times rewritten: 0
 
 
@@ -529,4 +529,4 @@ Lord Farquaad: Magic mirror...
 
 Gingy: Don't tell him anything! (Lord Farquaad smacks him off the table and into a trash can) No!
 
-Lord Farquaad: Evening
+Lord Farquaad: Evening.
