@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26790
+<pre>Number of characters written: 26791
 Times rewritten: 0
 
 
@@ -681,4 +681,4 @@ Donkey: Sorry about that.
 ARENA
 
 (In the center of a stadium-like arena, Duloc Knights are gathered as a large crowd of citizens watches on 
-from the stands. Horses, kegs of beer, arrow targets, and other equipment are sc
+from the stands. Horses, kegs of beer, arrow targets, and other equipment are sca
