@@ -1,4 +1,4 @@
-<pre>Number of characters written: 28639
+<pre>Number of characters written: 28640
 Times rewritten: 0
 
 
@@ -724,4 +724,4 @@ Shrek: No? All right then. (drinks the ale in one gulp) Come on!
 
 (Shrek takes the mug and smashes the spigot off the large barrel of ale behind him. The ale comes rushing 
 out, knocking the knights down and wetting the ground into mud. Shrek slides past the knights and uses a 
-spear like a hockey stick to knock on
+spear like a hockey stick to knock one
