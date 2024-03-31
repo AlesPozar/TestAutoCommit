@@ -1,4 +1,4 @@
-<pre>Number of characters written: 96774
+<pre>Number of characters written: 96775
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2649,4 +2649,4 @@ Lord Farquaad: (Screaming Loud)
 
 Dragon swoops down and swallows him up in one gulp. The guards either run away or step back.
 
-Donkey: All right! Nobody move! I got a dragon here, and I'm
+Donkey: All right! Nobody move! I got a dragon here, and I'm 
