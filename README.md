@@ -1,4 +1,4 @@
-<pre>Number of characters written: 25938
+<pre>Number of characters written: 25939
 Times rewritten: 0
 
 
@@ -660,4 +660,4 @@ make waves, stay in line and we'll get along fine / Duloc is perfect place / Ple
 / Shine your shoes, wipe your... face / Duloc is, Duloc is / Duloc is perfect place.
 
 (Suddenly a camera takes Shrek and Donkey's picture, both of which are dumbfounded)
-
+
