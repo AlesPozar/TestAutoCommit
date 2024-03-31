@@ -1,4 +1,4 @@
-<pre>Number of characters written: 96616
+<pre>Number of characters written: 96617
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2646,3 +2646,4 @@ Suddenly Dragon, with Donkey atop her head, crashes through a large window behin
 drops Her weapon & looks Up.
 
 Lord Farquaad: (Screaming Loud)
+
