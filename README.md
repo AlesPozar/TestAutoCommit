@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14034
+<pre>Number of characters written: 14035
 Times rewritten: 0
 
 
@@ -357,4 +357,4 @@ Gorder: Blah! Awful stuff. (jumps down to the table)
 
 Blind Mouse: Is that you, Gorder?
 
-Gorder: How did y
+Gorder: How did yo
