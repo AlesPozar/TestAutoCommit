@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19172
+<pre>Number of characters written: 19173
 Times rewritten: 0
 
 
@@ -494,3 +494,4 @@ Gingy: Eat me! (spits at Lord Farquaad)
 Lord Farquaad: Ugh! I've tried to be fair to you creatures. Now my patience has reached its end! Tell me 
 or I'll...(he grabs one of Gingy's gumdrop buttons)
 
+G
