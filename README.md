@@ -1,4 +1,4 @@
-<pre>Number of characters written: 96583
+<pre>Number of characters written: 96584
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2645,3 +2645,4 @@ Lord Farquaad: I will have order! I will have perfection! I will have--
 Suddenly Dragon, with Donkey atop her head, crashes through a large window behind him. Lord Farquaad 
 drops Her weapon & looks Up.
 
+L
