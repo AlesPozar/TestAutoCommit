@@ -1,4 +1,4 @@
-<pre>Number of characters written: 22890
+<pre>Number of characters written: 22891
 Times rewritten: 0
 
 
@@ -588,4 +588,4 @@ Lord Farquaad: (to himself) 2? 3? 1? 3?
 
 Thelonius: 3! (holds up 2 fingers) Pick number 3, my lord!
 
-Lo
+Lor
