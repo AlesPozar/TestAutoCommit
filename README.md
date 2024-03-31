@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17650
+<pre>Number of characters written: 17651
 Times rewritten: 0
 
 
@@ -455,4 +455,4 @@ refuses to let go. Shrek shakes the torch until the dwarf falls into a pond)
 
 Donkey: "I can't wait to get on the road again."
 
-Shrek: What did I say about singing? (yanks the w
+Shrek: What did I say about singing? (yanks the wr
