@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31388
+<pre>Number of characters written: 31389
 Times rewritten: 0
 
 
@@ -791,4 +791,4 @@ DULOC - EXTERIOR
 (Shrek and Donkey are now walking through the fields heading away from Duloc. 
 Shrek is munching on an onion)
 
-Donkey: Let me get this 
+Donkey: Let me get this s
