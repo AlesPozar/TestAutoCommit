@@ -1,4 +1,4 @@
-<pre>Number of characters written: 22496
+<pre>Number of characters written: 22497
 Times rewritten: 0
 
 
@@ -575,4 +575,4 @@ Magic Mirror: But don't let that cool you off. She's a loaded pistol who likes p
 caught in the rain. Yours for the rescuing, Princess Fiona!
 
 (The mirror shows a portrait of Princess Fiona leaning on the window of her tower. 
-Once again everyone else claps)
+Once again everyone else claps)
