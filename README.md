@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31083
+<pre>Number of characters written: 31084
 Times rewritten: 0
 
 
@@ -780,4 +780,4 @@ Lord Farquaad: Down to the last slime-covered toadstool.
 
 Shrek: And the squatters?
 
-Lord Farquaad: As g
+Lord Farquaad: As go
