@@ -1,4 +1,4 @@
-<pre>Number of characters written: 28317
+<pre>Number of characters written: 28318
 Times rewritten: 0
 
 
@@ -719,3 +719,4 @@ Crowd: Go ahead! Get him!
 Shrek: (holds up a mug of ale) Can't We just settle this over a pint?
 
 Crowd: Kill the beast!
+
