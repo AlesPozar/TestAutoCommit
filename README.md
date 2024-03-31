@@ -1,4 +1,4 @@
-<pre>Number of characters written: 2187
+<pre>Number of characters written: 2188
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -46,4 +46,4 @@ love and true love's first kiss.
 
 Shrek: Like that's ever gonna happen. What a load of - (toilet flushes)
 
-("All Sta
+("All Star
