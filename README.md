@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19911
+<pre>Number of characters written: 19912
 Times rewritten: 0
 
 
@@ -520,4 +520,4 @@ The Captain: My lord! We've found it.
 
 Lord Farquaad: Then what are you waiting for? Bring it in!
 
-(More guards enter carrying an object covered by a sheet. They mount it on the wall and the Captain r
+(More guards enter carrying an object covered by a sheet. They mount it on the wall and the Captain re
