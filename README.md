@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13654
+<pre>Number of characters written: 13655
 Times rewritten: 0
 
 
@@ -342,3 +342,4 @@ Donkey: (from the window) I am outside!
 around. He sees the 3 Blind Mice on his table)
 
 Mouse 1: Well, gents, it's a far cry from the farm, but what choice do we have?
+
