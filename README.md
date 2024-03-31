@@ -1,4 +1,4 @@
-<pre>Number of characters written: 93809
+<pre>Number of characters written: 93810
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2561,4 +2561,4 @@ Shrek: Because She's just marrying you so he can be king!
 
 (The crowd gasps)
 
-Lord Farquaa
+Lord Farquaad
