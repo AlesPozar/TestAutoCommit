@@ -1,4 +1,4 @@
-<pre>Number of characters written: 25534
+<pre>Number of characters written: 25535
 Times rewritten: 0
 
 
@@ -653,4 +653,4 @@ Shrek: It's quiet. Too quiet. Where is everybody?
 Donkey: Hey, look at this!
 
 (Donkey runs over and pulls a lever that is attached to a box marked 'Information'. The music winds up and 
-then the box doors open up. There are little wooden people inside and they begin
+then the box doors open up. There are little wooden people inside and they begin 
