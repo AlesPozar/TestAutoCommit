@@ -1,4 +1,4 @@
-<pre>Number of characters written: 28141
+<pre>Number of characters written: 28142
 Times rewritten: 0
 
 
@@ -712,4 +712,4 @@ up, the crowd cheering them on)
 
 Crowd: Get him!
 
-Shrek: Oh, hey! Now come on! Hang on now.
+Shrek: Oh, hey! Now come on! Hang on now. 
