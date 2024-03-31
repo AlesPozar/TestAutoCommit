@@ -1,4 +1,4 @@
-<pre>Number of characters written: 21709
+<pre>Number of characters written: 21710
 Times rewritten: 0
 
 
@@ -561,4 +561,4 @@ Magic Mirror: Bachelorette number 2 is a cape-wearing girl from the land of fanc
 Magic Mirror: Just kiss her dead, frozen lips and find out what a live wire she is. 
 Come on, give it up for Snow White!
 
-(The mirror shows 
+(The mirror shows a
