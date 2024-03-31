@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14279
+<pre>Number of characters written: 14280
 Times rewritten: 0
 
 
@@ -363,4 +363,4 @@ Shrek: Enough! (he grabs all 3 mice) What are you doing in my house?
 (He gets bumped from behind and he drops the mice) Hey!
 
 (Shrek turns around and sees that the 7 Dwarves have put Snow White, 
-sleeping in her glass coffin, on
+sleeping in her glass coffin, on 
