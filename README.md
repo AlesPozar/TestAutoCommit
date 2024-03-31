@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13032
+<pre>Number of characters written: 13033
 Times rewritten: 0
 
 
@@ -329,4 +329,4 @@ like the outdoors. I'm a donkey. I was born outside. I'll just be sitting by mys
 know. By myself, outside. I'm all alone...there's no one here beside me...
 
 SHREK'S HOME - NIGHT
-
+
