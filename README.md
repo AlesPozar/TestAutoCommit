@@ -1,4 +1,4 @@
-<pre>Number of characters written: 23695
+<pre>Number of characters written: 23696
 Times rewritten: 0
 
 
@@ -609,4 +609,4 @@ king! Captain, assemble your finest men. We're going to have a tournament! (grin
 
 DULOC KINGDOM - EXTERIOR
 
-(Shrek and Donkey come out 
+(Shrek and Donkey come out o
