@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13246
+<pre>Number of characters written: 13247
 Times rewritten: 0
 
 
@@ -331,4 +331,4 @@ know. By myself, outside. I'm all alone...there's no one here beside me...
 SHREK'S HOME - NIGHT
 
 (Shrek is getting ready for dinner. He sits down, lights a candle made out of his own earwax, and begins 
-eating. Donkey looks inside from a window, and then lays down by the front door. Shrek is about to take a 
+eating. Donkey looks inside from a window, and then lays down by the front door. Shrek is about to take a 
