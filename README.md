@@ -1,4 +1,4 @@
-<pre>Number of characters written: 24544
+<pre>Number of characters written: 24545
 Times rewritten: 0
 
 
@@ -634,4 +634,4 @@ line. Shrek and Donkey exchange looks)
 
 Shrek: Hey, you!
 
-(The
+(The 
