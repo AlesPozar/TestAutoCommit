@@ -1,4 +1,4 @@
-<pre>Number of characters written: 30486
+<pre>Number of characters written: 30487
 Times rewritten: 0
 
 
@@ -759,4 +759,4 @@ Guard: Shall I give the order, sir?
 
 Lord Farquaad: No, I have a better idea. People of Duloc! I give you our champion!
 
-(The 
+(The c
