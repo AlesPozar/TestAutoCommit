@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17729
+<pre>Number of characters written: 17730
 Times rewritten: 0
 
 
@@ -461,4 +461,4 @@ Donkey: Can I whistle?
 
 Shrek: No.
 
-Donkey: Wel
+Donkey: Well
