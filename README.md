@@ -1,4 +1,4 @@
-<pre>Number of characters written: 93882
+<pre>Number of characters written: 93883
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2563,4 +2563,4 @@ Shrek: Because She's just marrying you so he can be king!
 
 Lord Farquaad: Outrageous! Fiona, don't listen to him--
 
-Shrek: He's not your true 
+Shrek: He's not your true l
