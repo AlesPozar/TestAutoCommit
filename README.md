@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17932
+<pre>Number of characters written: 17933
 Times rewritten: 0
 
 
@@ -470,4 +470,4 @@ The pair walk off into the night with Shrek's torch lighting the way)
 
 DULOC - DUNGEON
 
-(A mask
+(A maske
