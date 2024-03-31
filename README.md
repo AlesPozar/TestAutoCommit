@@ -1,4 +1,4 @@
-<pre>Number of characters written: 12758
+<pre>Number of characters written: 12759
 Times rewritten: 0
 
 
@@ -324,4 +324,4 @@ Donkey: Where do, uh, I sleep?
 Shrek: (irritated) Outside!
 
 Donkey: Oh, well, I guess that's cool. I mean, I don't know you, and you don't know me, so I guess outside
-is best, you know. Here I go. Good nig
+is best, you know. Here I go. Good nigh
