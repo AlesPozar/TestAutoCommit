@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14914
+<pre>Number of characters written: 14915
 Times rewritten: 0
 
 
@@ -380,4 +380,4 @@ Big Bad Wolf: What?
 Shrek: I live in a swamp. I put up signs. I'm a terrifying ogre! What do I have to do get a little privacy?
 
 (He opens the front door and throws Big Bad Wolf out. He sees that a horde of fairytale creatures have set
- up camp in his swamp)
+ up camp in his swamp)
