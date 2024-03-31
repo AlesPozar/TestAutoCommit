@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15884
+<pre>Number of characters written: 15885
 Times rewritten: 0
 
 
@@ -408,4 +408,4 @@ Pinocchio: Well gosh, no one invited us.
 
 Shrek: What?!
 
-Pinocchio: 
+Pinocchio: W
