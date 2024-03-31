@@ -1,4 +1,4 @@
-<pre>Number of characters written: 28102
+<pre>Number of characters written: 28103
 Times rewritten: 0
 
 
@@ -712,4 +712,4 @@ up, the crowd cheering them on)
 
 Crowd: Get him!
 
-Sh
+Shr
