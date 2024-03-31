@@ -1,4 +1,4 @@
-<pre>Number of characters written: 18280
+<pre>Number of characters written: 18281
 Times rewritten: 0
 
 
@@ -474,4 +474,4 @@ DULOC - DUNGEON
 doors. As he is let into the room by two guards, we can see that the man is abnormally short. The masked 
 man is dunking what looks to be a small person into the glass of milk)
 
-Lord Farquaad: (stepping forward) That's enough. He's ready to talk
+Lord Farquaad: (stepping forward) That's enough. He's ready to talk.
