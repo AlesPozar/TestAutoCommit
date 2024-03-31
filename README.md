@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19235
+<pre>Number of characters written: 19236
 Times rewritten: 0
 
 
@@ -496,4 +496,4 @@ or I'll...(he grabs one of Gingy's gumdrop buttons)
 
 Gingy: No, no, not the buttons. Not my gumdrop buttons!
 
-Lord
+Lord 
