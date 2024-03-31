@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17605
+<pre>Number of characters written: 17606
 Times rewritten: 0
 
 
@@ -455,4 +455,4 @@ refuses to let go. Shrek shakes the torch until the dwarf falls into a pond)
 
 Donkey: "I can't wait to get on the road again."
 
-Shre
+Shrek
