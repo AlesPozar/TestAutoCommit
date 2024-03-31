@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26602
+<pre>Number of characters written: 26603
 Times rewritten: 0
 
 
@@ -680,4 +680,4 @@ Donkey: Sorry about that.
 
 ARENA
 
-(
+(I
