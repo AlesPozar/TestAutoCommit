@@ -1,4 +1,4 @@
-<pre>Number of characters written: 21394
+<pre>Number of characters written: 21395
 Times rewritten: 0
 
 
@@ -553,4 +553,4 @@ sushi and hot tubbing anytime! Her hobbies include cooking and cleaning for her 
 (An image of Cinderella doing housework flips to a portrait of Cinderella in her ball gown putting on the 
 glass slipper. Lord Farquaad looks at her approvingly and the Captain claps)
 
-Magic Mirror: Bachelorette number 2 is a cape-wearing girl fr
+Magic Mirror: Bachelorette number 2 is a cape-wearing girl fro
