@@ -1,4 +1,4 @@
-<pre>Number of characters written: 16495
+<pre>Number of characters written: 16496
 Times rewritten: 0
 
 
@@ -431,4 +431,4 @@ Donkey: Me! Me!
 
 Shrek: Anyone?
 
-Donkey: (jumping up and down) Oh! Oh, pick me! Oh, I k
+Donkey: (jumping up and down) Oh! Oh, pick me! Oh, I kn
