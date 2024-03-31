@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26490
+<pre>Number of characters written: 26491
 Times rewritten: 0
 
 
@@ -672,4 +672,4 @@ Shrek: No! No! No, no, no! (whispers) No.
 Lord Farquaad: Brave knights! You are the best and brightest in all the land, and today one of you shall 
 prove himself better and brighter than all the rest.
 
-(As Shrek and Donkey walk down the tunnel to get into the arena, Donkey hums the Duloc theme song)
+(As Shrek and Donkey walk down the tunnel to get into the arena, Donkey hums the Duloc theme song)
