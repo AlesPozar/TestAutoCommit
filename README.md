@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20688
+<pre>Number of characters written: 20689
 Times rewritten: 0
 
 
@@ -542,4 +542,4 @@ All you have to do is marry a princess.
 Lord Farquaad: Go on.
 
 Magic Mirror: (chuckles nervously) So, just sit back and relax, my lord, because it's time for you to meet
-today's eligible bachel
+today's eligible bachelo
