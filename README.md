@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27355
+<pre>Number of characters written: 27356
 Times rewritten: 0
 
 
@@ -690,4 +690,4 @@ lovely Princess Fiona from the fiery keep of the dragon. If for any reason the w
 the first runner-up will take his place. And so on and so forth. Some of you may die, but it's a sacrifice 
 I am willing to make.
 
-(The crowd cheers and applauds. Shrek looks aro
+(The crowd cheers and applauds. Shrek looks arou
