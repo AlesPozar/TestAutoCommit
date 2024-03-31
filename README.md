@@ -1,4 +1,4 @@
-<pre>Number of characters written: 24510
+<pre>Number of characters written: 24511
 Times rewritten: 0
 
 
@@ -630,4 +630,4 @@ Man: Hurry, darling. We're late. Hurry!
 
 (A man and woman run through the castle's entrance. In front of the gate is a series of ropes hung in a 
 maze for crowd control. A mascot wearing a giant head resembling Lord Farquaad stands at the end of the 
-line. Shrek and Donkey exchange 
+line. Shrek and Donkey exchange l
