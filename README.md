@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15290
+<pre>Number of characters written: 15291
 Times rewritten: 0
 
 
@@ -389,4 +389,4 @@ Shrek: Oh, no. Oh, no. No! No! (he dodges out the way of a group of witches flyi
 
 Shrek: WHAT ARE YOU DOING IN MY SWAMP?!!
 
-(Shrek's voice echo
+(Shrek's voice echoe
