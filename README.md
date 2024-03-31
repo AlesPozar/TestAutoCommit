@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27648
+<pre>Number of characters written: 27649
 Times rewritten: 0
 
 
@@ -699,4 +699,4 @@ Lord Farquaad: Let the tournament begin!
 
 Lord Farquaad: Oh! What is that? It's hideous!
 
-(The crowd gasps and goe
+(The crowd gasps and goes
