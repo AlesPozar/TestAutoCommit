@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27142
+<pre>Number of characters written: 27143
 Times rewritten: 0
 
 
@@ -686,4 +686,4 @@ atop a high up balcony, flanked by two guards, addressing the crowd. Shrek and D
 arena but don't seem to be noticed)
 
 Lord Farquaad: That champion shall have the honor-- no, no -- the privilege to go forth and rescue the 
-lovely Princess Fiona from the fiery keep of the dragon. If for any reaso
+lovely Princess Fiona from the fiery keep of the dragon. If for any reason
