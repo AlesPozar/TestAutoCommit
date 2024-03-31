@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27017
+<pre>Number of characters written: 27018
 Times rewritten: 0
 
 
@@ -685,4 +685,4 @@ from the stands. Horses, kegs of beer, arrow targets, and other equipment are sc
 atop a high up balcony, flanked by two guards, addressing the crowd. Shrek and Donkey step out onto the 
 arena but don't seem to be noticed)
 
-Lord Farquaad: That champion shall have the honor-- n
+Lord Farquaad: That champion shall have the honor-- no
