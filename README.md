@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3102
+<pre>Number of characters written: 3103
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -64,3 +64,4 @@ Villager 1: Think it's in there?
 
 Villager 2: All right. Let's get it!
 
+V
