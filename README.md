@@ -1,4 +1,4 @@
-<pre>Number of characters written: 30976
+<pre>Number of characters written: 30977
 Times rewritten: 0
 
 
@@ -776,4 +776,4 @@ and I'll give you your swamp back.
 
 Shrek: Exactly the way it was?
 
-L
+Lo
