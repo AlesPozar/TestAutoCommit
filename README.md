@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27478
+<pre>Number of characters written: 27479
 Times rewritten: 0
 
 
@@ -693,4 +693,4 @@ I am willing to make.
 (The crowd cheers and applauds. Shrek looks around, noticing a man holding up a cue 
 card up to the crowd that reads "APPLAUSE")
 
-Lord Farquaad: Let the tournament beg
+Lord Farquaad: Let the tournament begi
