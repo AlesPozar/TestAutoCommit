@@ -1,4 +1,4 @@
-<pre>Number of characters written: 23920
+<pre>Number of characters written: 23921
 Times rewritten: 0
 
 
@@ -614,4 +614,4 @@ DULOC KINGDOM - EXTERIOR
 Donkey: But that's it. That's it right there. That's Duloc. I told ya I'd find it.
 
 (The 2 gaze up at Duloc Castle, a building that towers over the rest of the kingdom)
-
+
