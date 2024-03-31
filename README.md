@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31017
+<pre>Number of characters written: 31018
 Times rewritten: 0
 
 
@@ -776,4 +776,4 @@ and I'll give you your swamp back.
 
 Shrek: Exactly the way it was?
 
-Lord Farquaad: Down to the last slime-cove
+Lord Farquaad: Down to the last slime-cover
