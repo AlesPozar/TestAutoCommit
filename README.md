@@ -1,4 +1,4 @@
-<pre>Number of characters written: 18140
+<pre>Number of characters written: 18141
 Times rewritten: 0
 
 
@@ -472,4 +472,4 @@ DULOC - DUNGEON
 
 (A masked man is pouring a glass of milk. Another man is shown walking down the hallway towards a set of 
 doors. As he is let into the room by two guards, we can see that the man is abnormally short. The masked 
-m
+ma
