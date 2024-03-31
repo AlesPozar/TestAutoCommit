@@ -1,4 +1,4 @@
-<pre>Number of characters written: 25740
+<pre>Number of characters written: 25741
 Times rewritten: 0
 
 
@@ -656,4 +656,4 @@ Donkey: Hey, look at this!
 then the box doors open up. There are little wooden people inside and they begin to sing)
 
 Wooden People: Welcome to Duloc such a perfect town / Here we have some rules let us lay them down / Don't 
-make waves, stay in line and we'll get along fine / Duloc is perfect place / Please 
+make waves, stay in line and we'll get along fine / Duloc is perfect place / Please k
