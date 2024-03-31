@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13719
+<pre>Number of characters written: 13720
 Times rewritten: 0
 
 
@@ -345,4 +345,4 @@ Mouse 1: Well, gents, it's a far cry from the farm, but what choice do we have?
 
 Mouse 2: It's not home, but it'll do just fine.
 
-Gorder: (bou
+Gorder: (boun
