@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31763
+<pre>Number of characters written: 31764
 Times rewritten: 0
 
 
@@ -797,4 +797,4 @@ place. Is that about right?
 
 Shrek: You know, maybe there's a good reason donkeys shouldn't talk.
 
-Donkey: I don't get it. Why don't you just pull some of that ogre stuff on him? Thrott
+Donkey: I don't get it. Why don't you just pull some of that ogre stuff on him? Throttl
