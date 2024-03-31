@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19992
+<pre>Number of characters written: 19993
 Times rewritten: 0
 
 
@@ -523,4 +523,4 @@ Lord Farquaad: Then what are you waiting for? Bring it in!
 (More guards enter carrying an object covered by a sheet. They mount it on the wall and the Captain removes
  the sheet. It is the Magic Mirror. Everyone stands in awe)
 
-Gingy: Ohh
+Gingy: Ohhh
