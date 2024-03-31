@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20295
+<pre>Number of characters written: 20296
 Times rewritten: 0
 
 
@@ -533,3 +533,4 @@ Lord Farquaad: Evening. Mirror, mirror on the wall, is this not the most perfect
 
 Magic Mirror: Well, technically you're not a king.
 
+L
