@@ -1,4 +1,4 @@
-<pre>Number of characters written: 22785
+<pre>Number of characters written: 22786
 Times rewritten: 0
 
 
@@ -584,4 +584,4 @@ Farquaad frantically tries to decide)
 
 Guards: 2! 2! 3! 3! 2! 2! 3!
 
-Lo
+Lor
