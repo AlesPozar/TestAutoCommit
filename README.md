@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19999
+<pre>Number of characters written: 20000
 Times rewritten: 0
 
 
@@ -524,3 +524,4 @@ Lord Farquaad: Then what are you waiting for? Bring it in!
  the sheet. It is the Magic Mirror. Everyone stands in awe)
 
 Gingy: Ohhhh...
+
