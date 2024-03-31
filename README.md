@@ -1,4 +1,4 @@
-<pre>Number of characters written: 23625
+<pre>Number of characters written: 23626
 Times rewritten: 0
 
 
@@ -605,4 +605,4 @@ Lord Farquaad: I'll do it.
 Magic Mirror: Yes, but after sunset...
 
 Lord Farquaad: Silence! I will make this Princess Fiona my queen, and Duloc will finally have the perfect 
-king! Captain, assemble your finest men. We're going to have a tournament! (gr
+king! Captain, assemble your finest men. We're going to have a tournament! (gri
