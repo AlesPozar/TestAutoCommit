@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13781
+<pre>Number of characters written: 13782
 Times rewritten: 0
 
 
@@ -347,4 +347,4 @@ Mouse 2: It's not home, but it'll do just fine.
 
 Gorder: (bouncing on a slug) What a lovely bed.
 
-Shrek: Got ya. (grabs G
+Shrek: Got ya. (grabs Go
