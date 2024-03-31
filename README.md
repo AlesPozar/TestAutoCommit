@@ -1,4 +1,4 @@
-<pre>Number of characters written: 21161
+<pre>Number of characters written: 21162
 Times rewritten: 0
 
 
@@ -550,4 +550,4 @@ portraits of princesses. Lord Farquaad seems confused but watches on silently)
 Magic Mirror: Bachelorette number 1 is a mentally abused shut-in from a kingdom far, far away. She likes 
 sushi and hot tubbing anytime! Her hobbies include cooking and cleaning for her 2 evil sisters. Please welcome...Cinderella!
 
-(An image of Cin
+(An image of Cind
