@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26390
+<pre>Number of characters written: 26391
 Times rewritten: 0
 
 
@@ -671,4 +671,4 @@ Shrek: No! No! No, no, no! (whispers) No.
 
 Lord Farquaad: Brave knights! You are the best and brightest in all the land, and today one of you shall 
 prove himself better and brighter than all the rest.
-
+
