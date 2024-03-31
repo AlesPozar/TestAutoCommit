@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13890
+<pre>Number of characters written: 13891
 Times rewritten: 0
 
 
@@ -351,3 +351,4 @@ Shrek: Got ya. (grabs Gorder, but he escapes and lands on his shoulder)
 
 Gorder: I found some cheese. (bites into Shrek's ear)
 
+S
