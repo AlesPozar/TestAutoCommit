@@ -1,4 +1,4 @@
-<pre>Number of characters written: 25262
+<pre>Number of characters written: 25263
 Times rewritten: 0
 
 
@@ -648,3 +648,4 @@ DULOC - INTERIOR
 (Shrek and Donkey look around the square, which is deserted. The trees and grass are neatly cut and the 
 rows of houses all looked exactly the same. Chirpy music quietly plays from a set of loudspeakers)
 
+S
