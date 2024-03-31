@@ -1,4 +1,4 @@
-<pre>Number of characters written: 30653
+<pre>Number of characters written: 30654
 Times rewritten: 0
 
 
@@ -765,4 +765,4 @@ Shrek: What?
 
 Lord Farquaad: Congratulations, ogre. You've won the honor of embarking on a great and noble quest.
 
-Shrek: Ques
+Shrek: Quest
