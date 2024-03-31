@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13063
+<pre>Number of characters written: 13064
 Times rewritten: 0
 
 
@@ -330,4 +330,4 @@ know. By myself, outside. I'm all alone...there's no one here beside me...
 
 SHREK'S HOME - NIGHT
 
-(Shrek is getting ready for di
+(Shrek is getting ready for din
