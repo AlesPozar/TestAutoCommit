@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26095
+<pre>Number of characters written: 26096
 Times rewritten: 0
 
 
@@ -665,4 +665,4 @@ Donkey: Wow! Let's do that again!
 
 (Donkey makes ready to run over and pull the lever again but Shrek quickly grabs him by the tail)
 
-Shrek: No! No! No,
+Shrek: No! No! No, 
