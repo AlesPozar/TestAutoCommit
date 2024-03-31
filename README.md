@@ -1,4 +1,4 @@
-<pre>Number of characters written: 22316
+<pre>Number of characters written: 22317
 Times rewritten: 0
 
 
@@ -572,3 +572,4 @@ A bright fire shines on the screen and Lord Farquaad covers his eyes.
 This doesn't seem to deter his interest)
 
 Magic Mirror: But don't let that cool you off. She's a loaded pistol who likes piña coladas and getting 
+c
