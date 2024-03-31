@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27327
+<pre>Number of characters written: 27328
 Times rewritten: 0
 
 
@@ -690,4 +690,4 @@ lovely Princess Fiona from the fiery keep of the dragon. If for any reason the w
 the first runner-up will take his place. And so on and so forth. Some of you may die, but it's a sacrifice 
 I am willing to make.
 
-(The crowd cheers a
+(The crowd cheers an
