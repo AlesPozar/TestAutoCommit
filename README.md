@@ -1,4 +1,4 @@
-<pre>Number of characters written: 22782
+<pre>Number of characters written: 22783
 Times rewritten: 0
 
 
@@ -583,4 +583,4 @@ Magic Mirror: So, will it be: bachelorette number 1, bachelorette number 2, or b
 Farquaad frantically tries to decide)
 
 Guards: 2! 2! 3! 3! 2! 2! 3!
-
+
