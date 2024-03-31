@@ -1,4 +1,4 @@
-<pre>Number of characters written: 18387
+<pre>Number of characters written: 18388
 Times rewritten: 0
 
 
@@ -476,4 +476,4 @@ man is dunking what looks to be a small person into the glass of milk)
 
 Lord Farquaad: (stepping forward) That's enough. He's ready to talk.
 
-Gingy is pulled out of the milk by Thelonious and is slammed down onto a cookie sheet. Lord Farquaad l
+Gingy is pulled out of the milk by Thelonious and is slammed down onto a cookie sheet. Lord Farquaad la
