@@ -1,4 +1,4 @@
-<pre>Number of characters written: 30429
+<pre>Number of characters written: 30430
 Times rewritten: 0
 
 
@@ -757,4 +757,4 @@ goes silent. Shrek stops laughing)
 
 Guard: Shall I give the order, sir?
 
-Lord Farquaad: No, I have a better
+Lord Farquaad: No, I have a better 
