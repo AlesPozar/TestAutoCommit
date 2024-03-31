@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17234
+<pre>Number of characters written: 17235
 Times rewritten: 0
 
 
@@ -445,4 +445,4 @@ Shrek: Oh! (to Donkey) You! You're coming with me.
 (Shrek brushes the cloak onto the ground, while the birds come back to place a wreath of 
 flowers on Donkey's head. They make their through the crowd)
 
-Donkey: All right, that's what I like to hear, man. Shrek and Donkey, 2 
+Donkey: All right, that's what I like to hear, man. Shrek and Donkey, 2 s
