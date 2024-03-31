@@ -1,4 +1,4 @@
-<pre>Number of characters written: 23985
+<pre>Number of characters written: 23986
 Times rewritten: 0
 
 
@@ -617,4 +617,4 @@ Donkey: But that's it. That's it right there. That's Duloc. I told ya I'd find i
 
 Shrek: So, that must be Lord Farquaad's castle.
 
-Donkey: Uh-hu
+Donkey: Uh-huh
