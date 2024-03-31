@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17699
+<pre>Number of characters written: 17700
 Times rewritten: 0
 
 
@@ -457,4 +457,4 @@ Donkey: "I can't wait to get on the road again."
 
 Shrek: What did I say about singing? (yanks the wreath off Donkey's head)
 
-Donkey: Can I whistle
+Donkey: Can I whistle?
