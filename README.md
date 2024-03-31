@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26963
+<pre>Number of characters written: 26964
 Times rewritten: 0
 
 
@@ -684,4 +684,4 @@ ARENA
 from the stands. Horses, kegs of beer, arrow targets, and other equipment are scattered about. Farquaad is 
 atop a high up balcony, flanked by two guards, addressing the crowd. Shrek and Donkey step out onto the 
 arena but don't seem to be noticed)
-
+
