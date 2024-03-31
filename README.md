@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1322
+<pre>Number of characters written: 1323
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -30,4 +30,4 @@ _____________________________________________________________________
 
 
 (The DreamWorks Pictures SKG logo plays out, with dreamy music playing underneath. At the end of the logo,
-the S's in "DreamWorks" and "SKG" turn green and grow out ogre ears, matching the 
+the S's in "DreamWorks" and "SKG" turn green and grow out ogre ears, matching the f
