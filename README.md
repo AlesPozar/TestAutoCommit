@@ -1,4 +1,4 @@
-<pre>Number of characters written: 16084
+<pre>Number of characters written: 16085
 Times rewritten: 0
 
 
@@ -414,4 +414,4 @@ Shrek: By who?!
 
 Little Pig: Lord Farquaad. He huffed and he puffed and he...signed an eviction notice.
 
-Shrek: (sighs) Alright. Who knows where this... "Farquaad" 
+Shrek: (sighs) Alright. Who knows where this... "Farquaad" g
