@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20392
+<pre>Number of characters written: 20393
 Times rewritten: 0
 
 
@@ -534,4 +534,4 @@ Lord Farquaad: Evening. Mirror, mirror on the wall, is this not the most perfect
 Magic Mirror: Well, technically you're not a king.
 
 Lord Farquaad: Uh, Thelonius. (Thelonius holds up a hand mirror and smashes it with his fist) 
-Y
+Yo
