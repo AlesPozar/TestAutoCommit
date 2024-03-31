@@ -1,4 +1,4 @@
-<pre>Number of characters written: 28098
+<pre>Number of characters written: 28099
 Times rewritten: 0
 
 
@@ -711,3 +711,4 @@ Lord Farquaad: Indeed. Knights, new plan! The one who kills the ogre will be nam
 up, the crowd cheering them on)
 
 Crowd: Get him!
+
