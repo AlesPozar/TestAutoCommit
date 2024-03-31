@@ -1,4 +1,4 @@
-<pre>Number of characters written: 2037
+<pre>Number of characters written: 2038
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -42,4 +42,4 @@ terrible fire-breathing dragon. Many brave knights had attempted to free her fro
 but none prevailed. She waited in the dragon's keep in the highest room of the tallest tower. For her true 
 love and true love's first kiss.
 
-(Shrek chuckles and 
+(Shrek chuckles and r
