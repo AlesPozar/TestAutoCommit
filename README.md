@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31603
+<pre>Number of characters written: 31604
 Times rewritten: 0
 
 
@@ -794,3 +794,4 @@ Shrek is munching on an onion)
 Donkey: Let me get this straight. You're gonna go fight a dragon and rescue a princess just so Farquaad 
 will give you back a swamp which you only don't have because he filled it full of freaks in the first 
 place. Is that about right?
+
