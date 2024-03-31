@@ -1,4 +1,4 @@
-<pre>Number of characters written: 16945
+<pre>Number of characters written: 16946
 Times rewritten: 0
 
 
@@ -438,4 +438,4 @@ officially worn out! In fact, They Saw That guy Farquaad right now and get you a
 back where you came from!
 
 (After a brief silence, the crowd erupts into cheering and applause. This was not Shrek's intention. 
-A group of birds drapes a cloak made of flowers around Shrek's shoulders, much to his annoya
+A group of birds drapes a cloak made of flowers around Shrek's shoulders, much to his annoyan
