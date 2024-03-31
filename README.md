@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19296
+<pre>Number of characters written: 19297
 Times rewritten: 0
 
 
@@ -498,4 +498,4 @@ Gingy: No, no, not the buttons. Not my gumdrop buttons!
 
 Lord Farquaad: All right then. Who's hiding them?
 
-Gingy: Okay,
+Gingy: Okay, 
