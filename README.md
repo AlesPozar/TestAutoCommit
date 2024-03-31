@@ -1,4 +1,4 @@
-<pre>Number of characters written: 99280
+<pre>Number of characters written: 99281
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2718,3 +2718,4 @@ in their carriage. Cut to a storybook that reads "And they lived ugly ever after
 Donkey: (as he's done singing and we fade to black) Oh, that's funny. Oh. Oh. I can't breathe. 
 I can't breathe.
 
+T
