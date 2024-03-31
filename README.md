@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19592
+<pre>Number of characters written: 19593
 Times rewritten: 0
 
 
@@ -511,4 +511,4 @@ Gingy: Well, she's married to the muffin man.
 Lord Farquaad: (Shocked) The muffin man?
 
 Gingy: The muffin man!
-
+
