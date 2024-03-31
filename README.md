@@ -1,4 +1,4 @@
-<pre>Number of characters written: 24080
+<pre>Number of characters written: 24081
 Times rewritten: 0
 
 
@@ -621,4 +621,4 @@ Donkey: Uh-huh. That's the place.
 
 Shrek: Do you think maybe he's compensating for something?
 
-(Shrek la
+(Shrek lau
