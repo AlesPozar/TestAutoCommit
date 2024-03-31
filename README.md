@@ -1,4 +1,4 @@
-<pre>Number of characters written: 22264
+<pre>Number of characters written: 22265
 Times rewritten: 0
 
 
@@ -571,4 +571,4 @@ dragon-guarded castle surrounded by hot boiling lava!
 A bright fire shines on the screen and Lord Farquaad covers his eyes. 
 This doesn't seem to deter his interest)
 
-Magic Mirror: But don't let that cool you off. She's a
+Magic Mirror: But don't let that cool you off. She's a 
