@@ -1,4 +1,4 @@
-<pre>Number of characters written: 98998
+<pre>Number of characters written: 98999
 Times rewritten: 1
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2712,4 +2712,4 @@ somewhat and now has one leg and walks with a candy cane cane.
 
 Gingy: God bless us, every one.
 
-The guests party and dance as Don
+The guests party and dance as Donk
