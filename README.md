@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27901
+<pre>Number of characters written: 27902
 Times rewritten: 0
 
 
@@ -705,4 +705,4 @@ Shrek: Ah, that's not very nice (looks at Donkey and then back at Lord Farquaad)
 
 (Donkey looks confused, the joke Was once again lost on him)
 
-Lord Farquaad: Indeed. Knights, new plan! The one who kills the ogre will
+Lord Farquaad: Indeed. Knights, new plan! The one who kills the ogre will 
