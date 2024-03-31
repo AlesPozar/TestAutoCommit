@@ -1,4 +1,4 @@
-<pre>Number of characters written: 2273
+<pre>Number of characters written: 2274
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -48,4 +48,4 @@ Shrek: Like that's ever gonna happen. What a load of - (toilet flushes)
 
 ("All Star" by Smash Mouth Playing)
 
-(We see an outhouse and hear the sound of a toilet flush
+(We see an outhouse and hear the sound of a toilet flushi
