@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17778
+<pre>Number of characters written: 17779
 Times rewritten: 0
 
 
@@ -463,4 +463,4 @@ Shrek: No.
 
 Donkey: Well, can I hum it?
 
-Shrek: (annoyed) All right, h
+Shrek: (annoyed) All right, hu
