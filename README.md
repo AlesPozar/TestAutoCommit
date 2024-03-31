@@ -1,4 +1,4 @@
-<pre>Number of characters written: 2763
+<pre>Number of characters written: 2764
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -54,4 +54,4 @@ home, and goes about his daily routine. Which is taking a mud shower, brushing h
 bathing in a muddy pond, gathering giant slugs for dinner, and painting a warning sign)
 
 (In a nearby village, an angry mob gather up to go after Shrek. At night they gather their torches and 
-pitchforks and enter the swamp, tr
+pitchforks and enter the swamp, tra
