@@ -1,4 +1,4 @@
-<pre>Number of characters written: 21332
+<pre>Number of characters written: 21333
 Times rewritten: 0
 
 
@@ -552,4 +552,4 @@ sushi and hot tubbing anytime! Her hobbies include cooking and cleaning for her 
 
 (An image of Cinderella doing housework flips to a portrait of Cinderella in her ball gown putting on the 
 glass slipper. Lord Farquaad looks at her approvingly and the Captain claps)
-
+
