@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20451
+<pre>Number of characters written: 20452
 Times rewritten: 0
 
 
@@ -536,4 +536,4 @@ Magic Mirror: Well, technically you're not a king.
 Lord Farquaad: Uh, Thelonius. (Thelonius holds up a hand mirror and smashes it with his fist) 
 You were saying?
 
-Magic Mirror: What I mean is you're not 
+Magic Mirror: What I mean is you're not a
