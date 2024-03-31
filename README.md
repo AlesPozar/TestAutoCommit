@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14410
+<pre>Number of characters written: 14411
 Times rewritten: 0
 
 
@@ -367,4 +367,4 @@ sleeping in her glass coffin, on the table)
 
 Shrek: Oh, no, no, no. Dead broad off the table! (pushes the coffin away)
 
-Dwarf: Where are we supposed to put her
+Dwarf: Where are we supposed to put her?
