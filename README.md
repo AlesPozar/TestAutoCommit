@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1180
+<pre>Number of characters written: 1181
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -29,4 +29,4 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 
-(The DreamWorks Pictures SKG logo plays out, wit
+(The DreamWorks Pictures SKG logo plays out, with
