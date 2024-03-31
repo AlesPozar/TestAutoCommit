@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19160
+<pre>Number of characters written: 19161
 Times rewritten: 0
 
 
@@ -492,4 +492,4 @@ Now, tell me! Where are the others?!
 Gingy: Eat me! (spits at Lord Farquaad)
 
 Lord Farquaad: Ugh! I've tried to be fair to you creatures. Now my patience has reached its end! Tell me 
-or I'll...(he grabs one of Gingy's gumdrop 
+or I'll...(he grabs one of Gingy's gumdrop b
