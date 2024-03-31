@@ -1,4 +1,4 @@
-<pre>Number of characters written: 25313
+<pre>Number of characters written: 25314
 Times rewritten: 0
 
 
@@ -649,3 +649,4 @@ DULOC - INTERIOR
 rows of houses all looked exactly the same. Chirpy music quietly plays from a set of loudspeakers)
 
 Shrek: It's quiet. Too quiet. Where is everybody?
+
