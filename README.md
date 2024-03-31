@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3292
+<pre>Number of characters written: 3293
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -68,4 +68,4 @@ Villager 1: Whoa. Hold on. Do you know what that thing can do to you?
 
 Villager 3: Yeah, it'll grind your bones for its bread.
 
-(Shrek chuckles, revealing himself to be standing behind t
+(Shrek chuckles, revealing himself to be standing behind th
