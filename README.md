@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15856
+<pre>Number of characters written: 15857
 Times rewritten: 0
 
 
@@ -406,3 +406,4 @@ Donkey: Hey, don't look at me. I didn't invite them.
 
 Pinocchio: Well gosh, no one invited us.
 
+S
