@@ -1,4 +1,4 @@
-<pre>Number of characters written: 99165
+<pre>Number of characters written: 99166
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2715,4 +2715,4 @@ Gingy: God bless us, every one.
 The guests party and dance as Donkey takes over singing The Monkees song. Shrek and Fiona ride away 
 in their carriage. Cut to a storybook that reads "And they lived ugly ever after...THE END".
 
-Do
+Don
