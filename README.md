@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14572
+<pre>Number of characters written: 14573
 Times rewritten: 0
 
 
@@ -373,4 +373,4 @@ Shrek: (confused) Huh?
 
 (Shrek walks over to the bedroom and throws back the curtain. The Big Bad Wolf is laying in the bed)
 
-Big Bad Wo
+Big Bad Wol
