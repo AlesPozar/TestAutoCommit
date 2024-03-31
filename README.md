@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15561
+<pre>Number of characters written: 15562
 Times rewritten: 0
 
 
@@ -396,4 +396,4 @@ Shrek: All right, get out of here. All of you, move it! Come on! Let's go! Hapay
 
 Dwarves: Quickly. Come on!
 
-(More dwarves run in
+(More dwarves run ins
