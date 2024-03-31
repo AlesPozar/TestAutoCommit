@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15522
+<pre>Number of characters written: 15523
 Times rewritten: 0
 
 
@@ -394,4 +394,4 @@ Shrek: WHAT ARE YOU DOING IN MY SWAMP?!!
 
 Shrek: All right, get out of here. All of you, move it! Come on! Let's go! Hapaya! Hapaya! Hey!
 
-Dwarves: Qu
+Dwarves: Qui
