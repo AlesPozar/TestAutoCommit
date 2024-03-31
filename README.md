@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31553
+<pre>Number of characters written: 31554
 Times rewritten: 0
 
 
@@ -792,4 +792,4 @@ DULOC - EXTERIOR
 Shrek is munching on an onion)
 
 Donkey: Let me get this straight. You're gonna go fight a dragon and rescue a princess just so Farquaad 
-will give you back a swamp which you only don't have because he filled it full of f
+will give you back a swamp which you only don't have because he filled it full of fr
