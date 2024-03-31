@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17044
+<pre>Number of characters written: 17045
 Times rewritten: 0
 
 
@@ -442,4 +442,4 @@ A group of birds drapes a cloak made of flowers around Shrek's shoulders, much t
 
 Shrek: Oh! (to Donkey) You! You're coming with me.
 
-(Shrek brushes the cloak onto the gro
+(Shrek brushes the cloak onto the grou
