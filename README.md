@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15424
+<pre>Number of characters written: 15425
 Times rewritten: 0
 
 
@@ -392,4 +392,4 @@ Shrek: WHAT ARE YOU DOING IN MY SWAMP?!!
 (Shrek's voice echoes throughout the camp and everyone falls silent. Gasps are heard all around. The 3 Good
  Fairies hide inside a tent)
 
-Shrek: All r
+Shrek: All ri
