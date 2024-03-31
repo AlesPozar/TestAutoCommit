@@ -1,4 +1,4 @@
-<pre>Number of characters written: 30776
+<pre>Number of characters written: 30777
 Times rewritten: 0
 
 
@@ -769,4 +769,4 @@ Shrek: Quest? I'm already on a quest. A quest to get my swamp back.
 
 Lord Farquaad: Your swamp?
 
-Shrek: Yeah, my swamp! Where you 
+Shrek: Yeah, my swamp! Where you d
