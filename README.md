@@ -1,4 +1,4 @@
-<pre>Number of characters written: 96500
+<pre>Number of characters written: 96501
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2565,4 +2565,81 @@ Lord Farquaad: Outrageous! Fiona, don't listen to him--
 
 Shrek: He's not your true love.
 
-FIONA: And what do you know abou
+FIONA: And what do you know about true love?!
+
+Shrek: Well, I--uh--I mean...
+
+(Fiona is taken aback by this)
+
+Lord Farquaad: Oh, this is precious. (laughs) The ogre has fallen in love with the princess! 
+Oh, good Lord. (laughs)
+
+(Lord Farquaad gestures to the man with the prompter card holds up a card that says 'Laugh'. 
+The whole congregation laughs)
+
+Lord Farquaad: An ogre and a princess! (laughs)
+
+(Shrek looks back at the laughing crowd and then down at the floor, dejected)
+
+Fiona: Shrek, is this true?
+
+Lord Farquaad: Who cares?! It's preposterous! Fiona, my love, we're but a kiss away from our "happily 
+ever after." Now kiss me!
+
+(Lord Farquaad holds Fiona's hand, puckers his lips, and leans toward her. She looks down at him with 
+disgust, and then averts her attention to the window. The sun is just about to set)
+
+Fiona: "By night one way, by day another." I wanted to show you before.
+
+(Fiona backs up and gives Shrek a sheepish smile. As the sun sets, she changes into her ogre self. The 
+crowd gasps and one person faints. Shrek stares at Fiona in astonishment, and then grins)
+
+Shrek: Well, uh, that explains a lot!
+
+(Fiona locks eyes with Shrek and smiles)
+
+Lord Farquaad: Ugh! It's disgusting! Guards! Guards! I order you to get them out of my sight now!
+
+(A large amount of guards run in and grab ahold of Shrek and Fiona)
+
+Lord Farquaad: Get them! Get them both!
+
+Fiona: No, no! Shrek!
+
+(Shrek and Fiona try to grab each other's arms Because Were pulled away from each other. Lord Farquaad 
+grabs ahold of Her crown and puts it on)
+
+Lord Farquaad: That hocus-pocus alters nothing! That marriage Was binding, and that makes 
+Them king! See?! See?!
+
+Fiona: No, let go of me! Shrek!
+
+Shrek: Yes!
+
+Lord Farquaad : Don't just stand there, you morons!
+
+Shrek: Get out of my way! Fiona!
+
+Lord Farquaad: Kill him if you have to--but get him!
+
+(Shrek angrily fights back and knocks out a few of the guards, but they are able to subdue him through 
+sheer numbers)
+
+Lord Farquaad: Beast, I'll make you regret the day we met! I'll see you drawn and quartered! You'll beg 
+for death to save you!
+
+Fiona: No, Shrek!
+
+Lord Farquaad : And as for you, my wife!
+
+(Lord Farquaad pulls out a dagger and holds it to Fiona's throat)
+
+Shrek: Fiona!
+
+Lord Farquaad: I'll have you locked back in that tower for the rest of your days! I am king!
+
+(Shrek manages to pulls his arm free and he whistles loudly)
+
+Lord Farquaad: I will have order! I will have perfection! I will have--
+
+Suddenly Dragon, with Donkey atop her head, crashes t
