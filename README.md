@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14170
+<pre>Number of characters written: 14171
 Times rewritten: 0
 
 
@@ -360,4 +360,4 @@ Blind Mouse: Is that you, Gorder?
 Gorder: How did you know?
 
 Shrek: Enough! (he grabs all 3 mice) What are you doing in my house? 
-(He gets bumped from behind and he drops the mice) He
+(He gets bumped from behind and he drops the mice) Hey
