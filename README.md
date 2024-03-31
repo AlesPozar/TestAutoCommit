@@ -1,4 +1,4 @@
-<pre>Number of characters written: 22603
+<pre>Number of characters written: 22604
 Times rewritten: 0
 
 
@@ -578,4 +578,4 @@ caught in the rain. Yours for the rescuing, Princess Fiona!
 Once again everyone else claps)
 
 Magic Mirror: So, will it be: bachelorette number 1, bachelorette number 2, or bachelorette number 3?
-
+
