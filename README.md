@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13374
+<pre>Number of characters written: 13375
 Times rewritten: 0
 
 
@@ -336,3 +336,4 @@ bite when he hears a creaking noise. He stands up with a huff)
 
 Shrek: (to Donkey) I thought I told you to stay outside!
 
+D
