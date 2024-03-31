@@ -1,4 +1,4 @@
-<pre>Number of characters written: 18741
+<pre>Number of characters written: 18742
 Times rewritten: 0
 
 
@@ -484,4 +484,4 @@ Lord Farquaad: (he picks up the Gingy's severed legs and plays with them) Run, r
 can. You can't catch me. I'm the gingerbread man!
 
 Gingy: You're a monster!
-
+
