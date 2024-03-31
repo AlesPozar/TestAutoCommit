@@ -1,4 +1,4 @@
-<pre>Number of characters written: 30840
+<pre>Number of characters written: 30841
 Times rewritten: 0
 
 
@@ -771,4 +771,4 @@ Lord Farquaad: Your swamp?
 
 Shrek: Yeah, my swamp! Where you dumped those fairy tale creatures!
 
-Lord Farquaad: Indeed. All
+Lord Farquaad: Indeed. All 
