@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19229
+<pre>Number of characters written: 19230
 Times rewritten: 0
 
 
@@ -495,3 +495,4 @@ Lord Farquaad: Ugh! I've tried to be fair to you creatures. Now my patience has 
 or I'll...(he grabs one of Gingy's gumdrop buttons)
 
 Gingy: No, no, not the buttons. Not my gumdrop buttons!
+
