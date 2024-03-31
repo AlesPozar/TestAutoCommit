@@ -1,4 +1,4 @@
-<pre>Number of characters written: 24901
+<pre>Number of characters written: 24902
 Times rewritten: 0
 
 
@@ -640,4 +640,4 @@ through the roped path to get to the front gate)
 Shrek: Wait a second. Look, I'm not gonna eat you. I just-- I just --
 
 (Shrek sighs in frustration and then begins pushing his way through the ropes. The mascot runs into a wall 
-and knocks himself out. Shrek pushes through the entrance's turn
+and knocks himself out. Shrek pushes through the entrance's turns
