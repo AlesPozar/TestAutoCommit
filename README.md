@@ -1,4 +1,4 @@
-<pre>Number of characters written: 29735
+<pre>Number of characters written: 29736
 Times rewritten: 0
 
 
@@ -744,4 +744,4 @@ Shrek: Yeah!
 
 Woman: The chair! Give him the chair!
 
-(Shrek use
+(Shrek uses
