@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27976
+<pre>Number of characters written: 27977
 Times rewritten: 0
 
 
@@ -707,4 +707,4 @@ Shrek: Ah, that's not very nice (looks at Donkey and then back at Lord Farquaad)
 
 Lord Farquaad: Indeed. Knights, new plan! The one who kills the ogre will be named champion! Have at him!
 
-(Lord Farquaad points at Shrek. The Dul
+(Lord Farquaad points at Shrek. The Dulo
