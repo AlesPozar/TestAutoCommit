@@ -1,4 +1,4 @@
-<pre>Number of characters written: 22194
+<pre>Number of characters written: 22195
 Times rewritten: 0
 
 
@@ -569,4 +569,4 @@ dragon-guarded castle surrounded by hot boiling lava!
 
 (The mirror shows an image of a giant dragon besides a tower and then of a giant castle surrounded by lava. 
 A bright fire shines on the screen and Lord Farquaad covers his eyes. 
-This doesn't seem to deter h
+This doesn't seem to deter hi
