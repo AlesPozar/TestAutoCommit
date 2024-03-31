@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20539
+<pre>Number of characters written: 20540
 Times rewritten: 0
 
 
@@ -539,4 +539,4 @@ You were saying?
 Magic Mirror: What I mean is you're not a king yet. But you can become one. 
 All you have to do is marry a princess.
 
-Lord Fa
+Lord Far
