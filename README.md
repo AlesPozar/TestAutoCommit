@@ -1,4 +1,4 @@
-<pre>Number of characters written: 21055
+<pre>Number of characters written: 21056
 Times rewritten: 0
 
 
@@ -548,4 +548,4 @@ today's eligible bachelorettes. And...here they are!
 portraits of princesses. Lord Farquaad seems confused but watches on silently)
 
 Magic Mirror: Bachelorette number 1 is a mentally abused shut-in from a kingdom far, far away. She likes 
-sushi and hot tubbing anytime! Her hob
+sushi and hot tubbing anytime! Her hobb
