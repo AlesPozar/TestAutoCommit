@@ -1,4 +1,4 @@
-<pre>Number of characters written: 24184
+<pre>Number of characters written: 24185
 Times rewritten: 0
 
 
@@ -623,4 +623,4 @@ Shrek: Do you think maybe he's compensating for something?
 
 (Shrek laughs, but then groans as Donkey doesn't get the joke. 
 He continues walking through the parking lot)
-
+
