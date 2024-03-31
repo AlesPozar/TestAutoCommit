@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15091
+<pre>Number of characters written: 15092
 Times rewritten: 0
 
 
@@ -384,4 +384,4 @@ Shrek: I live in a swamp. I put up signs. I'm a terrifying ogre! What do I have 
 
 Shrek: Oh, no. Oh, no. No! No! (he dodges out the way of a group of witches flying on broomsticks)
 
-(Papa Bear and Little Bear sit around the fire, the Pied Piper is playi
+(Papa Bear and Little Bear sit around the fire, the Pied Piper is playin
