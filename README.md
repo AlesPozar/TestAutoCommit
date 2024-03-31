@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14509
+<pre>Number of characters written: 14510
 Times rewritten: 0
 
 
@@ -371,4 +371,4 @@ Dwarf: Where are we supposed to put her? The bed's taken.
 
 Shrek: (confused) Huh?
 
-(Shrek walks over to the bedroom and throws back th
+(Shrek walks over to the bedroom and throws back the
