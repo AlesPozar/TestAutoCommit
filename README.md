@@ -1,4 +1,4 @@
-<pre>Number of characters written: 15955
+<pre>Number of characters written: 15956
 Times rewritten: 0
 
 
@@ -412,4 +412,4 @@ Pinocchio: We were forced to come here!
 
 Shrek: By who?!
 
-Little Pig: Lord Far
+Little Pig: Lord Farq
