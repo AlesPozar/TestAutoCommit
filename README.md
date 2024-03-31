@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27076
+<pre>Number of characters written: 27077
 Times rewritten: 0
 
 
@@ -686,4 +686,4 @@ atop a high up balcony, flanked by two guards, addressing the crowd. Shrek and D
 arena but don't seem to be noticed)
 
 Lord Farquaad: That champion shall have the honor-- no, no -- the privilege to go forth and rescue the 
-lovely 
+lovely P
