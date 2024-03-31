@@ -1,4 +1,4 @@
-<pre>Number of characters written: 26591
+<pre>Number of characters written: 26592
 Times rewritten: 0
 
 
@@ -677,4 +677,4 @@ prove himself better and brighter than all the rest.
 Shrek: All right, you're going the right way for a smacked bottom.
 
 Donkey: Sorry about that.
-
+
