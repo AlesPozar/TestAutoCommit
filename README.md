@@ -1,4 +1,4 @@
-<pre>Number of characters written: 31676
+<pre>Number of characters written: 31677
 Times rewritten: 0
 
 
@@ -796,4 +796,4 @@ will give you back a swamp which you only don't have because he filled it full o
 place. Is that about right?
 
 Shrek: You know, maybe there's a good reason donkeys shouldn't talk.
-
+
