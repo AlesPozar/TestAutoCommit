@@ -1,4 +1,4 @@
-<pre>Number of characters written: 29596
+<pre>Number of characters written: 29597
 Times rewritten: 0
 
 
@@ -740,4 +740,4 @@ top of the ropes and beckons on the crowd's cheers)
 
 Shrek: Yeah!
 
-(A knigh
+(A knight
