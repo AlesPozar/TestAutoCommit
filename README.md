@@ -1,4 +1,4 @@
-<pre>Number of characters written: 16304
+<pre>Number of characters written: 16305
 Times rewritten: 0
 
 
@@ -422,4 +422,4 @@ Donkey: Oh, I do. I know where he is!
 
 Shrek: Does anyone else know where to find him?
 
-(Little Bear raises his hand but Papa Bear quick
+(Little Bear raises his hand but Papa Bear quickl
