@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20868
+<pre>Number of characters written: 20869
 Times rewritten: 0
 
 
@@ -545,4 +545,4 @@ Magic Mirror: (chuckles nervously) So, just sit back and relax, my lord, because
 today's eligible bachelorettes. And...here they are!
 
 (Bouncy gameshow music begins to play. Using himself as a screen, the Magic Mirror reveals three shadowy 
-portraits of princesses. Lord Farquaad s
+portraits of princesses. Lord Farquaad se
