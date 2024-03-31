@@ -1,4 +1,4 @@
-<pre>Number of characters written: 24155
+<pre>Number of characters written: 24156
 Times rewritten: 0
 
 
@@ -622,4 +622,4 @@ Donkey: Uh-huh. That's the place.
 Shrek: Do you think maybe he's compensating for something?
 
 (Shrek laughs, but then groans as Donkey doesn't get the joke. 
-He continues walkin
+He continues walking
