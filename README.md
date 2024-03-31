@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14601
+<pre>Number of characters written: 14602
 Times rewritten: 0
 
 
@@ -375,4 +375,4 @@ Shrek: (confused) Huh?
 
 Big Bad Wolf: What?
 
-(Shrek now has t
+(Shrek now has th
