@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20102
+<pre>Number of characters written: 20103
 Times rewritten: 0
 
 
@@ -527,4 +527,4 @@ Gingy: Ohhhh...
 
 Lord Farquaad: Magic mirror...
 
-Gingy: Don't tell him anything! (Lord Farquaad smacks him off the t
+Gingy: Don't tell him anything! (Lord Farquaad smacks him off the ta
