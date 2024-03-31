@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13752
+<pre>Number of characters written: 13753
 Times rewritten: 0
 
 
@@ -345,4 +345,4 @@ Mouse 1: Well, gents, it's a far cry from the farm, but what choice do we have?
 
 Mouse 2: It's not home, but it'll do just fine.
 
-Gorder: (bouncing on a slug) What a lovely be
+Gorder: (bouncing on a slug) What a lovely bed
