@@ -1,4 +1,4 @@
-<pre>Number of characters written: 16258
+<pre>Number of characters written: 16259
 Times rewritten: 0
 
 
@@ -422,4 +422,4 @@ Donkey: Oh, I do. I know where he is!
 
 Shrek: Does anyone else know where to find him?
 
-(L
+(Li
