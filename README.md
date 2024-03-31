@@ -1,4 +1,4 @@
-<pre>Number of characters written: 17469
+<pre>Number of characters written: 17470
 Times rewritten: 0
 
 
@@ -451,3 +451,4 @@ whirlwind big-city adventure. I love it!
 Donkey: (singing) "On the road again...", sing it with me, Shrek!
 
 (as they walk away from the crowd Shrek grabs the torch from a dwarf cheering them on, who 
+r
