@@ -1,4 +1,4 @@
-<pre>Number of characters written: 23937
+<pre>Number of characters written: 23938
 Times rewritten: 0
 
 
@@ -615,4 +615,4 @@ Donkey: But that's it. That's it right there. That's Duloc. I told ya I'd find i
 
 (The 2 gaze up at Duloc Castle, a building that towers over the rest of the kingdom)
 
-Shrek: So, that 
+Shrek: So, that m
