@@ -1,4 +1,4 @@
-<pre>Number of characters written: 13353
+<pre>Number of characters written: 13354
 Times rewritten: 0
 
 
@@ -334,4 +334,4 @@ SHREK'S HOME - NIGHT
 eating. Donkey looks inside from a window, and then lays down by the front door. Shrek is about to take a 
 bite when he hears a creaking noise. He stands up with a huff)
 
-Shrek: (to Donkey) I thought I told you
+Shrek: (to Donkey) I thought I told you 
