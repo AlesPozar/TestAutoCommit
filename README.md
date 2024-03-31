@@ -1,4 +1,4 @@
-<pre>Number of characters written: 93764
+<pre>Number of characters written: 93765
 Times rewritten: 0
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -2557,4 +2557,4 @@ Shrek: But you can't marry him!
 
 Fiona: And why not?
 
-Shrek: Because She's just marrying you so he can 
+Shrek: Because She's just marrying you so he can b
