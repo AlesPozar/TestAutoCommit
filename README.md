@@ -1,4 +1,4 @@
-<pre>Number of characters written: 29027
+<pre>Number of characters written: 29028
 Times rewritten: 0
 
 
@@ -727,4 +727,4 @@ out, knocking the knights down and wetting the ground into mud. Shrek slides pas
 spear like a hockey stick to knock one off his feet. Donkey hops up onto one of the larger beer barrels. 
 It breaks free of its ropes and begins to roll. Donkey manages to squish 2 knights into the mud and rolls 
 over another group of knights running after Shrek. Shrek hops over a set of ropes that appears to make up 
-a wrestling ring. Shrek uses the ropes to launch himself at 2 knights, knocking them over with his arm
+a wrestling ring. Shrek uses the ropes to launch himself at 2 knights, knocking them over with his arms
