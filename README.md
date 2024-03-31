@@ -1,4 +1,4 @@
-<pre>Number of characters written: 14086
+<pre>Number of characters written: 14087
 Times rewritten: 0
 
 
@@ -359,4 +359,4 @@ Blind Mouse: Is that you, Gorder?
 
 Gorder: How did you know?
 
-Shrek: Enough! (he grabs all 3 mice) Wha
+Shrek: Enough! (he grabs all 3 mice) What
