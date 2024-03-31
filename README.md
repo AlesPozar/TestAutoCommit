@@ -1,4 +1,4 @@
-<pre>Number of characters written: 27618
+<pre>Number of characters written: 27619
 Times rewritten: 0
 
 
@@ -697,4 +697,4 @@ Lord Farquaad: Let the tournament begin!
 
 (Shrek marches through the Duloc Knights, who back away in disgust upon noticing him)
 
-Lord Farquaad: Oh! What is that? It's hideou
+Lord Farquaad: Oh! What is that? It's hideous
