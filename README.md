@@ -1,4 +1,4 @@
-<pre>Number of characters written: 20724
+<pre>Number of characters written: 20725
 Times rewritten: 0
 
 
@@ -544,4 +544,4 @@ Lord Farquaad: Go on.
 Magic Mirror: (chuckles nervously) So, just sit back and relax, my lord, because it's time for you to meet
 today's eligible bachelorettes. And...here they are!
 
-(Bo
+(Bou
