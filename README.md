@@ -1,4 +1,4 @@
-<pre>Number of characters written: 25998
+<pre>Number of characters written: 25999
 Times rewritten: 0
 
 
@@ -663,4 +663,4 @@ make waves, stay in line and we'll get along fine / Duloc is perfect place / Ple
 
 Donkey: Wow! Let's do that again!
 
-(Donkey makes ready to
+(Donkey makes ready to 
