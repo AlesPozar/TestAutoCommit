@@ -1,4 +1,4 @@
-<pre>Number of characters written: 1163
+<pre>Number of characters written: 1164
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -29,4 +29,4 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 
-(The DreamWorks Pictures SKG lo
+(The DreamWorks Pictures SKG log
