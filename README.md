@@ -1,4 +1,4 @@
-<pre>Number of characters written: 19000
+<pre>Number of characters written: 19001
 Times rewritten: 0
 
 
@@ -489,4 +489,4 @@ Lord Farquaad: I'm not the monster here, you are. (throws one leg at Gingy) You 
 tale trash, poisoning my perfect world (crumbles his other leg into dust) 
 Now, tell me! Where are the others?!
 
-Gingy: Eat me! (spits at Lord Far
+Gingy: Eat me! (spits at Lord Farq
