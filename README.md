@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3594
+<pre>Number of characters written: 3595
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -80,4 +80,4 @@ Shrek: Now, ogres, oh they're much worse. They'll make a suit from your freshly 
 
 Villager: No!
 
-Shrek: They'll shave your liver. Squeez
+Shrek: They'll shave your liver. Squeeze
