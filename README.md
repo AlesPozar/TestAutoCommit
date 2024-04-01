@@ -1,4 +1,4 @@
-<pre>Number of characters written: 3425
+<pre>Number of characters written: 3426
 Times rewritten: 2
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -74,4 +74,4 @@ Shrek: Yes, well, actually, that would be a giant.
 
 (The mob gasps)
 
-Shrek: Now, ogres, oh they're much worse. They'll
+Shrek: Now, ogres, oh they're much worse. They'll 
